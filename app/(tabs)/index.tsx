@@ -1,98 +1,1440 @@
-import { Image } from 'expo-image';
-import { Platform, StyleSheet } from 'react-native';
+import { Ionicons } from '@expo/vector-icons';
+import AsyncStorage from '@react-native-async-storage/async-storage';
+import { useEffect, useMemo, useState } from 'react';
+import {
+  Linking,
+  Modal,
+  Platform,
+  Pressable,
+  ScrollView,
+  StyleSheet,
+  Text,
+  useWindowDimensions,
+  View,
+} from 'react-native';
+import {
+  campusList,
+  facultyCampusLoaders,
+  facultyList,
+} from '../../data/faculty-campus-map';
 
-import { HelloWave } from '@/components/hello-wave';
-import ParallaxScrollView from '@/components/parallax-scroll-view';
-import { ThemedText } from '@/components/themed-text';
-import { ThemedView } from '@/components/themed-view';
-import { Link } from 'expo-router';
+type CourseSlot = {
+  day: string;
+  period: number | null;
+};
+
+type Course = {
+  course_codes: number[];
+  course_title: string;
+  academic_year: number;
+  term: string;
+  schedule: string;
+  slots: CourseSlot[];
+  instructors: string[];
+  credits: number;
+  campus: string;
+  classroom: string;
+  is_online: boolean;
+  faculties: string[];
+  url: string;
+};
+
+type DayKey = 'Mon' | 'Tue' | 'Wed' | 'Thu' | 'Fri' | 'Sat' | 'Sun';
+type Period = 1 | 2 | 3 | 4 | 5 | 6 | 7;
+
+type Timetable = Record<DayKey, Record<Period, Course | null>>;
+type CellRef = { day: DayKey; period: Period };
+
+type TermOption = '春セメスター' | '秋セメスター';
+
+type Settings = {
+  faculty: string;
+  campus: string;
+  academicYear: number;
+  term: TermOption;
+  includeWeekend: boolean;
+  maxPeriod: Period;
+};
+
+const dayKeysAll: DayKey[] = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'];
+const periodKeysAll: Period[] = [1, 2, 3, 4, 5, 6, 7];
+const storageKey = 'timetable:v1';
+const settingsKey = 'timetable:settings:v1';
+const colorKey = 'timetable:colors:v1';
+
+const dayToJp: Record<DayKey, string> = {
+  Mon: '月',
+  Tue: '火',
+  Wed: '水',
+  Thu: '木',
+  Fri: '金',
+  Sat: '土',
+  Sun: '日',
+};
+
+const jpToDay: Record<string, DayKey> = {
+  月: 'Mon',
+  火: 'Tue',
+  水: 'Wed',
+  木: 'Thu',
+  金: 'Fri',
+  土: 'Sat',
+  日: 'Sun',
+};
+
+const defaultSettings: Settings = {
+  faculty: '全学部',
+  campus: '全キャンパス',
+  academicYear: 2026,
+  term: '春セメスター',
+  includeWeekend: false,
+  maxPeriod: 6,
+};
+
+const periodTimes: Record<Period, string> = {
+  1: '09:00-10:35',
+  2: '10:45-12:20',
+  3: '13:10-14:45',
+  4: '14:55-16:30',
+  5: '16:40-18:15',
+  6: '18:25-20:00',
+  7: '20:10-21:45',
+};
+
+const pastelColors = [
+  { name: 'Sky', value: '#CFE8FF' },
+  { name: 'Mint', value: '#CFF5E7' },
+  { name: 'Lavender', value: '#E6D9FF' },
+  { name: 'Peach', value: '#FFD9C7' },
+  { name: 'Butter', value: '#FFF1B8' },
+  { name: 'Rose', value: '#F9D3E4' },
+];
+
+const hitSlopSmall = { top: 6, bottom: 6, left: 6, right: 6 };
+const hitSlopMedium = { top: 10, bottom: 10, left: 10, right: 10 };
+
+const createEmptyTable = (): Timetable => {
+  return dayKeysAll.reduce((acc, day) => {
+    acc[day] = { 1: null, 2: null, 3: null, 4: null, 5: null, 6: null, 7: null };
+    return acc;
+  }, {} as Timetable);
+};
+
+const normalizeTable = (input: unknown): Timetable => {
+  const base = createEmptyTable();
+  if (!input || typeof input !== 'object') {
+    return base;
+  }
+  for (const day of dayKeysAll) {
+    const dayValue = (input as Timetable)[day];
+    if (!dayValue || typeof dayValue !== 'object') {
+      continue;
+    }
+    for (const period of periodKeysAll) {
+      const cell = (dayValue as Record<Period, Course | null>)[period];
+      if (cell && typeof cell === 'object') {
+        base[day][period] = cell as Course;
+      }
+    }
+  }
+  return base;
+};
+
+
+const loadStoredTable = async () => {
+  if (Platform.OS === 'web') {
+    const raw = window.localStorage.getItem(storageKey);
+    return raw ? JSON.parse(raw) : null;
+  }
+  const raw = await AsyncStorage.getItem(storageKey);
+  return raw ? JSON.parse(raw) : null;
+};
+
+const saveStoredTable = async (table: Timetable) => {
+  const payload = JSON.stringify(table);
+  if (Platform.OS === 'web') {
+    window.localStorage.setItem(storageKey, payload);
+    return;
+  }
+  await AsyncStorage.setItem(storageKey, payload);
+};
+
+const loadStoredSettings = async () => {
+  if (Platform.OS === 'web') {
+    const raw = window.localStorage.getItem(settingsKey);
+    return raw ? JSON.parse(raw) : null;
+  }
+  const raw = await AsyncStorage.getItem(settingsKey);
+  return raw ? JSON.parse(raw) : null;
+};
+
+const saveStoredSettings = async (settings: Settings) => {
+  const payload = JSON.stringify(settings);
+  if (Platform.OS === 'web') {
+    window.localStorage.setItem(settingsKey, payload);
+    return;
+  }
+  await AsyncStorage.setItem(settingsKey, payload);
+};
+
+const loadStoredColors = async () => {
+  if (Platform.OS === 'web') {
+    const raw = window.localStorage.getItem(colorKey);
+    return raw ? JSON.parse(raw) : null;
+  }
+  const raw = await AsyncStorage.getItem(colorKey);
+  return raw ? JSON.parse(raw) : null;
+};
+
+const saveStoredColors = async (colorMap: Record<string, string>) => {
+  const payload = JSON.stringify(colorMap);
+  if (Platform.OS === 'web') {
+    window.localStorage.setItem(colorKey, payload);
+    return;
+  }
+  await AsyncStorage.setItem(colorKey, payload);
+};
+
+const loadLocalCourses = (faculty: string, campus: string): Course[] => {
+  const facultyMap =
+    facultyCampusLoaders[faculty] ?? facultyCampusLoaders['全学部'];
+  const loader = facultyMap?.[campus] ?? facultyMap?.['全キャンパス'];
+  if (!loader) {
+    return [];
+  }
+  const data = loader();
+  return Array.isArray(data) ? (data as Course[]) : [];
+};
 
 export default function HomeScreen() {
-  return (
-    <ParallaxScrollView
-      headerBackgroundColor={{ light: '#A1CEDC', dark: '#1D3D47' }}
-      headerImage={
-        <Image
-          source={require('@/assets/images/partial-react-logo.png')}
-          style={styles.reactLogo}
-        />
-      }>
-      <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Welcome!</ThemedText>
-        <HelloWave />
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 1: Try it</ThemedText>
-        <ThemedText>
-          Edit <ThemedText type="defaultSemiBold">app/(tabs)/index.tsx</ThemedText> to see changes.
-          Press{' '}
-          <ThemedText type="defaultSemiBold">
-            {Platform.select({
-              ios: 'cmd + d',
-              android: 'cmd + m',
-              web: 'F12',
-            })}
-          </ThemedText>{' '}
-          to open developer tools.
-        </ThemedText>
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <Link href="/modal">
-          <Link.Trigger>
-            <ThemedText type="subtitle">Step 2: Explore</ThemedText>
-          </Link.Trigger>
-          <Link.Preview />
-          <Link.Menu>
-            <Link.MenuAction title="Action" icon="cube" onPress={() => alert('Action pressed')} />
-            <Link.MenuAction
-              title="Share"
-              icon="square.and.arrow.up"
-              onPress={() => alert('Share pressed')}
-            />
-            <Link.Menu title="More" icon="ellipsis">
-              <Link.MenuAction
-                title="Delete"
-                icon="trash"
-                destructive
-                onPress={() => alert('Delete pressed')}
-              />
-            </Link.Menu>
-          </Link.Menu>
-        </Link>
+  const { width: windowWidth, height: windowHeight } = useWindowDimensions();
+  const [table, setTable] = useState<Timetable>(() => createEmptyTable());
+  const [openCell, setOpenCell] = useState<CellRef | null>(null);
+  const [courses, setCourses] = useState<Course[]>([]);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState<string | null>(null);
+  const [hydrated, setHydrated] = useState(false);
+  const [settings, setSettings] = useState<Settings>(defaultSettings);
+  const [settingsOpen, setSettingsOpen] = useState(false);
+  const [facultyOptions] = useState<string[]>(() => [...facultyList]);
+  const [campusOptions] = useState<string[]>(() => [...campusList]);
+  const [colorMap, setColorMap] = useState<Record<string, string>>({});
+  const [selectedColor, setSelectedColor] = useState(pastelColors[0].value);
 
-        <ThemedText>
-          {`Tap the Explore tab to learn more about what's included in this starter app.`}
-        </ThemedText>
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 3: Get a fresh start</ThemedText>
-        <ThemedText>
-          {`When you're ready, run `}
-          <ThemedText type="defaultSemiBold">npm run reset-project</ThemedText> to get a fresh{' '}
-          <ThemedText type="defaultSemiBold">app</ThemedText> directory. This will move the current{' '}
-          <ThemedText type="defaultSemiBold">app</ThemedText> to{' '}
-          <ThemedText type="defaultSemiBold">app-example</ThemedText>.
-        </ThemedText>
-      </ThemedView>
-    </ParallaxScrollView>
+  useEffect(() => {
+    const hydrate = async () => {
+      try {
+        const [storedTable, storedSettings, storedColors] = await Promise.all([
+          loadStoredTable(),
+          loadStoredSettings(),
+          loadStoredColors(),
+        ]);
+        if (storedTable) {
+          setTable(normalizeTable(storedTable));
+        }
+        if (storedSettings) {
+          setSettings({ ...defaultSettings, ...storedSettings });
+        }
+        if (storedColors && typeof storedColors === 'object') {
+          setColorMap(storedColors as Record<string, string>);
+        }
+      } catch (err) {
+        setTable(createEmptyTable());
+      } finally {
+        setHydrated(true);
+      }
+    };
+
+    hydrate();
+  }, []);
+
+  useEffect(() => {
+    if (!hydrated) {
+      return;
+    }
+    saveStoredTable(table).catch(() => undefined);
+  }, [hydrated, table]);
+
+  useEffect(() => {
+    if (!hydrated) {
+      return;
+    }
+    saveStoredSettings(settings).catch(() => undefined);
+  }, [hydrated, settings]);
+
+  useEffect(() => {
+    if (!hydrated) {
+      return;
+    }
+    saveStoredColors(colorMap).catch(() => undefined);
+  }, [hydrated, colorMap]);
+
+  useEffect(() => {
+    if (!openCell) {
+      return;
+    }
+    const current = table[openCell.day][openCell.period];
+    if (current?.url && colorMap[current.url]) {
+      setSelectedColor(colorMap[current.url]);
+    } else {
+      setSelectedColor(pastelColors[0].value);
+    }
+  }, [openCell, table, colorMap]);
+
+  useEffect(() => {
+    if (!openCell) {
+      return;
+    }
+
+    const fetchCourses = async () => {
+      setLoading(true);
+      setError(null);
+      try {
+        const response = await fetch('/api/scrape', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            faculty: settings.faculty,
+            academic_year: settings.academicYear,
+            term: settings.term,
+            day: dayToJp[openCell.day],
+            period: openCell.period,
+          }),
+        });
+        if (!response.ok) {
+          throw new Error('Request failed');
+        }
+        const data = await response.json();
+        if (Array.isArray(data)) {
+          const nextCourses = data as Course[];
+          setCourses(nextCourses);
+        } else if (data && Array.isArray((data as { data: Course[] }).data)) {
+          const nextCourses = (data as { data: Course[] }).data;
+          setCourses(nextCourses);
+        } else {
+          setCourses([]);
+        }
+      } catch (err) {
+        const fallback = loadLocalCourses(settings.faculty, settings.campus);
+        setCourses(fallback);
+        setError('APIに接続できなかったため、ローカルデータを表示しています。');
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchCourses();
+  }, [openCell, settings]);
+
+  const selectedCourse = useMemo(() => {
+    if (!openCell) {
+      return null;
+    }
+    return table[openCell.day][openCell.period];
+  }, [openCell, table]);
+
+  const handleSelectCourse = (course: Course) => {
+    if (!openCell) {
+      return;
+    }
+    setTable((prev) => ({
+      ...prev,
+      [openCell.day]: {
+        ...prev[openCell.day],
+        [openCell.period]: course,
+      },
+    }));
+    setColorMap((prev) => ({
+      ...prev,
+      [course.url]: selectedColor,
+    }));
+    setOpenCell(null);
+  };
+
+  const handleClearCell = () => {
+    if (!openCell) {
+      return;
+    }
+    setTable((prev) => ({
+      ...prev,
+      [openCell.day]: {
+        ...prev[openCell.day],
+        [openCell.period]: null,
+      },
+    }));
+    // Keep the modal open so the course list is visible again.
+  };
+
+  const handleReset = () => {
+    setTable(createEmptyTable());
+  };
+
+  const formatInstructors = (course: Course) => {
+    return course.instructors.join(', ') || 'TBA';
+  };
+
+  const formatSchedule = (course: Course) => {
+    const slot = course.slots.find((item) => item.day && item.period);
+    if (!slot) {
+      return course.schedule || 'Flexible';
+    }
+    const day = jpToDay[slot.day] ?? slot.day;
+    const dayLabel = typeof day === 'string' ? day : '';
+    return `${dayLabel} P${slot.period}`;
+  };
+
+  const openSyllabus = () => {
+    if (selectedCourse?.url) {
+      Linking.openURL(selectedCourse.url).catch(() => undefined);
+    }
+  };
+
+  const openCourseSyllabus = (course?: Course | null) => {
+    if (course?.url) {
+      Linking.openURL(course.url).catch(() => undefined);
+    }
+  };
+
+  const termTitle = settings.term.replace('セメスター', '学期');
+  const todayIndex = new Date().getDay();
+  const todayKey: DayKey | null =
+    todayIndex === 0
+      ? 'Sun'
+      : todayIndex === 1
+        ? 'Mon'
+        : todayIndex === 2
+          ? 'Tue'
+          : todayIndex === 3
+            ? 'Wed'
+            : todayIndex === 4
+              ? 'Thu'
+              : todayIndex === 5
+                ? 'Fri'
+                : 'Sat';
+
+  const getCourseColor = (course?: Course | null) => {
+    if (!course) {
+      return '#FFFFFF';
+    }
+    return colorMap[course.url] ?? pastelColors[0].value;
+  };
+
+  const dayKeys = settings.includeWeekend
+    ? dayKeysAll
+    : (dayKeysAll.slice(0, 5) as DayKey[]);
+  const periodKeys = periodKeysAll.slice(0, settings.maxPeriod);
+
+  const gridGap = dayKeys.length > 5 ? 4 : 5;
+  const periodWidth = dayKeys.length > 5 ? 32 : 40;
+  const contentPadding = 4 * 2;
+  const cardPadding = 0;
+  const availableWidth = Math.max(0, windowWidth - contentPadding - cardPadding);
+  const cellWidthRaw =
+    (availableWidth - periodWidth - gridGap * dayKeys.length) / dayKeys.length;
+  const cellWidth = Math.max(20, Math.floor(cellWidthRaw));
+  const isCompact = cellWidth < 70;
+  const visiblePeriods = Math.min(periodKeys.length, 6);
+  const rowCount = visiblePeriods + 1;
+  const availableHeight = Math.max(0, windowHeight - 320);
+  const rowHeightRaw = Math.floor((availableHeight - gridGap * rowCount) / rowCount);
+  const rowHeight = Math.max(30, Math.min(56, rowHeightRaw));
+
+  const filteredCourses = useMemo(() => {
+    const slotDay = openCell ? dayToJp[openCell.day] : null;
+    return courses.filter((course) => {
+      const matchesFaculty =
+        settings.faculty === '全学部' || course.faculties.includes(settings.faculty);
+      const campusValue = course.campus ?? '';
+      const campusTokens = campusValue.split('/').map((token) => token.trim()).filter(Boolean);
+      const hasCampusMatch =
+        campusTokens.length > 0
+          ? campusTokens.includes(settings.campus)
+          : campusValue === settings.campus;
+      const matchesCampus =
+        settings.campus === '全キャンパス' ||
+        hasCampusMatch ||
+        campusValue === '*';
+      const matchesYear = course.academic_year === settings.academicYear;
+      const matchesTerm = course.term === settings.term;
+      const matchesSlot = openCell
+        ? course.slots.some(
+            (slot) => slot.day === slotDay && slot.period === openCell.period
+          )
+        : true;
+      return matchesFaculty && matchesCampus && matchesYear && matchesTerm && matchesSlot;
+    });
+  }, [courses, openCell, settings]);
+
+  const totalCredits = useMemo(() => {
+    const seen = new Set<string>();
+    let total = 0;
+    dayKeysAll.forEach((day) => {
+      periodKeysAll.forEach((period) => {
+        const course = table[day][period];
+        if (!course) {
+          return;
+        }
+        const key = course.url || `${day}-${period}`;
+        if (seen.has(key)) {
+          return;
+        }
+        seen.add(key);
+        const credits = Number(course.credits) || 0;
+        total += credits;
+      });
+    });
+    return total;
+  }, [table]);
+
+  const toggleWeekend = () => {
+    setSettings((prev) => ({ ...prev, includeWeekend: !prev.includeWeekend }));
+  };
+
+  const updateMaxPeriod = (value: Period) => {
+    setSettings((prev) => ({ ...prev, maxPeriod: value }));
+  };
+
+  const updateTerm = (value: TermOption) => {
+    setSettings((prev) => ({ ...prev, term: value }));
+  };
+
+  const updateYear = (value: number) => {
+    setSettings((prev) => ({ ...prev, academicYear: value }));
+  };
+
+  const updateFaculty = (value: string) => {
+    setSettings((prev) => ({ ...prev, faculty: value }));
+  };
+
+  const updateCampus = (value: string) => {
+    setSettings((prev) => ({ ...prev, campus: value }));
+  };
+
+  const updateSelectedColor = (value: string) => {
+    setSelectedColor(value);
+    if (selectedCourse) {
+      setColorMap((prev) => ({
+        ...prev,
+        [selectedCourse.url]: value,
+      }));
+    }
+  };
+
+  const isAutumnTerm = settings.term === '秋セメスター';
+
+  return (
+    <View style={styles.screen}>
+      <View style={styles.content}>
+        <View style={styles.topHeader}>
+          <Text style={[styles.termTitle, isAutumnTerm ? styles.termTitleAutumn : null]}>
+            {termTitle}
+          </Text>
+          <Text style={[styles.termSubtitle, isAutumnTerm ? styles.termSubtitleAutumn : null]}>
+            2026
+          </Text>
+        </View>
+
+        <View style={styles.card}>
+          <ScrollView
+            style={styles.gridScroll}
+            contentContainerStyle={[styles.grid, { gap: gridGap }]}
+            showsVerticalScrollIndicator={false}
+          >
+            <View style={[styles.row, { gap: gridGap }]}
+            >
+              <View
+                style={[
+                  styles.corner,
+                  styles.headerCell,
+                  { width: periodWidth, height: rowHeight },
+                ]}
+              />
+              {dayKeys.map((day) => (
+                <View
+                  key={day}
+                  style={[
+                    styles.headerCell,
+                    styles.dayCell,
+                    { width: cellWidth, height: rowHeight },
+                  ]}
+                >
+                  <View
+                    style={
+                      todayKey === day
+                        ? styles.todayCircle
+                        : styles.todayCircleMuted
+                    }
+                  >
+                    <Text
+                      style={[
+                        styles.dayText,
+                        isCompact ? styles.dayTextCompact : null,
+                        todayKey === day ? styles.todayTextActive : null,
+                      ]}
+                    >
+                      {dayToJp[day]}
+                    </Text>
+                  </View>
+                </View>
+              ))}
+            </View>
+            {periodKeys.map((period) => (
+              <View key={period} style={[styles.row, { gap: gridGap }]}
+              >
+                <View
+                  style={[
+                    styles.periodCell,
+                    styles.headerCell,
+                    { width: periodWidth, height: rowHeight },
+                  ]}
+                >
+                  <Text style={[styles.periodText, isCompact ? styles.periodTextCompact : null]}>
+                    {period}限
+                  </Text>
+                  <Text style={styles.periodTime}>{periodTimes[period]}</Text>
+                </View>
+                {dayKeys.map((day) => {
+                  const course = table[day][period];
+                  return (
+                    <View
+                      key={`${day}-${period}`}
+                      style={[
+                        styles.courseCell,
+                        {
+                          width: cellWidth,
+                          height: rowHeight,
+                          padding: isCompact ? 4 : 8,
+                        },
+                        course
+                          ? [styles.courseFilled, { backgroundColor: getCourseColor(course) }]
+                          : null,
+                      ]}
+                    >
+                      <Pressable
+                        style={styles.courseMain}
+                        onPress={() => setOpenCell({ day, period })}
+                        hitSlop={hitSlopMedium}
+                        pressRetentionOffset={hitSlopMedium}
+                      >
+                        <Text
+                          style={[styles.courseTitle, isCompact ? styles.courseTitleCompact : null]}
+                          numberOfLines={2}
+                        >
+                          {course ? course.course_title : ''}
+                        </Text>
+                        <Text
+                          style={[
+                            styles.courseMeta,
+                            isCompact ? styles.courseMetaCompact : null,
+                            course ? styles.classroomText : styles.courseMetaHint,
+                          ]}
+                          numberOfLines={2}
+                        >
+                          {course ? `教室: ${course.classroom}` : ''}
+                        </Text>
+                      </Pressable>
+                    </View>
+                  );
+                })}
+              </View>
+            ))}
+          </ScrollView>
+        </View>
+
+        <View style={styles.headerActions}>
+          <Pressable
+            style={styles.settingsButton}
+            onPress={() => setSettingsOpen(true)}
+            hitSlop={hitSlopSmall}
+          >
+            <Ionicons name="settings" size={18} color="#FFFFFF" />
+            <Text style={styles.settingsText}>設定</Text>
+          </Pressable>
+        </View>
+      </View>
+
+      <Modal visible={!!openCell} transparent animationType="fade">
+        <View style={styles.modalOverlay}>
+          <View style={styles.modalCard}>
+            <View style={styles.modalHeader}>
+              <View>
+                <Text style={styles.modalKicker}>Select course</Text>
+                <Text style={styles.modalTitle}>
+                  {openCell ? dayToJp[openCell.day] : ''} {openCell?.period}限
+                </Text>
+              </View>
+              <Pressable style={styles.modalClose} onPress={() => setOpenCell(null)}>
+                <Text style={styles.modalCloseText}>閉じる</Text>
+              </Pressable>
+            </View>
+
+            {selectedCourse ? (
+              <View style={styles.selectedCourseCard}>
+                <Text style={styles.selectedCourseLabel}>現在の登録</Text>
+                <Text style={styles.selectedCourseTitle}>{selectedCourse.course_title}</Text>
+                <Text style={styles.selectedCourseMeta}>
+                  教室: {selectedCourse.classroom || '未設定'}
+                </Text>
+              </View>
+            ) : null}
+
+            <View style={styles.colorPicker}>
+              <Text style={styles.colorLabel}>カードカラー</Text>
+              <View style={styles.colorRow}>
+                {pastelColors.map((color) => (
+                  <Pressable
+                    key={color.value}
+                    style={[
+                      styles.colorChip,
+                      { backgroundColor: color.value },
+                      selectedColor === color.value ? styles.colorChipActive : null,
+                    ]}
+                    onPress={() => updateSelectedColor(color.value)}
+                    hitSlop={hitSlopSmall}
+                  />
+                ))}
+              </View>
+            </View>
+
+            {selectedCourse ? (
+              <View style={styles.selectedActions}>
+                <Pressable
+                  style={styles.inlineSyllabus}
+                  onPress={openSyllabus}
+                  hitSlop={hitSlopSmall}
+                >
+                  <Text style={styles.inlineSyllabusText}>シラバスを見る</Text>
+                </Pressable>
+                <Pressable
+                  style={styles.clearSelectedButton}
+                  onPress={handleClearCell}
+                  hitSlop={hitSlopSmall}
+                >
+                  <Text style={styles.clearSelectedText}>この枠を削除</Text>
+                </Pressable>
+              </View>
+            ) : null}
+
+            {!selectedCourse && loading ? (
+              <View style={styles.stateBox}>
+                <Text style={styles.stateText}>読み込み中...</Text>
+              </View>
+            ) : null}
+
+            {!selectedCourse && !loading && filteredCourses.length === 0 ? (
+              <View style={styles.stateBox}>
+                <Text style={styles.stateText}>授業が取得できませんでした。</Text>
+              </View>
+            ) : null}
+
+            {!selectedCourse ? (
+              <ScrollView
+                style={styles.courseList}
+                contentContainerStyle={styles.courseListContent}
+              >
+                {filteredCourses.map((course) => (
+                  <View
+                    key={course.url}
+                    style={styles.courseCard}
+                  >
+                    <View style={styles.courseCardHeader}>
+                      <View
+                        style={[
+                          styles.courseColorDot,
+                          { backgroundColor: getCourseColor(course) },
+                        ]}
+                      />
+                      <Text style={styles.courseCardTitle}>{course.course_title}</Text>
+                    </View>
+                    <Text style={styles.courseCardMeta}>{formatInstructors(course)}</Text>
+                    <Text style={styles.courseCardMeta}>
+                      {course.term} · {formatSchedule(course)}
+                    </Text>
+                    <View style={styles.chipRow}>
+                      <View style={styles.chip}>
+                        <Text style={styles.chipText}>{course.credits} credits</Text>
+                      </View>
+                      <View style={styles.chip}>
+                        <Text style={styles.chipText}>
+                          {course.is_online ? 'Online' : 'On campus'}
+                        </Text>
+                      </View>
+                      <Pressable
+                        style={styles.syllabusInlineChip}
+                        onPressIn={(event) => event.stopPropagation?.()}
+                        onPress={(event) => {
+                          event.stopPropagation?.();
+                          openCourseSyllabus(course);
+                        }}
+                        hitSlop={hitSlopSmall}
+                      >
+                        <Text style={styles.syllabusInlineText}>シラバス</Text>
+                      </Pressable>
+                      <Pressable
+                        style={styles.registerChip}
+                        onPress={() => handleSelectCourse(course)}
+                        hitSlop={hitSlopSmall}
+                      >
+                        <Text style={styles.registerChipText}>登録</Text>
+                      </Pressable>
+                    </View>
+                  </View>
+                ))}
+              </ScrollView>
+            ) : null}
+
+          </View>
+        </View>
+      </Modal>
+
+      <Modal visible={settingsOpen} transparent animationType="fade">
+        <View style={styles.modalOverlay}>
+          <View style={styles.settingsCard}>
+            <View style={styles.modalHeader}>
+              <View>
+                <Text style={styles.modalKicker}>Settings</Text>
+                <View style={styles.modalTitleRow}>
+                  <Ionicons name="settings" size={18} color="#0F172A" />
+                  <Text style={styles.modalTitle}>表示設定</Text>
+                </View>
+              </View>
+              <Pressable style={styles.modalClose} onPress={() => setSettingsOpen(false)}>
+                <Text style={styles.modalCloseText}>完了</Text>
+              </Pressable>
+            </View>
+
+            <ScrollView style={styles.settingsScroll} contentContainerStyle={styles.settingsBody}>
+              <View style={styles.totalCreditsCard}>
+                <Text style={styles.totalCreditsLabel}>現在の合計単位</Text>
+                <Text style={styles.totalCreditsValue}>{totalCredits}単位</Text>
+              </View>
+
+              <View style={styles.settingSection}>
+                <Text style={styles.settingTitle}>学部</Text>
+                <View style={styles.chipRow}>
+                  {facultyOptions.map((faculty) => (
+                    <Pressable
+                      key={faculty}
+                      style={[
+                        styles.filterChip,
+                        settings.faculty === faculty ? styles.filterChipActive : null,
+                      ]}
+                      onPress={() => updateFaculty(faculty)}
+                      hitSlop={hitSlopSmall}
+                    >
+                      <Text
+                        style={[
+                          styles.filterChipText,
+                          settings.faculty === faculty ? styles.filterChipTextActive : null,
+                        ]}
+                      >
+                        {faculty}
+                      </Text>
+                    </Pressable>
+                  ))}
+                </View>
+              </View>
+
+              <View style={styles.settingSection}>
+                <Text style={styles.settingTitle}>キャンパス</Text>
+                <View style={styles.chipRow}>
+                  {campusOptions.map((campus) => (
+                    <Pressable
+                      key={campus}
+                      style={[
+                        styles.filterChip,
+                        settings.campus === campus ? styles.filterChipActive : null,
+                      ]}
+                      onPress={() => updateCampus(campus)}
+                      hitSlop={hitSlopSmall}
+                    >
+                      <Text
+                        style={[
+                          styles.filterChipText,
+                          settings.campus === campus ? styles.filterChipTextActive : null,
+                        ]}
+                      >
+                        {campus}
+                      </Text>
+                    </Pressable>
+                  ))}
+                </View>
+              </View>
+
+              <View style={styles.settingSection}>
+                <Text style={styles.settingTitle}>年度</Text>
+                <View style={styles.chipRow}>
+                  {[2025, 2026, 2027].map((year) => (
+                    <Pressable
+                      key={year}
+                      style={[
+                        styles.filterChip,
+                        settings.academicYear === year ? styles.filterChipActive : null,
+                      ]}
+                      onPress={() => updateYear(year)}
+                      hitSlop={hitSlopSmall}
+                    >
+                      <Text
+                        style={[
+                          styles.filterChipText,
+                          settings.academicYear === year ? styles.filterChipTextActive : null,
+                        ]}
+                      >
+                        {year}
+                      </Text>
+                    </Pressable>
+                  ))}
+                </View>
+              </View>
+
+              <View style={styles.settingSection}>
+                <Text style={styles.settingTitle}>セメスター</Text>
+                <View style={styles.chipRow}>
+                  {(['春セメスター', '秋セメスター'] as TermOption[]).map((term) => (
+                    <Pressable
+                      key={term}
+                      style={[
+                        styles.filterChip,
+                        settings.term === term ? styles.filterChipActive : null,
+                      ]}
+                      onPress={() => updateTerm(term)}
+                      hitSlop={hitSlopSmall}
+                    >
+                      <Text
+                        style={[
+                          styles.filterChipText,
+                          settings.term === term ? styles.filterChipTextActive : null,
+                        ]}
+                      >
+                        {term}
+                      </Text>
+                    </Pressable>
+                  ))}
+                </View>
+              </View>
+
+              <View style={styles.settingSection}>
+                <Text style={styles.settingTitle}>土日を表示</Text>
+                <View style={styles.chipRow}>
+                  <Pressable
+                    style={[
+                      styles.filterChip,
+                      settings.includeWeekend ? styles.filterChipActive : null,
+                    ]}
+                    onPress={toggleWeekend}
+                    hitSlop={hitSlopSmall}
+                  >
+                    <Text
+                      style={[
+                        styles.filterChipText,
+                        settings.includeWeekend ? styles.filterChipTextActive : null,
+                      ]}
+                    >
+                      {settings.includeWeekend ? '表示中' : '非表示'}
+                    </Text>
+                  </Pressable>
+                </View>
+              </View>
+
+              <View style={styles.settingSection}>
+                <Text style={styles.settingTitle}>表示コマ数</Text>
+                <View style={styles.chipRow}>
+                  {periodKeysAll.map((period) => (
+                    <Pressable
+                      key={period}
+                      style={[
+                        styles.filterChip,
+                        settings.maxPeriod === period ? styles.filterChipActive : null,
+                      ]}
+                      onPress={() => updateMaxPeriod(period)}
+                      hitSlop={hitSlopSmall}
+                    >
+                      <Text
+                        style={[
+                          styles.filterChipText,
+                          settings.maxPeriod === period ? styles.filterChipTextActive : null,
+                        ]}
+                      >
+                        {period}限
+                      </Text>
+                    </Pressable>
+                  ))}
+                </View>
+              </View>
+            </ScrollView>
+          </View>
+        </View>
+      </Modal>
+    </View>
   );
 }
 
 const styles = StyleSheet.create({
-  titleContainer: {
+  screen: {
+    flex: 1,
+    backgroundColor: '#FFFFFF',
+  },
+  content: {
+    flex: 1,
+    padding: 4,
+    paddingTop: 12,
+  },
+  topHeader: {
+    marginTop: 24,
+    marginBottom: 10,
+    paddingHorizontal: 4,
+    alignItems: 'center',
+    flexDirection: 'row',
+    justifyContent: 'center',
+    gap: 6,
+  },
+  termTitle: {
+    fontSize: 26,
+    fontWeight: '700',
+    color: '#0F172A',
+  },
+
+  termSubtitle: {
+    fontSize: 12,
+    fontWeight: '600',
+    color: '#64748B',
+    marginTop: 6,
+  },
+ 
+  selectedCourseCard: {
+    backgroundColor: '#FEF08A',
+    borderRadius: 16,
+    padding: 14,
+    marginBottom: 12,
+    borderWidth: 1,
+    borderColor: '#FDE047',
+  },
+  selectedCourseLabel: {
+    fontSize: 12,
+    fontWeight: '700',
+    color: '#92400E',
+    marginBottom: 6,
+  },
+  selectedCourseTitle: {
+    fontSize: 16,
+    fontWeight: '700',
+    color: '#7C2D12',
+    marginBottom: 4,
+  },
+  selectedCourseMeta: {
+    fontSize: 12,
+    color: '#92400E',
+  },
+  headerActions: {
+    marginTop: 'auto',
+    alignItems: 'center',
+    paddingTop: 10,
+    paddingBottom: 12,
+  },
+  settingsButton: {
+    alignSelf: 'center',
+    backgroundColor: '#0F172A',
+    borderRadius: 999,
+    paddingHorizontal: 20,
+    paddingVertical: 10,
     flexDirection: 'row',
     alignItems: 'center',
     gap: 8,
   },
-  stepContainer: {
-    gap: 8,
-    marginBottom: 8,
+  settingsText: {
+    fontSize: 14,
+    fontWeight: '600',
+    color: '#FFFFFF',
   },
-  reactLogo: {
-    height: 178,
-    width: 290,
-    bottom: 0,
-    left: 0,
-    position: 'absolute',
+  card: {
+    flex: 1,
+    backgroundColor: 'transparent',
+    borderRadius: 0,
+    padding: 0,
+    shadowColor: 'transparent',
+    shadowOpacity: 0,
+    shadowRadius: 0,
+    shadowOffset: { width: 0, height: 0 },
+    elevation: 0,
+  },
+  gridScroll: {
+    flex: 1,
+  },
+  grid: {
+    gap: 8,
+    paddingTop: 16,
+  },
+  row: {
+    flexDirection: 'row',
+    gap: 8,
+  },
+  corner: {
+    width: 56,
+  },
+  headerCell: {
+    alignItems: 'center',
+    justifyContent: 'center',
+    borderRadius: 16,
+    backgroundColor: '#F8FAFC',
+    paddingVertical: 0,
+  },
+  dayCell: {
+    width: 140,
+  },
+  dayText: {
+    fontSize: 14,
+    fontWeight: '700',
+    color: '#0F172A',
+  },
+  todayCircle: {
+    minWidth: 28,
+    height: 28,
+    borderRadius: 14,
+    backgroundColor: '#2563EB',
+    alignItems: 'center',
+    justifyContent: 'center',
+    paddingHorizontal: 6,
+  },
+  todayCircleMuted: {
+    minWidth: 28,
+    height: 28,
+    borderRadius: 14,
+    backgroundColor: '#E2E8F0',
+    alignItems: 'center',
+    justifyContent: 'center',
+    paddingHorizontal: 6,
+  },
+  todayTextActive: {
+    color: '#FFFFFF',
+  },
+  dayTextCompact: {
+    fontSize: 12,
+  },
+  periodCell: {
+    width: 56,
+  },
+  periodText: {
+    fontSize: 12,
+    fontWeight: '700',
+    color: '#0F172A',
+  },
+  periodTime: {
+    fontSize: 9,
+    color: '#0F172A',
+    marginTop: 2,
+    textAlign: 'center',
+  },
+  periodTextCompact: {
+    fontSize: 10,
+  },
+  courseCell: {
+    minHeight: 84,
+    borderRadius: 18,
+    borderWidth: 1,
+    borderColor: '#E2E8F0',
+    backgroundColor: '#FFFFFF',
+    padding: 10,
+    justifyContent: 'space-between',
+  },
+  courseMain: {
+    flex: 1,
+    justifyContent: 'space-between',
+    gap: 6,
+  },
+  courseFilled: {
+    borderColor: 'rgba(15, 23, 42, 0.08)',
+    shadowColor: '#1F2937',
+    shadowOpacity: 0.12,
+    shadowRadius: 8,
+    shadowOffset: { width: 0, height: 4 },
+    elevation: 2,
+  },
+  courseTitle: {
+    fontSize: 12,
+    fontWeight: '700',
+    color: '#1E293B',
+  },
+  courseTitleCompact: {
+    fontSize: 11,
+  },
+  courseMeta: {
+    fontSize: 10,
+    color: '#64748B',
+    textAlign: 'center',
+  },
+  courseMetaCompact: {
+    fontSize: 9,
+    textAlign: 'center',
+  },
+  classroomText: {
+    fontWeight: '700',
+    color: '#1F293B',
+  },
+  courseMetaHint: {
+    color: '#94A3B8',
+  },
+  modalOverlay: {
+    flex: 1,
+    backgroundColor: 'rgba(15, 23, 42, 0.45)',
+    padding: 20,
+    justifyContent: 'center',
+  },
+  modalCard: {
+    backgroundColor: '#FFFFFF',
+    borderRadius: 24,
+    padding: 20,
+    maxHeight: '90%',
+  },
+  settingsCard: {
+    backgroundColor: '#FFFFFF',
+    borderRadius: 24,
+    padding: 24,
+    maxHeight: '92%',
+    width: '92%',
+    alignSelf: 'center',
+  },
+  settingsScroll: {
+    marginTop: 8,
+  },
+  settingsBody: {
+    gap: 16,
+    paddingBottom: 10,
+  },
+  totalCreditsCard: {
+    backgroundColor: '#FFF7ED',
+    borderRadius: 16,
+    padding: 14,
+    borderWidth: 1,
+    borderColor: '#FED7AA',
+  },
+  totalCreditsLabel: {
+    fontSize: 12,
+    fontWeight: '700',
+    color: '#9A3412',
+    marginBottom: 6,
+  },
+  totalCreditsValue: {
+    fontSize: 20,
+    fontWeight: '700',
+    color: '#9A3412',
+  },
+  settingSection: {
+    gap: 10,
+  },
+  settingTitle: {
+    fontSize: 13,
+    fontWeight: '700',
+    color: '#1E293B',
+  },
+  modalHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    marginBottom: 12,
+  },
+  modalKicker: {
+    fontSize: 11,
+    fontWeight: '700',
+    letterSpacing: 2,
+    color: '#94A3B8',
+    textTransform: 'uppercase',
+  },
+  modalTitle: {
+    fontSize: 20,
+    fontWeight: '700',
+    color: '#0F172A',
+  },
+  modalTitleRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
+  },
+  modalClose: {
+    borderRadius: 999,
+    borderWidth: 1,
+    borderColor: '#E2E8F0',
+    paddingHorizontal: 16,
+    paddingVertical: 10,
+  },
+  modalCloseText: {
+    fontSize: 14,
+    fontWeight: '600',
+    color: '#475569',
+  },
+  notice: {
+    backgroundColor: '#FEF9C3',
+    borderRadius: 14,
+    padding: 10,
+    marginBottom: 10,
+  },
+  colorPicker: {
+    backgroundColor: '#F8FAFC',
+    borderRadius: 14,
+    padding: 10,
+    marginBottom: 10,
+  },
+  colorLabel: {
+    fontSize: 11,
+    fontWeight: '700',
+    color: '#64748B',
+    marginBottom: 6,
+  },
+  colorRow: {
+    flexDirection: 'row',
+    gap: 8,
+    flexWrap: 'wrap',
+  },
+  colorChip: {
+    width: 24,
+    height: 24,
+    borderRadius: 12,
+    borderWidth: 2,
+    borderColor: 'transparent',
+  },
+  colorChipActive: {
+    borderColor: '#0F172A',
+  },
+  inlineSyllabus: {
+    borderRadius: 12,
+    borderWidth: 1,
+    borderColor: '#E2E8F0',
+    paddingVertical: 8,
+    alignItems: 'center',
+    marginBottom: 10,
+  },
+  selectedActions: {
+    marginBottom: 10,
+    gap: 8,
+  },
+  inlineSyllabusText: {
+    fontSize: 12,
+    fontWeight: '600',
+    color: '#1E293B',
+  },
+  clearSelectedButton: {
+    borderRadius: 12,
+    borderWidth: 1,
+    borderColor: '#FCA5A5',
+    backgroundColor: 'transparent',
+    paddingVertical: 8,
+    alignItems: 'center',
+  },
+  clearSelectedText: {
+    fontSize: 12,
+    fontWeight: '600',
+    color: '#BE123C',
+  },
+  noticeText: {
+    fontSize: 12,
+    color: '#92400E',
+  },
+  stateBox: {
+    backgroundColor: '#F8FAFC',
+    borderRadius: 14,
+    padding: 12,
+    marginBottom: 10,
+  },
+  stateText: {
+    fontSize: 12,
+    color: '#64748B',
+  },
+  stateError: {
+    backgroundColor: '#FFE4E6',
+  },
+  stateErrorText: {
+    fontSize: 12,
+    color: '#9F1239',
+  },
+  courseList: {
+    marginBottom: 12,
+  },
+  courseListContent: {
+    gap: 12,
+  },
+  courseCard: {
+    backgroundColor: '#FFFFFF',
+    borderRadius: 16,
+    borderWidth: 1,
+    borderColor: '#E2E8F0',
+    padding: 14,
+  },
+  courseCardHeader: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
+    marginBottom: 6,
+  },
+  courseColorDot: {
+    width: 12,
+    height: 12,
+    borderRadius: 6,
+  },
+  courseCardTitle: {
+    fontSize: 14,
+    fontWeight: '700',
+    color: '#0F172A',
+  },
+  courseCardMeta: {
+    fontSize: 11,
+    color: '#64748B',
+  },
+  chipRow: {
+    flexDirection: 'row',
+    gap: 6,
+    marginTop: 10,
+    flexWrap: 'wrap',
+  },
+  filterChip: {
+    backgroundColor: '#F1F5F9',
+    borderRadius: 999,
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderWidth: 1,
+    borderColor: '#E2E8F0',
+  },
+  filterChipActive: {
+    backgroundColor: '#0F172A',
+    borderColor: '#0F172A',
+  },
+  filterChipText: {
+    fontSize: 11,
+    fontWeight: '600',
+    color: '#475569',
+  },
+  filterChipTextActive: {
+    color: '#FFFFFF',
+  },
+  chip: {
+    backgroundColor: '#F1F5F9',
+    borderRadius: 999,
+    paddingHorizontal: 10,
+    paddingVertical: 4,
+  },
+  syllabusInlineChip: {
+    backgroundColor: '#E0E7FF',
+    borderRadius: 999,
+    paddingHorizontal: 10,
+    paddingVertical: 4,
+  },
+  syllabusInlineText: {
+    fontSize: 10,
+    fontWeight: '700',
+    color: '#4338CA',
+  },
+  registerChip: {
+    backgroundColor: '#E76A7A',
+    borderRadius: 999,
+    paddingHorizontal: 14,
+    paddingVertical: 6,
+  },
+  registerChipText: {
+    fontSize: 11,
+    fontWeight: '700',
+    color: '#FFFFFF',
+  },
+  chipText: {
+    fontSize: 10,
+    fontWeight: '600',
+    color: '#475569',
   },
 });

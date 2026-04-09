@@ -1,0 +1,934 @@
+[
+  {
+    "course_codes": [
+      34923
+    ],
+    "course_title": "データサイエンス・AI基礎 (G1)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月",
+    "slots": [
+      {
+        "day": "月",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwaLQAS/202634923"
+  },
+  {
+    "course_codes": [
+      34924
+    ],
+    "course_title": "データサイエンス・AI基礎 (G2)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月",
+    "slots": [
+      {
+        "day": "月",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwbJQAS/202634924"
+  },
+  {
+    "course_codes": [
+      11614
+    ],
+    "course_title": "（留）日本語Ⅴ（総合）(Z)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3,火3,水2,木2,金3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "井元 麻美",
+      "岡田 有美子",
+      "玉尾 章代"
+    ],
+    "credits": 5,
+    "campus": "衣笠/衣笠/衣笠/衣笠/衣笠",
+    "classroom": "学而館GJ312号教室/学而館GJ305号教室/洋洋館YY303号教室/学而館GJ312号教室/諒友館RY406号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv1bQAC/202611614"
+  },
+  {
+    "course_codes": [
+      11615
+    ],
+    "course_title": "（留）日本語Ⅴ（総合）(Z2)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4,火2,水1,木3,金2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "井元 麻美",
+      "岡田 有美子",
+      "玉尾 章代"
+    ],
+    "credits": 5,
+    "campus": "衣笠/衣笠/衣笠/衣笠/衣笠",
+    "classroom": "学而館GJ312号教室/学而館GJ305号教室/洋洋館YY303号教室/学而館GJ312号教室/学而館GJ312号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv2XQAS/202611615"
+  },
+  {
+    "course_codes": [
+      11622
+    ],
+    "course_title": "（留）日本語Ⅳ（総合）(Z)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月2,火4,水3,木2,金3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 2
+      },
+      {
+        "day": "火",
+        "period": 4
+      },
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "井元 麻美",
+      "川瀬 愛",
+      "増井 奈穂美"
+    ],
+    "credits": 5,
+    "campus": "衣笠/衣笠/衣笠/衣笠/衣笠",
+    "classroom": "洋洋館YY303号教室/学而館GJ305号教室/学而館GJ308号教室/洋洋館YY203号教室/諒友館RY302号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv9AQAS/202611622"
+  },
+  {
+    "course_codes": [
+      11623
+    ],
+    "course_title": "（留）日本語Ⅳ（総合）(Z2)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3,火2,水2,木1,金2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "川瀬 愛",
+      "高橋 旬子",
+      "増井 奈穂美"
+    ],
+    "credits": 5,
+    "campus": "衣笠/衣笠/衣笠/衣笠/衣笠",
+    "classroom": "洋洋館YY303号教室/洋洋館YY303号教室/洋洋館YY203号教室/洋洋館YY203号教室/諒友館RY302号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvA7QAK/202611623"
+  },
+  {
+    "course_codes": [
+      11630
+    ],
+    "course_title": "（留）日本語Ⅲ（総合）(Z)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月2,火3,水3,木2,金3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 2
+      },
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "近藤 正憲",
+      "菅 智穂",
+      "堀野 善康",
+      "目黒 裕将"
+    ],
+    "credits": 5,
+    "campus": "衣笠/衣笠/衣笠/衣笠/衣笠",
+    "classroom": "学而館GJ310号教室/洋洋館YY203号教室/学而館GJ306号教室/諒友館RY407号教室/学而館GJ305号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuPWQA0/202611630"
+  },
+  {
+    "course_codes": [
+      11635
+    ],
+    "course_title": "（留）日本語Ⅱ（総合）(Z)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3,火2,水2,木2,金2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "岡田 有美子",
+      "京谷 麻矢",
+      "久米 朋子",
+      "道上 史絵"
+    ],
+    "credits": 5,
+    "campus": "衣笠/衣笠/衣笠/衣笠/衣笠",
+    "classroom": "学而館GJ311号教室/諒友館RY307号教室/学而館GJ308号教室/学而館GJ307号教室/洋洋館YY203号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuVoQAK/202611635"
+  },
+  {
+    "course_codes": [
+      11640
+    ],
+    "course_title": "（留）日本語Ⅰ（総合）(Z)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3,火3,水2,木4,金3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "太田 真実",
+      "堤 美千絵",
+      "目黒 裕将"
+    ],
+    "credits": 5,
+    "campus": "衣笠/衣笠/衣笠/衣笠/衣笠",
+    "classroom": "学而館GJ310号教室/諒友館RY302号教室/学而館GJ305号教室/洋洋館YY303号教室/学而館GJ303号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuaUQAS/202611640"
+  },
+  {
+    "course_codes": [
+      11744
+    ],
+    "course_title": "（留）日本語Ⅴ（総合）(K)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3,火3,水2,木1,金3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "井元 麻美",
+      "岡田 有美子",
+      "玉尾 章代"
+    ],
+    "credits": 5,
+    "campus": "衣笠/衣笠/衣笠/衣笠/衣笠",
+    "classroom": "諒友館RY205号教室/諒友館RY201号教室/諒友館RY203号教室/学而館GJ304号教室/諒友館RY302号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuhzQAC/202611744"
+  },
+  {
+    "course_codes": [
+      11745
+    ],
+    "course_title": "（留）日本語Ⅴ（総合）(K2)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月4,火2,水3,木2,金2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "井元 麻美",
+      "岡田 有美子",
+      "久米 朋子"
+    ],
+    "credits": 5,
+    "campus": "衣笠/衣笠/衣笠/衣笠/衣笠",
+    "classroom": "諒友館RY205号教室/諒友館RY201号教室/学而館GJ308号教室/諒友館RY407号教室/諒友館RY302号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuivQAC/202611745"
+  },
+  {
+    "course_codes": [
+      11752
+    ],
+    "course_title": "（留）日本語Ⅳ（総合）(K)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月2,火4,水3,木2,金3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 2
+      },
+      {
+        "day": "火",
+        "period": 4
+      },
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "川瀬 愛",
+      "高橋 旬子",
+      "増井 奈穂美"
+    ],
+    "credits": 5,
+    "campus": "衣笠/衣笠/衣笠/衣笠/衣笠",
+    "classroom": "学而館GJ308号教室/学而館GJ306号教室/学而館GJ303号教室/学而館GJ310号教室/学而館GJ305号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RupTQAS/202611752"
+  },
+  {
+    "course_codes": [
+      11753
+    ],
+    "course_title": "（留）日本語Ⅳ（総合）(K2)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3,火2,水2,木1,金2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "川瀬 愛",
+      "高橋 旬子",
+      "増井 奈穂美"
+    ],
+    "credits": 5,
+    "campus": "衣笠/衣笠/衣笠/衣笠/衣笠",
+    "classroom": "学而館GJ308号教室/学而館GJ306号教室/学而館GJ303号教室/学而館GJ310号教室/学而館GJ305号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuqPQAS/202611753"
+  },
+  {
+    "course_codes": [
+      11760
+    ],
+    "course_title": "（留）日本語Ⅲ（総合）(K)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月2,火4,水3,木2,金3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 2
+      },
+      {
+        "day": "火",
+        "period": 4
+      },
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "川瀬 愛",
+      "近藤 正憲",
+      "菅 智穂",
+      "目黒 裕将"
+    ],
+    "credits": 5,
+    "campus": "衣笠/衣笠/衣笠/衣笠/衣笠",
+    "classroom": "諒友館RY203号教室/洋洋館YY303号教室/学而館GJ309号教室/諒友館RY202号教室/諒友館RY405号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuwxQAC/202611760"
+  },
+  {
+    "course_codes": [
+      11765
+    ],
+    "course_title": "（留）日本語Ⅱ（総合）(K)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3,火2,水2,木2,金2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "岡田 有美子",
+      "京谷 麻矢",
+      "久米 朋子",
+      "道上 史絵"
+    ],
+    "credits": 5,
+    "campus": "衣笠/衣笠/衣笠/衣笠/衣笠",
+    "classroom": "学而館GJ311号教室/学而館GJ310号教室/学而館GJ310号教室/学而館GJ312号教室/学而館GJ307号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv1dQAC/202611765"
+  },
+  {
+    "course_codes": [
+      11772
+    ],
+    "course_title": "（留）日本語Ⅰ（総合）(K)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3,火3,水2,木4,金3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "太田 真実",
+      "堤 美千絵",
+      "目黒 裕将"
+    ],
+    "credits": 5,
+    "campus": "衣笠/衣笠/衣笠/衣笠/衣笠",
+    "classroom": "諒友館RY203号教室/諒友館RY303号教室/諒友館RY205号教室/洋洋館YY303号教室/諒友館RY407号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv8FQAS/202611772"
+  },
+  {
+    "course_codes": [
+      34925
+    ],
+    "course_title": "データエンジニアリング基礎 (G1)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水",
+    "slots": [
+      {
+        "day": "水",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwcHQAS/202634925"
+  },
+  {
+    "course_codes": [
+      34926
+    ],
+    "course_title": "データエンジニアリング基礎 (G2)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水",
+    "slots": [
+      {
+        "day": "水",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwdFQAS/202634926"
+  },
+  {
+    "course_codes": [
+      16970,
+      16971
+    ],
+    "course_title": "Foundations of Data Science and AI (G1)",
+    "course_title_alt": "RUIR-1806 Foundations of Data Science and AI(JD)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火",
+    "slots": [
+      {
+        "day": "火",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "情報理工学部",
+      "法学部",
+      "国際関係学部",
+      "映像学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwrWQAS/202616970"
+  },
+  {
+    "course_codes": [
+      16972,
+      16973
+    ],
+    "course_title": "Foundations of Data Engineering (G1)",
+    "course_title_alt": "RUIR-1807 Foundations of Data Engineering(JD)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火",
+    "slots": [
+      {
+        "day": "火",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "情報理工学部",
+      "法学部",
+      "国際関係学部",
+      "映像学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwsUQAS/202616972"
+  }
+]

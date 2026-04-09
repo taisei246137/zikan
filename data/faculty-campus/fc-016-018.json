@@ -1,0 +1,273 @@
+[
+  {
+    "course_codes": [
+      34923
+    ],
+    "course_title": "データサイエンス・AI基礎 (G1)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月",
+    "slots": [
+      {
+        "day": "月",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwaLQAS/202634923"
+  },
+  {
+    "course_codes": [
+      34924
+    ],
+    "course_title": "データサイエンス・AI基礎 (G2)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月",
+    "slots": [
+      {
+        "day": "月",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwbJQAS/202634924"
+  },
+  {
+    "course_codes": [
+      54614,
+      54615
+    ],
+    "course_title": "Liberal Arts Seminar (2)",
+    "course_title_alt": "Theme Study(2)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "中村 彰憲"
+    ],
+    "credits": 2,
+    "campus": "松竹",
+    "classroom": "立命館松竹スタジオRS201号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyEpQAK/202654614"
+  },
+  {
+    "course_codes": [
+      34925
+    ],
+    "course_title": "データエンジニアリング基礎 (G1)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水",
+    "slots": [
+      {
+        "day": "水",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwcHQAS/202634925"
+  },
+  {
+    "course_codes": [
+      34926
+    ],
+    "course_title": "データエンジニアリング基礎 (G2)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水",
+    "slots": [
+      {
+        "day": "水",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwdFQAS/202634926"
+  },
+  {
+    "course_codes": [
+      16970,
+      16971
+    ],
+    "course_title": "Foundations of Data Science and AI (G1)",
+    "course_title_alt": "RUIR-1806 Foundations of Data Science and AI(JD)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火",
+    "slots": [
+      {
+        "day": "火",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "情報理工学部",
+      "法学部",
+      "国際関係学部",
+      "映像学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwrWQAS/202616970"
+  },
+  {
+    "course_codes": [
+      16972,
+      16973
+    ],
+    "course_title": "Foundations of Data Engineering (G1)",
+    "course_title_alt": "RUIR-1807 Foundations of Data Engineering(JD)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火",
+    "slots": [
+      {
+        "day": "火",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "情報理工学部",
+      "法学部",
+      "国際関係学部",
+      "映像学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwsUQAS/202616972"
+  }
+]

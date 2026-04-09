@@ -1,0 +1,1316 @@
+[
+  {
+    "course_codes": [
+      34923
+    ],
+    "course_title": "データサイエンス・AI基礎 (G1)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月",
+    "slots": [
+      {
+        "day": "月",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwaLQAS/202634923"
+  },
+  {
+    "course_codes": [
+      34924
+    ],
+    "course_title": "データサイエンス・AI基礎 (G2)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月",
+    "slots": [
+      {
+        "day": "月",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwbJQAS/202634924"
+  },
+  {
+    "course_codes": [
+      34937,
+      34938
+    ],
+    "course_title": "Liberal Arts Seminar (8)",
+    "course_title_alt": "Theme Study(8)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月4",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "野澤 健"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "H241セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rwj3QAC/202634937"
+  },
+  {
+    "course_codes": [
+      34941,
+      34942
+    ],
+    "course_title": "Liberal Arts Seminar (10)",
+    "course_title_alt": "Theme Study(10)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "大島 陽"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN427セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwmbQAC/202634941"
+  },
+  {
+    "course_codes": [
+      54620
+    ],
+    "course_title": "Computers in Education(GV)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "CONDON BARRY"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "H341セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxRAQA0/202654620"
+  },
+  {
+    "course_codes": [
+      54683
+    ],
+    "course_title": "教養ゼミナール(60)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "荒井 秀典",
+      "清家 理",
+      "森永 貴彦"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "ラーニング・インフィニティ・ホール",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxKPQA0/202654683"
+  },
+  {
+    "course_codes": [
+      54689
+    ],
+    "course_title": "教養ゼミナール(66)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "野澤 健"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "H241セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxQDQA0/202654689"
+  },
+  {
+    "course_codes": [
+      17121,
+      17122
+    ],
+    "course_title": "超領域リベラルアーツ (GU)",
+    "course_title_alt": "特殊講義（総合）(C9)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月5",
+    "slots": [
+      {
+        "day": "月",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "川村 仁子",
+      "佐伯 和人",
+      "土元 哲平",
+      "仲内 悠祐",
+      "長岡 央",
+      "福留 未菜",
+      "湊 宣明",
+      "山出 美弥"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "OIC",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw7RQAS/202617121"
+  },
+  {
+    "course_codes": [
+      34939,
+      34940
+    ],
+    "course_title": "Liberal Arts Seminar (9)",
+    "course_title_alt": "Theme Study(9)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "西澤 幹雄"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN427セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rwk1QAC/202634939"
+  },
+  {
+    "course_codes": [
+      54625
+    ],
+    "course_title": "Non-verbal Communication(GV)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火5",
+    "slots": [
+      {
+        "day": "火",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "谷村 緑"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "C373多目的セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxW0QAK/202654625"
+  },
+  {
+    "course_codes": [
+      54678
+    ],
+    "course_title": "教養ゼミナール(55)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "小久保 みどり"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS261セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxDxQAK/202654678"
+  },
+  {
+    "course_codes": [
+      34925
+    ],
+    "course_title": "データエンジニアリング基礎 (G1)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水",
+    "slots": [
+      {
+        "day": "水",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwcHQAS/202634925"
+  },
+  {
+    "course_codes": [
+      34926
+    ],
+    "course_title": "データエンジニアリング基礎 (G2)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水",
+    "slots": [
+      {
+        "day": "水",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwdFQAS/202634926"
+  },
+  {
+    "course_codes": [
+      54616
+    ],
+    "course_title": "Introduction to Computational Linguistics(GV)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "金丸 敏幸"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "H346セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxNIQA0/202654616"
+  },
+  {
+    "course_codes": [
+      54680
+    ],
+    "course_title": "教養ゼミナール(57)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "田中 力"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AC242セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxHVQA0/202654680"
+  },
+  {
+    "course_codes": [
+      54681
+    ],
+    "course_title": "教養ゼミナール(58)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "中村 真悟"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "C271ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxITQA0/202654681"
+  },
+  {
+    "course_codes": [
+      54684
+    ],
+    "course_title": "教養ゼミナール(61)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "田中 力"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AC242セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxLNQA0/202654684"
+  },
+  {
+    "course_codes": [
+      54688
+    ],
+    "course_title": "教養ゼミナール(65)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "北原 聡"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "H241セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxPFQA0/202654688"
+  },
+  {
+    "course_codes": [
+      54619
+    ],
+    "course_title": "Understanding Language(GV)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "杉野 直樹",
+      "杉森 直樹"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "H243セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxQCQA0/202654619"
+  },
+  {
+    "course_codes": [
+      54617
+    ],
+    "course_title": "History of Computing(GV)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "SVININ MIKHAIL"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "H323セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxOGQA0/202654617"
+  },
+  {
+    "course_codes": [
+      54621
+    ],
+    "course_title": "Language in Politics(GV)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "DAUER HARRY"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "H241セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxS8QAK/202654621"
+  },
+  {
+    "course_codes": [
+      54679
+    ],
+    "course_title": "教養ゼミナール(56)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "永島 正康"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "C371ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxEvQAK/202654679"
+  },
+  {
+    "course_codes": [
+      54682
+    ],
+    "course_title": "教養ゼミナール(59)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "周 緯生"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS463セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxJRQA0/202654682"
+  },
+  {
+    "course_codes": [
+      54685
+    ],
+    "course_title": "教養ゼミナール(62)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "山崎 文徳"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN421セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxMLQA0/202654685"
+  },
+  {
+    "course_codes": [
+      54686
+    ],
+    "course_title": "教養ゼミナール(63)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "西村 陽造"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS468セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxNJQA0/202654686"
+  },
+  {
+    "course_codes": [
+      54687
+    ],
+    "course_title": "教養ゼミナール(64)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "安江 則子"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS469セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxOHQA0/202654687"
+  },
+  {
+    "course_codes": [
+      17119,
+      17120
+    ],
+    "course_title": "超領域リベラルアーツ (GT)",
+    "course_title_alt": "特殊講義（総合）(C8)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "羽谷 沙織",
+      "堀江 未来"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN327セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw6TQAS/202617119"
+  },
+  {
+    "course_codes": [
+      54618
+    ],
+    "course_title": "Digital Archives: Applications of ICT to the Humanities(GV)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金2",
+    "slots": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "田中 覚"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "H348セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxPEQA0/202654618"
+  },
+  {
+    "course_codes": [
+      54624
+    ],
+    "course_title": "Introduction to Global Justice (GV)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "安武 留美"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS368セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxV2QAK/202654624"
+  },
+  {
+    "course_codes": [
+      16970,
+      16971
+    ],
+    "course_title": "Foundations of Data Science and AI (G1)",
+    "course_title_alt": "RUIR-1806 Foundations of Data Science and AI(JD)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火",
+    "slots": [
+      {
+        "day": "火",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "情報理工学部",
+      "法学部",
+      "国際関係学部",
+      "映像学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwrWQAS/202616970"
+  },
+  {
+    "course_codes": [
+      16972,
+      16973
+    ],
+    "course_title": "Foundations of Data Engineering (G1)",
+    "course_title_alt": "RUIR-1807 Foundations of Data Engineering(JD)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火",
+    "slots": [
+      {
+        "day": "火",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "情報理工学部",
+      "法学部",
+      "国際関係学部",
+      "映像学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwsUQAS/202616972"
+  },
+  {
+    "course_codes": [
+      54613
+    ],
+    "course_title": "統計学 (W)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "田中 力"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "H242セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "法学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "総合心理学部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyDrQAK/202654613"
+  },
+  {
+    "course_codes": [
+      54572,
+      54573
+    ],
+    "course_title": "ソーシャルデザイン論 (GV)",
+    "course_title_alt": "特殊講義（ソーシャルデザイン論） (GV)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "永野 聡"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AC231講義室",
+    "is_online": false,
+    "faculties": [
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxclQAC/202654572"
+  }
+]

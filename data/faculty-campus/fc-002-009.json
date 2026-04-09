@@ -1,0 +1,3688 @@
+[
+  {
+    "course_codes": [
+      52599,
+      52600
+    ],
+    "course_title": "（留）日本語Ⅷ（キャリア日本語a）(O1)",
+    "course_title_alt": "JPNS 3022 日本語Ⅷ（キャリア日本語a） (O1)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "林 和子"
+    ],
+    "credits": 1,
+    "campus": "OIC",
+    "classroom": "AN520セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "経営学部",
+      "映像学部",
+      "総合心理学部",
+      "グローバル教養学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyakQAC/202652599"
+  },
+  {
+    "course_codes": [
+      52601,
+      52602
+    ],
+    "course_title": "（留）日本語Ⅷ（キャリア日本語a）(O2)",
+    "course_title_alt": "JPNS 3022 日本語Ⅷ（キャリア日本語a） (O2)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "増井 奈穂美"
+    ],
+    "credits": 1,
+    "campus": "OIC",
+    "classroom": "AS357セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "経営学部",
+      "映像学部",
+      "総合心理学部",
+      "グローバル教養学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RybiQAC/202652601"
+  },
+  {
+    "course_codes": [
+      52616,
+      52617
+    ],
+    "course_title": "（留）日本語Ⅶ（文章表現a）(OE)",
+    "course_title_alt": "JPNS 3031 日本語Ⅶ（文章表現a） (OE)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "林 和子"
+    ],
+    "credits": 1,
+    "campus": "OIC",
+    "classroom": "AN520セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "経営学部",
+      "映像学部",
+      "総合心理学部",
+      "グローバル教養学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxL1QAK/202652616"
+  },
+  {
+    "course_codes": [
+      52670,
+      52671
+    ],
+    "course_title": "（留）日本語Ⅷ（キャリア日本語b）(O1)",
+    "course_title_alt": "JPNS 3023 日本語Ⅷ（キャリア日本語b） (O1)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "増井 奈穂美"
+    ],
+    "credits": 1,
+    "campus": "OIC",
+    "classroom": "H243セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "経営学部",
+      "映像学部",
+      "総合心理学部",
+      "グローバル教養学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ry6lQAC/202652670"
+  },
+  {
+    "course_codes": [
+      52672,
+      52673
+    ],
+    "course_title": "（留）日本語Ⅷ（キャリア日本語b）(O2)",
+    "course_title_alt": "JPNS 3023 日本語Ⅷ（キャリア日本語b） (O2)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "増井 奈穂美"
+    ],
+    "credits": 1,
+    "campus": "OIC",
+    "classroom": "H243セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "経営学部",
+      "映像学部",
+      "総合心理学部",
+      "グローバル教養学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ry7jQAC/202652672"
+  },
+  {
+    "course_codes": [
+      52698,
+      52699
+    ],
+    "course_title": "（留）日本語Ⅶ（読解b）(OE)",
+    "course_title_alt": "JPNS 3042 日本語Ⅶ（読解b） (OE)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "ベイリー あゆみ"
+    ],
+    "credits": 1,
+    "campus": "OIC",
+    "classroom": "AN510セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "経営学部",
+      "映像学部",
+      "総合心理学部",
+      "グローバル教養学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx7oQAC/202652698"
+  },
+  {
+    "course_codes": [
+      52627,
+      52628
+    ],
+    "course_title": "（留）日本語Ⅶ（読解a）(OE)",
+    "course_title_alt": "JPNS 3041 日本語Ⅶ（読解a） (OE)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "堤 美千絵"
+    ],
+    "credits": 1,
+    "campus": "OIC",
+    "classroom": "AN510セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "経営学部",
+      "映像学部",
+      "総合心理学部",
+      "グローバル教養学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxUhQAK/202652627"
+  },
+  {
+    "course_codes": [
+      52603,
+      52604
+    ],
+    "course_title": "（留）日本語Ⅷ（キャリア日本語a）(O3)",
+    "course_title_alt": "JPNS 3022 日本語Ⅷ（キャリア日本語a） (O3)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "山田 千晶"
+    ],
+    "credits": 1,
+    "campus": "OIC",
+    "classroom": "AS468セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "経営学部",
+      "映像学部",
+      "総合心理学部",
+      "グローバル教養学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RycgQAC/202652603"
+  },
+  {
+    "course_codes": [
+      52676,
+      52677
+    ],
+    "course_title": "（留）日本語Ⅷ（キャリア日本語b）(O4)",
+    "course_title_alt": "JPNS 3023 日本語Ⅷ（キャリア日本語b） (O4)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "山田 千晶"
+    ],
+    "credits": 1,
+    "campus": "OIC",
+    "classroom": "AN427セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "経営学部",
+      "映像学部",
+      "総合心理学部",
+      "グローバル教養学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ry9fQAC/202652676"
+  },
+  {
+    "course_codes": [
+      52687,
+      52688
+    ],
+    "course_title": "（留）日本語Ⅶ（文章表現b）(OE)",
+    "course_title_alt": "JPNS 3032 日本語Ⅶ（文章表現b） (OE)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木3",
+    "slots": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "堤 美千絵"
+    ],
+    "credits": 1,
+    "campus": "OIC",
+    "classroom": "H243セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "経営学部",
+      "映像学部",
+      "総合心理学部",
+      "グローバル教養学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwunQAC/202652687"
+  },
+  {
+    "course_codes": [
+      52605,
+      52606
+    ],
+    "course_title": "（留）日本語Ⅷ（キャリア日本語a）(O4)",
+    "course_title_alt": "JPNS 3022 日本語Ⅷ（キャリア日本語a） (O4)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金2",
+    "slots": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "京谷 麻矢"
+    ],
+    "credits": 1,
+    "campus": "OIC",
+    "classroom": "H244セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "経営学部",
+      "映像学部",
+      "総合心理学部",
+      "グローバル教養学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RydeQAC/202652605"
+  },
+  {
+    "course_codes": [
+      52638,
+      52639
+    ],
+    "course_title": "（留）日本語Ⅶ（聴解口頭a）(OE)",
+    "course_title_alt": "JPNS 3012 日本語Ⅶ（聴解口頭a） (OE)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金4",
+    "slots": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "増井 奈穂美"
+    ],
+    "credits": 1,
+    "campus": "OIC",
+    "classroom": "AN520セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "経営学部",
+      "映像学部",
+      "総合心理学部",
+      "グローバル教養学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxeNQAS/202652638"
+  },
+  {
+    "course_codes": [
+      52674,
+      52675
+    ],
+    "course_title": "（留）日本語Ⅷ（キャリア日本語b）(O3)",
+    "course_title_alt": "JPNS 3023 日本語Ⅷ（キャリア日本語b） (O3)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金2",
+    "slots": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "京谷 麻矢"
+    ],
+    "credits": 1,
+    "campus": "OIC",
+    "classroom": "AN429セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "経営学部",
+      "映像学部",
+      "総合心理学部",
+      "グローバル教養学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ry8hQAC/202652674"
+  },
+  {
+    "course_codes": [
+      52709,
+      52710
+    ],
+    "course_title": "（留）日本語Ⅶ（聴解口頭b）(OE)",
+    "course_title_alt": "JPNS 3013 日本語Ⅶ（聴解口頭b） (OE)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金4",
+    "slots": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "ベイリー あゆみ"
+    ],
+    "credits": 1,
+    "campus": "OIC",
+    "classroom": "AN510セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "経営学部",
+      "映像学部",
+      "総合心理学部",
+      "グローバル教養学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxJ6QAK/202652709"
+  },
+  {
+    "course_codes": [
+      52642,
+      52643
+    ],
+    "course_title": "（留）日本語上級（キャリア日本語） (Z)",
+    "course_title_alt": "JPNS 3021 日本語上級（キャリア日本語） (Z)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "山田 千晶"
+    ],
+    "credits": 1,
+    "campus": "OIC",
+    "classroom": "AS560セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部",
+      "グローバル教養学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxgJQAS/202652642"
+  },
+  {
+    "course_codes": [
+      52713,
+      52714
+    ],
+    "course_title": "（留）日本語上級（キャリア日本語） (K)",
+    "course_title_alt": "JPNS 3021 日本語上級（キャリア日本語） (K)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "山田 千晶"
+    ],
+    "credits": 1,
+    "campus": "OIC",
+    "classroom": "AS356セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部",
+      "グローバル教養学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxL2QAK/202652713"
+  },
+  {
+    "course_codes": [
+      52644,
+      52645
+    ],
+    "course_title": "（留）日本語上級（文法・ライティング）(Z)",
+    "course_title_alt": "JPNS 3002 日本語上級（文法・ライティング）(Z)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "水野 瑛子"
+    ],
+    "credits": 1,
+    "campus": "OIC",
+    "classroom": "AS357セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部",
+      "グローバル教養学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxhHQAS/202652644"
+  },
+  {
+    "course_codes": [
+      52715,
+      52716
+    ],
+    "course_title": "（留）日本語上級（文法・ライティング）(K)",
+    "course_title_alt": "JPNS 3002 日本語上級（文法・ライティング）(K)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木3",
+    "slots": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "ベイリー あゆみ"
+    ],
+    "credits": 1,
+    "campus": "OIC",
+    "classroom": "AS361セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部",
+      "グローバル教養学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxM0QAK/202652715"
+  },
+  {
+    "course_codes": [
+      52640,
+      52641
+    ],
+    "course_title": "（留）日本語上級（聴解口頭）(Z)",
+    "course_title_alt": "JPNS 3011 日本語上級 （聴解口頭） (Z)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金4",
+    "slots": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "寺尾 美登里"
+    ],
+    "credits": 1,
+    "campus": "OIC",
+    "classroom": "AS357セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部",
+      "グローバル教養学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxfLQAS/202652640"
+  },
+  {
+    "course_codes": [
+      52711,
+      52712
+    ],
+    "course_title": "（留）日本語上級（聴解口頭）(K)",
+    "course_title_alt": "JPNS 3011 日本語上級 （聴解口頭） (K)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金4",
+    "slots": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "寺尾 美登里"
+    ],
+    "credits": 1,
+    "campus": "OIC",
+    "classroom": "AS560セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部",
+      "グローバル教養学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxK4QAK/202652711"
+  },
+  {
+    "course_codes": [
+      52752
+    ],
+    "course_title": "GLA 1201 Foundations in Research Skills 1(IC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "DENIZ RASIT EZGI"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN520セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxsuQAC/202652752"
+  },
+  {
+    "course_codes": [
+      52753
+    ],
+    "course_title": "GLA 1201 Foundations in Research Skills 1(ID)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "北野 知佳"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS560セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxtsQAC/202652753"
+  },
+  {
+    "course_codes": [
+      52757
+    ],
+    "course_title": "GLA 1202 Foundations in Research Skills 2(IC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "DENIZ RASIT EZGI"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS550セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwygQAC/202652757"
+  },
+  {
+    "course_codes": [
+      52758
+    ],
+    "course_title": "GLA 1202 Foundations in Research Skills 2(ID)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "DENIZ RASIT EZGI"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS550セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwzeQAC/202652758"
+  },
+  {
+    "course_codes": [
+      52761
+    ],
+    "course_title": "GLA 1101 Critical Thinking 1 (IB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "DENIZ RASIT EZGI"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN520セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx5tQAC/202652761"
+  },
+  {
+    "course_codes": [
+      52762
+    ],
+    "course_title": "GLA 1101 Critical Thinking 1 (IC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "MOYLE BLAKE"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS560セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx6rQAC/202652762"
+  },
+  {
+    "course_codes": [
+      52765
+    ],
+    "course_title": "GLA 1102 Critical Thinking 2 (IA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "MOYLE BLAKE"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN510セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx9lQAC/202652765"
+  },
+  {
+    "course_codes": [
+      52767
+    ],
+    "course_title": "GLA 1102 Critical Thinking 2 (IC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "MOYLE BLAKE"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN510セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxBhQAK/202652767"
+  },
+  {
+    "course_codes": [
+      52808
+    ],
+    "course_title": "EDU 1001 Introduction to Education (I)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "塚田 英恵"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN517ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxgLQAS/202652808"
+  },
+  {
+    "course_codes": [
+      52810
+    ],
+    "course_title": "EDU 1001 Introduction to Education (IB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月4",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "塚田 英恵"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN517ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxiHQAS/202652810"
+  },
+  {
+    "course_codes": [
+      52816
+    ],
+    "course_title": "GLA 1001 Career Design 1 (IA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "北野 知佳"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS550セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rxo5QAC/202652816"
+  },
+  {
+    "course_codes": [
+      52817
+    ],
+    "course_title": "GLA 1001 Career Design 1 (IB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月5",
+    "slots": [
+      {
+        "day": "月",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "北野 知佳"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS550セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rxp3QAC/202652817"
+  },
+  {
+    "course_codes": [
+      52819
+    ],
+    "course_title": "GLA 1001 Career Design 1 (ID)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月4",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "糸井 貴夕"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN524ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxqzQAC/202652819"
+  },
+  {
+    "course_codes": [
+      52820
+    ],
+    "course_title": "GLA 1001 Career Design 1 (IE)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月5",
+    "slots": [
+      {
+        "day": "月",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "糸井 貴夕"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN524ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxrxQAC/202652820"
+  },
+  {
+    "course_codes": [
+      52868
+    ],
+    "course_title": "LASS 2010 Special Lecture (Social Sciences)(IF)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "塚田 英恵"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN517ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx8oQAC/202652868"
+  },
+  {
+    "course_codes": [
+      52869
+    ],
+    "course_title": "LASS 2010 Special Lecture (Social Sciences)(IG)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "EMILY CHUNG-MOYA"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN517ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx9mQAC/202652869"
+  },
+  {
+    "course_codes": [
+      52870
+    ],
+    "course_title": "LASS 2010 Special Lecture (Social Sciences)(IH)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "EMILY CHUNG-MOYA"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS561ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxAkQAK/202652870"
+  },
+  {
+    "course_codes": [
+      52871
+    ],
+    "course_title": "LASS 2010 Special Lecture (Social Sciences)(IJ)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月5",
+    "slots": [
+      {
+        "day": "月",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "RASIT HUSEYIN"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS557ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxBiQAK/202652871"
+  },
+  {
+    "course_codes": [
+      52876
+    ],
+    "course_title": "LASS 2010 Special Lecture (Social Sciences)(IO)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "塚田 英恵"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN524ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxIAQA0/202652876"
+  },
+  {
+    "course_codes": [
+      52989,
+      52990
+    ],
+    "course_title": "GLA 3001 Research Seminar (79)",
+    "course_title_alt": "Research Seminar (79)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "RASIT HUSEYIN"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN517ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxK7QAK/202652989"
+  },
+  {
+    "course_codes": [
+      52999,
+      53000
+    ],
+    "course_title": "GLA 3001 Research Seminar (84)",
+    "course_title_alt": "Research Seminar (84)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "HAIMES PAUL WILLIAM"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN521ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxOxQAK/202652999"
+  },
+  {
+    "course_codes": [
+      52738
+    ],
+    "course_title": "WRT 1001 College Writing 1 (IA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "BARRY OUMAROU"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN520セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxfMQAS/202652738"
+  },
+  {
+    "course_codes": [
+      52739
+    ],
+    "course_title": "WRT 1001 College Writing 1 (IB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "BARRY OUMAROU"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN520セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxgKQAS/202652739"
+  },
+  {
+    "course_codes": [
+      52742
+    ],
+    "course_title": "WRT 1001 College Writing 1 (IE)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "BARRY OUMAROU"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN520セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxjEQAS/202652742"
+  },
+  {
+    "course_codes": [
+      52743
+    ],
+    "course_title": "WRT 1001 College Writing 1 (IF)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "BARRY OUMAROU"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN520セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxkCQAS/202652743"
+  },
+  {
+    "course_codes": [
+      52792
+    ],
+    "course_title": "ARTH 1001 Introduction to Art History (I)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "CAPKOVA HELENA"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS561ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxQrQAK/202652792"
+  },
+  {
+    "course_codes": [
+      52793
+    ],
+    "course_title": "ARTH 1001 Introduction to Art History (IB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "CAPKOVA HELENA"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS561ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxRpQAK/202652793"
+  },
+  {
+    "course_codes": [
+      52836
+    ],
+    "course_title": "JOUR 1001 Introduction to Journalism (IB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "BARRY OUMAROU"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN521ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ry6nQAC/202652836"
+  },
+  {
+    "course_codes": [
+      52849
+    ],
+    "course_title": "LAHU 2010 Special Lecture (Arts and Humanities)(IA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "森井 一真"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS567ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyJNQA0/202652849"
+  },
+  {
+    "course_codes": [
+      52851
+    ],
+    "course_title": "LAHU 2010 Special Lecture (Arts and Humanities)(IC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "CAPKOVA HELENA"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS561ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rwp1QAC/202652851"
+  },
+  {
+    "course_codes": [
+      52873
+    ],
+    "course_title": "LASS 2010 Special Lecture (Social Sciences)(IL)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火5",
+    "slots": [
+      {
+        "day": "火",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "EMILY CHUNG-MOYA"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN517ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxDeQAK/202652873"
+  },
+  {
+    "course_codes": [
+      52874
+    ],
+    "course_title": "LASS 2010 Special Lecture (Social Sciences)(IM)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "MINA TADROUS"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS560セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxEcQAK/202652874"
+  },
+  {
+    "course_codes": [
+      52887
+    ],
+    "course_title": "LAST 2001 Ocean and Society: The Blue Bridge in the Asia Pacific(I)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "MARQUEZ GIAN POWELL"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN517ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxSoQAK/202652887"
+  },
+  {
+    "course_codes": [
+      52890
+    ],
+    "course_title": "LAST 1101 Introduction to Biology (I)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火5",
+    "slots": [
+      {
+        "day": "火",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "MARQUEZ GIAN POWELL"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS564ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxViQAK/202652890"
+  },
+  {
+    "course_codes": [
+      52949,
+      52950
+    ],
+    "course_title": "GLA 3001 Research Seminar (30)",
+    "course_title_alt": "Research Seminar (30)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "藤田 加代子"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS567ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwvoQAC/202652949"
+  },
+  {
+    "course_codes": [
+      52818
+    ],
+    "course_title": "GLA 1001 Career Design 1 (IC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "北野 知佳"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN510セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rxq1QAC/202652818"
+  },
+  {
+    "course_codes": [
+      52835
+    ],
+    "course_title": "JOUR 1001 Introduction to Journalism (I)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "BARRY OUMAROU"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS560セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ry4DQAS/202652835"
+  },
+  {
+    "course_codes": [
+      52863
+    ],
+    "course_title": "LASS 2010 Special Lecture (Social Sciences)(IA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "RASIT HUSEYIN"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS557ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx0dQAC/202652863"
+  },
+  {
+    "course_codes": [
+      52864
+    ],
+    "course_title": "LASS 2010 Special Lecture (Social Sciences)(IB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "廣野 美和"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN517ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx1bQAC/202652864"
+  },
+  {
+    "course_codes": [
+      52867
+    ],
+    "course_title": "LASS 2010 Special Lecture (Social Sciences)(IE)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "塚田 英恵"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN527ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx7qQAC/202652867"
+  },
+  {
+    "course_codes": [
+      52878
+    ],
+    "course_title": "LASS 2010 Special Lecture (Social Sciences)(IQ)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "塚田 英恵"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS557ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxK6QAK/202652878"
+  },
+  {
+    "course_codes": [
+      52902
+    ],
+    "course_title": "POLS 1002 Introduction to International Relations(I)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "志村 真弓"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN517ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxhKQAS/202652902"
+  },
+  {
+    "course_codes": [
+      52903
+    ],
+    "course_title": "POLS 1002 Introduction to International Relations(IB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "志村 真弓"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS567ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxiIQAS/202652903"
+  },
+  {
+    "course_codes": [
+      52915
+    ],
+    "course_title": "SOC 2002 Contemporary Social and Political Theory(I)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "RASIT HUSEYIN"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS564ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxtuQAC/202652915"
+  },
+  {
+    "course_codes": [
+      52927,
+      52928
+    ],
+    "course_title": "GLA 3001 Research Seminar (05)",
+    "course_title_alt": "Research Seminar (05)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "糸井 貴夕"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN524ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ry2IQAS/202652927"
+  },
+  {
+    "course_codes": [
+      52929,
+      52930
+    ],
+    "course_title": "GLA 3001 Research Seminar (06)",
+    "course_title_alt": "Research Seminar (06)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "志村 真弓"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN517ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ry3GQAS/202652929"
+  },
+  {
+    "course_codes": [
+      52935,
+      52936
+    ],
+    "course_title": "GLA 3001 Research Seminar (09)",
+    "course_title_alt": "Research Seminar (09)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "石原 悠子"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS564ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ry7mQAC/202652935"
+  },
+  {
+    "course_codes": [
+      52939,
+      52940
+    ],
+    "course_title": "GLA 3001 Research Seminar (25)",
+    "course_title_alt": "Research Seminar (25)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "北野 知佳"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN520セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ry9iQAC/202652939"
+  },
+  {
+    "course_codes": [
+      52943,
+      52944
+    ],
+    "course_title": "GLA 3001 Research Seminar (27)",
+    "course_title_alt": "Research Seminar (27)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "塚田 英恵"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN517ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwsuQAC/202652943"
+  },
+  {
+    "course_codes": [
+      52951,
+      52952
+    ],
+    "course_title": "GLA 3001 Research Seminar (31)",
+    "course_title_alt": "Research Seminar (31)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "廣野 美和"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN527ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwwmQAC/202652951"
+  },
+  {
+    "course_codes": [
+      52953,
+      52954
+    ],
+    "course_title": "GLA 3001 Research Seminar (32)",
+    "course_title_alt": "Research Seminar (32)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "BATOOL SAEEDA"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN521ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwxkQAC/202652953"
+  },
+  {
+    "course_codes": [
+      52959,
+      52960
+    ],
+    "course_title": "GLA 3001 Research Seminar (50)",
+    "course_title_alt": "Research Seminar (50)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "THOUNY CHRISTOPHE"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS550セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx0eQAC/202652959"
+  },
+  {
+    "course_codes": [
+      52969,
+      52970
+    ],
+    "course_title": "GLA 3001 Research Seminar (55)",
+    "course_title_alt": "Research Seminar (55)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "糸井 貴夕"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN524ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx8pQAC/202652969"
+  },
+  {
+    "course_codes": [
+      52971,
+      52972
+    ],
+    "course_title": "GLA 3001 Research Seminar (56)",
+    "course_title_alt": "Research Seminar (56)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "志村 真弓"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS567ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx9nQAC/202652971"
+  },
+  {
+    "course_codes": [
+      52977,
+      52978
+    ],
+    "course_title": "GLA 3001 Research Seminar (59)",
+    "course_title_alt": "Research Seminar (59)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "石原 悠子"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN527ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxChQAK/202652977"
+  },
+  {
+    "course_codes": [
+      52981,
+      52982
+    ],
+    "course_title": "GLA 3001 Research Seminar (75)",
+    "course_title_alt": "Research Seminar (75)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "北野 知佳"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS561ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxEdQAK/202652981"
+  },
+  {
+    "course_codes": [
+      52985,
+      52986
+    ],
+    "course_title": "GLA 3001 Research Seminar (77)",
+    "course_title_alt": "Research Seminar (77)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "塚田 英恵"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS557ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxIBQA0/202652985"
+  },
+  {
+    "course_codes": [
+      52993,
+      52994
+    ],
+    "course_title": "GLA 3001 Research Seminar (81)",
+    "course_title_alt": "Research Seminar (81)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "MINA TADROUS"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS560セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxM3QAK/202652993"
+  },
+  {
+    "course_codes": [
+      52995,
+      52996
+    ],
+    "course_title": "GLA 3001 Research Seminar (82)",
+    "course_title_alt": "Research Seminar (82)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "BATOOL SAEEDA"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN521ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxN1QAK/202652995"
+  },
+  {
+    "course_codes": [
+      52997,
+      52998
+    ],
+    "course_title": "GLA 3001 Research Seminar (83)",
+    "course_title_alt": "Research Seminar (83)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "AYTUN OZTURK"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS550セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxNzQAK/202652997"
+  },
+  {
+    "course_codes": [
+      52750
+    ],
+    "course_title": "GLA 1201 Foundations in Research Skills 1(IA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "DENIZ RASIT EZGI"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN520セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxqyQAC/202652750"
+  },
+  {
+    "course_codes": [
+      52751
+    ],
+    "course_title": "GLA 1201 Foundations in Research Skills 1(IB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "DENIZ RASIT EZGI"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN520セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxrwQAC/202652751"
+  },
+  {
+    "course_codes": [
+      52755
+    ],
+    "course_title": "GLA 1202 Foundations in Research Skills 2(IA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "DENIZ RASIT EZGI"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN510セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwwkQAC/202652755"
+  },
+  {
+    "course_codes": [
+      52756
+    ],
+    "course_title": "GLA 1202 Foundations in Research Skills 2(IB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "北野 知佳"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN520セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwxiQAC/202652756"
+  },
+  {
+    "course_codes": [
+      52760
+    ],
+    "course_title": "GLA 1101 Critical Thinking 1 (IA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "MOYLE BLAKE"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS560セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx1aQAC/202652760"
+  },
+  {
+    "course_codes": [
+      52763
+    ],
+    "course_title": "GLA 1101 Critical Thinking 1 (ID)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "MOYLE BLAKE"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS560セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx7pQAC/202652763"
+  },
+  {
+    "course_codes": [
+      52766
+    ],
+    "course_title": "GLA 1102 Critical Thinking 2 (IB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "MOYLE BLAKE"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS560セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxAjQAK/202652766"
+  },
+  {
+    "course_codes": [
+      52768
+    ],
+    "course_title": "GLA 1102 Critical Thinking 2 (ID)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "DENIZ RASIT EZGI"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN510セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxCfQAK/202652768"
+  },
+  {
+    "course_codes": [
+      52795
+    ],
+    "course_title": "ARTH 2002 Histories in Modern and Contemporary Art(I)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "CAPKOVA HELENA"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS557ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxTlQAK/202652795"
+  },
+  {
+    "course_codes": [
+      52809
+    ],
+    "course_title": "EDU 1001 Introduction to Education (IA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木3",
+    "slots": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "塚田 英恵"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN521ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxhJQAS/202652809"
+  },
+  {
+    "course_codes": [
+      52813
+    ],
+    "course_title": "GLA 0901 Liberal Arts Experience (IB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "堀江 未来"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN521ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxlBQAS/202652813"
+  },
+  {
+    "course_codes": [
+      52848
+    ],
+    "course_title": "LAHU 2010 Special Lecture (Arts and Humanities)(I)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木3",
+    "slots": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "CAPKOVA HELENA"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN517ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyIPQA0/202652848"
+  },
+  {
+    "course_codes": [
+      52850
+    ],
+    "course_title": "LAHU 2010 Special Lecture (Arts and Humanities)(IB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "CAPKOVA HELENA"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS567ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rwo3QAC/202652850"
+  },
+  {
+    "course_codes": [
+      52866
+    ],
+    "course_title": "LASS 2010 Special Lecture (Social Sciences)(ID)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "志村 真弓"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN527ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx6sQAC/202652866"
+  },
+  {
+    "course_codes": [
+      52872
+    ],
+    "course_title": "LASS 2010 Special Lecture (Social Sciences)(IK)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "北野 知佳"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN520セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxCgQAK/202652872"
+  },
+  {
+    "course_codes": [
+      52877
+    ],
+    "course_title": "LASS 2010 Special Lecture (Social Sciences)(IP)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "志村 真弓"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS557ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxJ8QAK/202652877"
+  },
+  {
+    "course_codes": [
+      52905
+    ],
+    "course_title": "POLS 2001 Contemporary Japan (IB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "孫 瑶"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS550セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxkEQAS/202652905"
+  },
+  {
+    "course_codes": [
+      52914
+    ],
+    "course_title": "SOC 2001 Classical Social and Political Theory(I)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "RASIT HUSEYIN"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN521ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxswQAC/202652914"
+  },
+  {
+    "course_codes": [
+      52931,
+      52932
+    ],
+    "course_title": "GLA 3001 Research Seminar (07)",
+    "course_title_alt": "Research Seminar (07)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "堀江 未来"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN517ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ry4EQAS/202652931"
+  },
+  {
+    "course_codes": [
+      52933,
+      52934
+    ],
+    "course_title": "GLA 3001 Research Seminar (08)",
+    "course_title_alt": "Research Seminar (08)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "山岸 典子"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS557ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ry6oQAC/202652933"
+  },
+  {
+    "course_codes": [
+      52941,
+      52942
+    ],
+    "course_title": "GLA 3001 Research Seminar (26)",
+    "course_title_alt": "Research Seminar (26)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "JOHNSON CHRISTOPHER"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS564ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyAgQAK/202652941"
+  },
+  {
+    "course_codes": [
+      52945,
+      52946
+    ],
+    "course_title": "GLA 3001 Research Seminar (28)",
+    "course_title_alt": "Research Seminar (28)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "CAPKOVA HELENA"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN517ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwtsQAC/202652945"
+  },
+  {
+    "course_codes": [
+      52947,
+      52948
+    ],
+    "course_title": "GLA 3001 Research Seminar (29)",
+    "course_title_alt": "Research Seminar (29)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "RASIT HUSEYIN"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN521ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwuqQAC/202652947"
+  },
+  {
+    "course_codes": [
+      52955,
+      52956
+    ],
+    "course_title": "GLA 3001 Research Seminar (33)",
+    "course_title_alt": "Research Seminar (33)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "AYTUN OZTURK"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN527ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwyiQAC/202652955"
+  },
+  {
+    "course_codes": [
+      52961,
+      52962
+    ],
+    "course_title": "GLA 3001 Research Seminar (51)",
+    "course_title_alt": "Research Seminar (51)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "MORITZ MARUTSCHKE"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN524ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx1cQAC/202652961"
+  },
+  {
+    "course_codes": [
+      52963,
+      52964
+    ],
+    "course_title": "GLA 3001 Research Seminar (52)",
+    "course_title_alt": "Research Seminar (52)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "EMILY CHUNG-MOYA"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN527ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx5vQAC/202652963"
+  },
+  {
+    "course_codes": [
+      52973,
+      52974
+    ],
+    "course_title": "GLA 3001 Research Seminar (57)",
+    "course_title_alt": "Research Seminar (57)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "堀江 未来"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN517ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxAlQAK/202652973"
+  },
+  {
+    "course_codes": [
+      52975,
+      52976
+    ],
+    "course_title": "GLA 3001 Research Seminar (58)",
+    "course_title_alt": "Research Seminar (58)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "山岸 典子"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS561ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxBjQAK/202652975"
+  },
+  {
+    "course_codes": [
+      52979,
+      52980
+    ],
+    "course_title": "GLA 3001 Research Seminar (60)",
+    "course_title_alt": "Research Seminar (60)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "森井 一真"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS564ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxDfQAK/202652979"
+  },
+  {
+    "course_codes": [
+      52983,
+      52984
+    ],
+    "course_title": "GLA 3001 Research Seminar (76)",
+    "course_title_alt": "Research Seminar (76)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "JOHNSON CHRISTOPHER"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS567ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxHDQA0/202652983"
+  },
+  {
+    "course_codes": [
+      52987,
+      52988
+    ],
+    "course_title": "GLA 3001 Research Seminar (78)",
+    "course_title_alt": "Research Seminar (78)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "CAPKOVA HELENA"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS557ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxJ9QAK/202652987"
+  },
+  {
+    "course_codes": [
+      54702
+    ],
+    "course_title": "GLA 0901 Liberal Arts Experience (IA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "EMILY CHUNG-MOYA"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN517ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD0000043dLvQAI/202654702"
+  },
+  {
+    "course_codes": [
+      52740
+    ],
+    "course_title": "WRT 1001 College Writing 1 (IC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金1",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "BARRY OUMAROU"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN510セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxhIQAS/202652740"
+  },
+  {
+    "course_codes": [
+      52745
+    ],
+    "course_title": "WRT 1002 College Writing 2 (IA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金1",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "MOYLE BLAKE"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN520セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rxm8QAC/202652745"
+  },
+  {
+    "course_codes": [
+      52746
+    ],
+    "course_title": "WRT 1002 College Writing 2 (IB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金2",
+    "slots": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "BARRY OUMAROU"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN510セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rxn6QAC/202652746"
+  },
+  {
+    "course_codes": [
+      52747
+    ],
+    "course_title": "WRT 1002 College Writing 2 (IC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金1",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "MOYLE BLAKE"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS550セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rxo4QAC/202652747"
+  },
+  {
+    "course_codes": [
+      52748
+    ],
+    "course_title": "WRT 1002 College Writing 2 (ID)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金1",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "BARRY OUMAROU"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN520セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rxp2QAC/202652748"
+  },
+  {
+    "course_codes": [
+      52749
+    ],
+    "course_title": "WRT 1002 College Writing 2 (IE)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金2",
+    "slots": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "BARRY OUMAROU"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN520セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rxq0QAC/202652749"
+  },
+  {
+    "course_codes": [
+      52796
+    ],
+    "course_title": "BAIS 2001 Global Management Studies (I)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金1",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "AYTUN OZTURK"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN227マルチメディアルーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxUjQAK/202652796"
+  },
+  {
+    "course_codes": [
+      52799
+    ],
+    "course_title": "CIS 2001 Applied Data Curation (I)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金4",
+    "slots": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "WILLIAMS DAVID M.L."
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS561ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxXdQAK/202652799"
+  },
+  {
+    "course_codes": [
+      52811
+    ],
+    "course_title": "EDU 1001 Introduction to Education (IC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金4",
+    "slots": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "塚田 英恵"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN517ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxjFQAS/202652811"
+  },
+  {
+    "course_codes": [
+      52852
+    ],
+    "course_title": "LAHU 2010 Special Lecture (Arts and Humanities)(ID)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金5",
+    "slots": [
+      {
+        "day": "金",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "山下 惠理"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN521ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwpzQAC/202652852"
+  },
+  {
+    "course_codes": [
+      52865
+    ],
+    "course_title": "LASS 2010 Special Lecture (Social Sciences)(IC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金3",
+    "slots": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "AYTUN OZTURK"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN227マルチメディアルーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx5uQAC/202652865"
+  },
+  {
+    "course_codes": [
+      52882
+    ],
+    "course_title": "LAST 2010 Special Lecture (Science and Technology)(IA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金2",
+    "slots": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "MARQUEZ GIAN POWELL"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS564ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxNyQAK/202652882"
+  },
+  {
+    "course_codes": [
+      52892
+    ],
+    "course_title": "LAST 1201 Introduction to Physics (I)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金4",
+    "slots": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "KONARA K. M. GAYANI"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN510セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxXeQAK/202652892"
+  },
+  {
+    "course_codes": [
+      52893
+    ],
+    "course_title": "LAST 1201 Introduction to Physics (IB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金3",
+    "slots": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "KONARA K. M. GAYANI"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN510セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxYcQAK/202652893"
+  },
+  {
+    "course_codes": [
+      52919,
+      52920
+    ],
+    "course_title": "GLA 3001 Research Seminar (01)",
+    "course_title_alt": "Research Seminar (01)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金3",
+    "slots": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "MORITZ MARUTSCHKE"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS561ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxwoQAC/202652919"
+  },
+  {
+    "course_codes": [
+      52923,
+      52924
+    ],
+    "course_title": "GLA 3001 Research Seminar (03)",
+    "course_title_alt": "Research Seminar (03)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金1",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "山下 惠理"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS564ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxykQAC/202652923"
+  },
+  {
+    "course_codes": [
+      52925,
+      52926
+    ],
+    "course_title": "GLA 3001 Research Seminar (04)",
+    "course_title_alt": "Research Seminar (04)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金3",
+    "slots": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "MARQUEZ GIAN POWELL"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AS564ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxziQAC/202652925"
+  },
+  {
+    "course_codes": [
+      52965,
+      52966
+    ],
+    "course_title": "GLA 3001 Research Seminar (53)",
+    "course_title_alt": "Research Seminar (53)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金1",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "山下 惠理"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN521ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx6tQAC/202652965"
+  },
+  {
+    "course_codes": [
+      52967,
+      52968
+    ],
+    "course_title": "GLA 3001 Research Seminar (54)",
+    "course_title_alt": "Research Seminar (54)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金1",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "MARQUEZ GIAN POWELL"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "AN517ラーニング・スタジオ",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx7rQAC/202652967"
+  },
+  {
+    "course_codes": [
+      52812
+    ],
+    "course_title": "GLA 0901 Liberal Arts Experience (I)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "廣野 美和"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "Ａ棟",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxkDQAS/202652812"
+  },
+  {
+    "course_codes": [
+      54703
+    ],
+    "course_title": "GLA 0901 Liberal Arts Experience (IE)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅲ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "EMILY CHUNG-MOYA"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "OIC",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD0000043dLwQAI/202654703"
+  },
+  {
+    "course_codes": [
+      52814
+    ],
+    "course_title": "GLA 0901 Liberal Arts Experience (IC)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "山下 惠理"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "Ａ棟",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rxm9QAC/202652814"
+  },
+  {
+    "course_codes": [
+      52815
+    ],
+    "course_title": "GLA 0901 Liberal Arts Experience (ID)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "MARQUEZ GIAN POWELL"
+    ],
+    "credits": 2,
+    "campus": "OIC",
+    "classroom": "Ａ棟",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rxn7QAC/202652815"
+  }
+]

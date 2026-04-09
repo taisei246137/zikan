@@ -1,0 +1,5372 @@
+[
+  {
+    "course_codes": [
+      34923
+    ],
+    "course_title": "データサイエンス・AI基礎 (G1)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月",
+    "slots": [
+      {
+        "day": "月",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwaLQAS/202634923"
+  },
+  {
+    "course_codes": [
+      34924
+    ],
+    "course_title": "データサイエンス・AI基礎 (G2)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月",
+    "slots": [
+      {
+        "day": "月",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwbJQAS/202634924"
+  },
+  {
+    "course_codes": [
+      11628
+    ],
+    "course_title": "（留）日本語Ⅳ（聴解口頭）(Z)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3,水2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "久米 朋子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY402号教室/諒友館RY203号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvEsQAK/202611628"
+  },
+  {
+    "course_codes": [
+      11634
+    ],
+    "course_title": "（留）日本語Ⅲ（聴解口頭）(Z)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3,火2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "川瀬 愛"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "洋洋館YY203号教室/諒友館RY304号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuUsQAK/202611634"
+  },
+  {
+    "course_codes": [
+      11639
+    ],
+    "course_title": "（留）日本語Ⅱ（聴解口頭）(Z)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月2,火4",
+    "slots": [
+      {
+        "day": "月",
+        "period": 2
+      },
+      {
+        "day": "火",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "増田 寛次"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "学而館GJ307号教室/諒友館RY408号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuZYQA0/202611639"
+  },
+  {
+    "course_codes": [
+      11758
+    ],
+    "course_title": "（留）日本語Ⅳ（聴解口頭）(K)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3,水2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "久米 朋子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY305号教室/学而館GJ308号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ruv5QAC/202611758"
+  },
+  {
+    "course_codes": [
+      11764
+    ],
+    "course_title": "（留）日本語Ⅲ（聴解口頭）(K)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3,火2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "川瀬 愛"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "学而館GJ307号教室/洋洋館YY303号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv0hQAC/202611764"
+  },
+  {
+    "course_codes": [
+      11771
+    ],
+    "course_title": "（留）日本語Ⅱ（聴解口頭）(K)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月2,火4",
+    "slots": [
+      {
+        "day": "月",
+        "period": 2
+      },
+      {
+        "day": "火",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "増田 寛次"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "学而館GJ310号教室/諒友館RY304号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv7IQAS/202611771"
+  },
+  {
+    "course_codes": [
+      11595
+    ],
+    "course_title": "（留）日本語6（聴解口頭） (Z)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火3,金4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "川瀬 愛"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY304号教室/諒友館RY302号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RumdQAC/202611595"
+  },
+  {
+    "course_codes": [
+      11620
+    ],
+    "course_title": "（留）日本語Ⅴ（聴解口頭）(Z)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2,木4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "増田 寛次"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY408号教室/諒友館RY405号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv7GQAS/202611620"
+  },
+  {
+    "course_codes": [
+      11724
+    ],
+    "course_title": "（留）日本語6（聴解口頭） (K)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火3,金4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "川瀬 愛"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "洋洋館YY303号教室/学而館GJ305号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuQTQA0/202611724"
+  },
+  {
+    "course_codes": [
+      11750
+    ],
+    "course_title": "（留）日本語Ⅴ（聴解口頭）(K)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2,木4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "増田 寛次"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY304号教室/諒友館RY405号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RunbQAC/202611750"
+  },
+  {
+    "course_codes": [
+      34925
+    ],
+    "course_title": "データエンジニアリング基礎 (G1)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水",
+    "slots": [
+      {
+        "day": "水",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwcHQAS/202634925"
+  },
+  {
+    "course_codes": [
+      34926
+    ],
+    "course_title": "データエンジニアリング基礎 (G2)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水",
+    "slots": [
+      {
+        "day": "水",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwdFQAS/202634926"
+  },
+  {
+    "course_codes": [
+      11609
+    ],
+    "course_title": "（留）日本語Ⅵ（聴解口頭）(Z)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2,金3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "久次 優子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY204号教室/学而館GJ304号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuxrQAC/202611609"
+  },
+  {
+    "course_codes": [
+      11621
+    ],
+    "course_title": "（留）日本語Ⅴ（聴解口頭）(Z2)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2,金3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "菅 智穂"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "学而館GJ311号教室/諒友館RY303号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv8DQAS/202611621"
+  },
+  {
+    "course_codes": [
+      11629
+    ],
+    "course_title": "（留）日本語Ⅳ（聴解口頭）(Z2)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,金3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "澁谷 きみ子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY303号教室/諒友館RY305号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuOaQAK/202611629"
+  },
+  {
+    "course_codes": [
+      11642
+    ],
+    "course_title": "（留）日本語Ⅰ（聴解口頭）(Z)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,木2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "堀野 善康"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY406号教室/学而館GJ308号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RucMQAS/202611642"
+  },
+  {
+    "course_codes": [
+      11739
+    ],
+    "course_title": "（留）日本語Ⅵ（聴解口頭）(K)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2,金3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "久次 優子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY305号教室/諒友館RY304号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RueFQAS/202611739"
+  },
+  {
+    "course_codes": [
+      11751
+    ],
+    "course_title": "（留）日本語Ⅴ（聴解口頭）(K2)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2,金3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "菅 智穂"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "学而館GJ309号教室/諒友館RY303号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuoXQAS/202611751"
+  },
+  {
+    "course_codes": [
+      11759
+    ],
+    "course_title": "（留）日本語Ⅳ（聴解口頭）(K2)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,金3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "澁谷 きみ子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "洋洋館YY203号教室/諒友館RY406号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ruw1QAC/202611759"
+  },
+  {
+    "course_codes": [
+      11774
+    ],
+    "course_title": "（留）日本語Ⅰ（聴解口頭）(K)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,木2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "堀野 善康"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "学而館GJ311号教室/諒友館RY406号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvA9QAK/202611774"
+  },
+  {
+    "course_codes": [
+      10258
+    ],
+    "course_title": "グローバル社会の体験と理解（Global Fieldwork Project）(AC)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "駒見 一善"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RupCQAS/202610258"
+  },
+  {
+    "course_codes": [
+      10260
+    ],
+    "course_title": "グローバル社会の体験と理解（Global Fieldwork Project）(AE)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "石川 涼子"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rur4QAC/202610260"
+  },
+  {
+    "course_codes": [
+      10263
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BB)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RutsQAC/202610263"
+  },
+  {
+    "course_codes": [
+      10264
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BC)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuuoQAC/202610264"
+  },
+  {
+    "course_codes": [
+      10265
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BD)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuvkQAC/202610265"
+  },
+  {
+    "course_codes": [
+      10272,
+      10273
+    ],
+    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CB)",
+    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CB)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv1MQAS/202610272"
+  },
+  {
+    "course_codes": [
+      10282,
+      10283
+    ],
+    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CG)",
+    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CG)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuPHQA0/202610282"
+  },
+  {
+    "course_codes": [
+      10284
+    ],
+    "course_title": "グローバル社会の体験と理解（昭和ボストン）(DA)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuQDQA0/202610284"
+  },
+  {
+    "course_codes": [
+      10288
+    ],
+    "course_title": "Global Project-Based Learning（Advanced Global Fieldwork Project）(GD)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "庄子 萌"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuVZQA0/202610288"
+  },
+  {
+    "course_codes": [
+      10290
+    ],
+    "course_title": "Intensive Language Workshop（マコーリー大学）(IA)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuXRQA0/202610290"
+  },
+  {
+    "course_codes": [
+      10291
+    ],
+    "course_title": "Area Study Ⅰ（マコーリー大学）(IB)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuYNQA0/202610291"
+  },
+  {
+    "course_codes": [
+      10338
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BL)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RukYQAS/202610338"
+  },
+  {
+    "course_codes": [
+      10340
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BN)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RumQQAS/202610340"
+  },
+  {
+    "course_codes": [
+      10257
+    ],
+    "course_title": "グローバル社会の体験と理解（Global Fieldwork Project）(AA)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "石川 涼子"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuoGQAS/202610257"
+  },
+  {
+    "course_codes": [
+      10259
+    ],
+    "course_title": "グローバル社会の体験と理解（Global Fieldwork Project）(AD)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "庄子 萌"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ruq8QAC/202610259"
+  },
+  {
+    "course_codes": [
+      10262
+    ],
+    "course_title": "グローバル社会の体験と理解（Global Fieldwork Project）(AG)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "駒見 一善"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuswQAC/202610262"
+  },
+  {
+    "course_codes": [
+      10266
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BF)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuwgQAC/202610266"
+  },
+  {
+    "course_codes": [
+      10267
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BG)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuxcQAC/202610267"
+  },
+  {
+    "course_codes": [
+      10268
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BH)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuyYQAS/202610268"
+  },
+  {
+    "course_codes": [
+      10269
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BI)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuzUQAS/202610269"
+  },
+  {
+    "course_codes": [
+      10270,
+      10271
+    ],
+    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CA)",
+    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CA)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv0QQAS/202610270"
+  },
+  {
+    "course_codes": [
+      10274,
+      10275
+    ],
+    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CC)",
+    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CC)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv2IQAS/202610274"
+  },
+  {
+    "course_codes": [
+      10276,
+      10277
+    ],
+    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CD)",
+    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CD)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv3EQAS/202610276"
+  },
+  {
+    "course_codes": [
+      10278,
+      10279
+    ],
+    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CE)",
+    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CE)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv4AQAS/202610278"
+  },
+  {
+    "course_codes": [
+      10280,
+      10281
+    ],
+    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CF)",
+    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CF)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuOLQA0/202610280"
+  },
+  {
+    "course_codes": [
+      10285
+    ],
+    "course_title": "Global Project-Based Learning（海外スタディ）(EA)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuSlQAK/202610285"
+  },
+  {
+    "course_codes": [
+      10287
+    ],
+    "course_title": "Global Project-Based Learning（Advanced Global Fieldwork Project）(GB)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "羽谷 沙織"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuUdQAK/202610287"
+  },
+  {
+    "course_codes": [
+      10289
+    ],
+    "course_title": "Area Study Ⅱ（海外スタディ）(HA)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 4,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuWVQA0/202610289"
+  },
+  {
+    "course_codes": [
+      10339
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BM)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RulUQAS/202610339"
+  },
+  {
+    "course_codes": [
+      17225
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BO)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000004t6yXQAQ/202617225"
+  },
+  {
+    "course_codes": [
+      16970,
+      16971
+    ],
+    "course_title": "Foundations of Data Science and AI (G1)",
+    "course_title_alt": "RUIR-1806 Foundations of Data Science and AI(JD)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火",
+    "slots": [
+      {
+        "day": "火",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "情報理工学部",
+      "法学部",
+      "国際関係学部",
+      "映像学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwrWQAS/202616970"
+  },
+  {
+    "course_codes": [
+      16972,
+      16973
+    ],
+    "course_title": "Foundations of Data Engineering (G1)",
+    "course_title_alt": "RUIR-1807 Foundations of Data Engineering(JD)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火",
+    "slots": [
+      {
+        "day": "火",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "情報理工学部",
+      "法学部",
+      "国際関係学部",
+      "映像学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwsUQAS/202616972"
+  },
+  {
+    "course_codes": [
+      10301
+    ],
+    "course_title": "Academic Communication(Online Learning)(立命館XUC Davis “Online Learning”)(QA)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuhjQAC/202610301"
+  },
+  {
+    "course_codes": [
+      10302
+    ],
+    "course_title": "Area Study(Online Learning)(立命館XUC Davis “Online Learning”)(RA)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuifQAC/202610302"
+  },
+  {
+    "course_codes": [
+      12157
+    ],
+    "course_title": "民法Ⅱ（債権各論）(JB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4,木1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "谷江 陽介"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS207号教室/存心館ZS207号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部",
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuaZQAS/202612157"
+  },
+  {
+    "course_codes": [
+      12158
+    ],
+    "course_title": "民法Ⅱ（債権各論）(JC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2,木3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "臼井 豊"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS201号教室/存心館ZS201号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部",
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RubVQAS/202612158"
+  },
+  {
+    "course_codes": [
+      12156
+    ],
+    "course_title": "民法Ⅱ（債権各論）(JA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1,木2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "中谷 崇"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS201号教室/存心館ZS201号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部",
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuZdQAK/202612156"
+  },
+  {
+    "course_codes": [
+      12210
+    ],
+    "course_title": "行政法Ⅰ(JA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1,水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "正木 宏長"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS301号教室/存心館ZS301号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部",
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvE1QAK/202612210"
+  },
+  {
+    "course_codes": [
+      12211
+    ],
+    "course_title": "行政法Ⅰ(JB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木4,木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "谷 遼大"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS301号教室/存心館ZS301号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部",
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvEyQAK/202612211"
+  },
+  {
+    "course_codes": [
+      12212
+    ],
+    "course_title": "行政法Ⅰ(JC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金1,金2",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "須藤 陽子"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS301号教室/存心館ZS301号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部",
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvFvQAK/202612212"
+  },
+  {
+    "course_codes": [
+      12213
+    ],
+    "course_title": "行政法Ⅱ(J)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金1,金2",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "正木 宏長"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS301号教室/存心館ZS301号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部",
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvGsQAK/202612213"
+  },
+  {
+    "course_codes": [
+      15331,
+      15332
+    ],
+    "course_title": "IR26-LANG101 English for International StudiesⅠ (Advanced)(RA)",
+    "course_title_alt": "IR18‐BA101 English for International StudiesⅠ (Advanced)(RA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3,木2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "佐伯 千鶴"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY206号教室/諒友館RY206号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RusnQAC/202615331"
+  },
+  {
+    "course_codes": [
+      15333,
+      15334
+    ],
+    "course_title": "IR26-LANG101 English for International StudiesⅠ (High‐Intermediate)(RB)",
+    "course_title_alt": "IR18‐BA101 English for International StudiesⅠ (High‐Intermediate)(RB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3,木2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "FISHER SCOTT PATRICK"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY207号教室/諒友館RY207号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RutjQAC/202615333"
+  },
+  {
+    "course_codes": [
+      15335,
+      15336
+    ],
+    "course_title": "IR26-LANG101 English for International StudiesⅠ (High‐Intermediate)(RC)",
+    "course_title_alt": "IR18‐BA101 English for International StudiesⅠ (High‐Intermediate)(RC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3,木2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "五十嵐 優子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY208号教室/諒友館RY208号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuufQAC/202615335"
+  },
+  {
+    "course_codes": [
+      15337,
+      15338
+    ],
+    "course_title": "IR26-LANG101 English for International StudiesⅠ (Intermediate)(RD)",
+    "course_title_alt": "IR18‐BA101 English for International StudiesⅠ (Intermediate)(RD)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3,木2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "佐古 孝義"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY209号教室/諒友館RY209号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuvbQAC/202615337"
+  },
+  {
+    "course_codes": [
+      15339,
+      15340
+    ],
+    "course_title": "IR26-LANG101 English for International StudiesⅠ (Basic)(RE)",
+    "course_title_alt": "IR18‐BA101 English for International StudiesⅠ (Basic)(RE)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3,木2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "竹間 優美子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY301号教室/諒友館RY301号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuwXQAS/202615339"
+  },
+  {
+    "course_codes": [
+      15341,
+      15342
+    ],
+    "course_title": "IR26-LANG101 English for International StudiesⅠ (Advanced)(RF)",
+    "course_title_alt": "IR18‐BA101 English for International StudiesⅠ (Advanced)(RF)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4,木1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "佐伯 千鶴"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY206号教室/諒友館RY206号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuxTQAS/202615341"
+  },
+  {
+    "course_codes": [
+      15343,
+      15344
+    ],
+    "course_title": "IR26-LANG101 English for International StudiesⅠ (High‐Intermediate)(RG)",
+    "course_title_alt": "IR18‐BA101 English for International StudiesⅠ (High‐Intermediate)(RG)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4,木1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "FISHER SCOTT PATRICK"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY207号教室/諒友館RY207号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuyPQAS/202615343"
+  },
+  {
+    "course_codes": [
+      15345,
+      15346
+    ],
+    "course_title": "IR26-LANG101 English for International StudiesⅠ (High‐Intermediate)(RH)",
+    "course_title_alt": "IR18‐BA101 English for International StudiesⅠ (High‐Intermediate)(RH)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4,木1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "五十嵐 優子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY208号教室/諒友館RY208号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuzLQAS/202615345"
+  },
+  {
+    "course_codes": [
+      15347,
+      15348
+    ],
+    "course_title": "IR26-LANG101 English for International StudiesⅠ (Intermediate)(RI)",
+    "course_title_alt": "IR18‐BA101 English for International StudiesⅠ (Intermediate)(RI)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4,木1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "池田 淑子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY306号教室/諒友館RY306号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuOCQA0/202615347"
+  },
+  {
+    "course_codes": [
+      15349,
+      15350
+    ],
+    "course_title": "IR26-LANG101 English for International StudiesⅠ (Intermediate)(RJ)",
+    "course_title_alt": "IR18‐BA101 English for International StudiesⅠ (Intermediate)(RJ)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4,木1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "佐古 孝義"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY209号教室/諒友館RY209号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuP8QAK/202615349"
+  },
+  {
+    "course_codes": [
+      15351,
+      15352
+    ],
+    "course_title": "IR26-LANG101 English for International StudiesⅠ (Basic)(RK)",
+    "course_title_alt": "IR18‐BA101 English for International StudiesⅠ (Basic)(RK)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4,木1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "竹間 優美子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY301号教室/諒友館RY301号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuQ4QAK/202615351"
+  },
+  {
+    "course_codes": [
+      15375,
+      15376
+    ],
+    "course_title": "IR26-LANG103 English for International StudiesⅢ(RA)",
+    "course_title_alt": "IR18‐BA103 English for International StudiesⅢ (Theme‐based)(RA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3,木2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "佐伯 千鶴"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY206号教室/諒友館RY206号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RucuQAC/202615375"
+  },
+  {
+    "course_codes": [
+      15377,
+      15378
+    ],
+    "course_title": "IR26-LANG103 English for International StudiesⅢ(RB)",
+    "course_title_alt": "IR18‐BA103 English for International StudiesⅢ (Theme‐based)(RB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3,木2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "FISHER SCOTT PATRICK"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "恒心館KS207号教室/恒心館KS207号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RudqQAC/202615377"
+  },
+  {
+    "course_codes": [
+      15379,
+      15380
+    ],
+    "course_title": "IR26-LANG103 English for International StudiesⅢ(RC)",
+    "course_title_alt": "IR18‐BA103 English for International StudiesⅢ (Theme‐based)(RC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3,木2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "五十嵐 優子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY207号教室/諒友館RY207号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuemQAC/202615379"
+  },
+  {
+    "course_codes": [
+      15381,
+      15382
+    ],
+    "course_title": "IR26-LANG103 English for International StudiesⅢ(RD)",
+    "course_title_alt": "IR18‐BA103 English for International StudiesⅢ (Theme‐based)(RD)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3,木2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "佐古 孝義"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY208号教室/諒友館RY208号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RufiQAC/202615381"
+  },
+  {
+    "course_codes": [
+      15383,
+      15384
+    ],
+    "course_title": "IR26-LANG103 English for International StudiesⅢ(RE)",
+    "course_title_alt": "IR18‐BA103 English for International StudiesⅢ (Theme‐based)(RE)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3,木2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "竹間 優美子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY201号教室/諒友館RY201号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RugeQAC/202615383"
+  },
+  {
+    "course_codes": [
+      15385,
+      15386
+    ],
+    "course_title": "IR26-LANG103 English for International StudiesⅢ(RF)",
+    "course_title_alt": "IR18‐BA103 English for International StudiesⅢ (Theme‐based)(RF)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月4,木1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "佐伯 千鶴"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY206号教室/諒友館RY206号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuhaQAC/202615385"
+  },
+  {
+    "course_codes": [
+      15387,
+      15388
+    ],
+    "course_title": "IR26-LANG103 English for International StudiesⅢ(RG)",
+    "course_title_alt": "IR18‐BA103 English for International StudiesⅢ (Theme‐based)(RG)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月4,木1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "FISHER SCOTT PATRICK"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "恒心館KS207号教室/恒心館KS207号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuiWQAS/202615387"
+  },
+  {
+    "course_codes": [
+      15389,
+      15390
+    ],
+    "course_title": "IR26-LANG103 English for International StudiesⅢ(RH)",
+    "course_title_alt": "IR18‐BA103 English for International StudiesⅢ (Theme‐based)(RH)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月4,木1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "五十嵐 優子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY207号教室/諒友館RY207号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RujSQAS/202615389"
+  },
+  {
+    "course_codes": [
+      15391,
+      15392
+    ],
+    "course_title": "IR26-LANG103 English for International StudiesⅢ(RI)",
+    "course_title_alt": "IR18‐BA103 English for International StudiesⅢ (Theme‐based)(RI)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月4,木1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "池田 淑子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY309号教室/諒友館RY309号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RukOQAS/202615391"
+  },
+  {
+    "course_codes": [
+      15393,
+      15394
+    ],
+    "course_title": "IR26-LANG103 English for International StudiesⅢ(RJ)",
+    "course_title_alt": "IR18‐BA103 English for International StudiesⅢ (Theme‐based)(RJ)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月4,木1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "佐古 孝義"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY208号教室/諒友館RY208号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RulKQAS/202615393"
+  },
+  {
+    "course_codes": [
+      15395,
+      15396
+    ],
+    "course_title": "IR26-LANG103 English for International StudiesⅢ(RK)",
+    "course_title_alt": "IR18‐BA103 English for International StudiesⅢ (Theme‐based)(RK)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月4,木1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "竹間 優美子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY201号教室/諒友館RY201号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RumGQAS/202615395"
+  },
+  {
+    "course_codes": [
+      15555,
+      15556,
+      15557
+    ],
+    "course_title": "IR26-LANG128 Academic SkillsⅠ (Proficient)(RA)",
+    "course_title_alt": "IR18‐CB101 Academic SkillsⅠ(Proficient)(RA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4,木1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "FABBRETTI MATTEO"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY309号教室/諒友館RY309号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvCbQAK/202615555"
+  },
+  {
+    "course_codes": [
+      15558,
+      15559,
+      15560
+    ],
+    "course_title": "IR26-LANG128 Academic SkillsⅠ (Advanced+)(RB)",
+    "course_title_alt": "IR18‐CB101 Academic SkillsⅠ(Advanced+)(RB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4,木1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "KIM WACHUTKA JACKIE"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY308号教室/諒友館RY308号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvDYQA0/202615558"
+  },
+  {
+    "course_codes": [
+      15561,
+      15562,
+      15563
+    ],
+    "course_title": "IR26-LANG128 Academic SkillsⅠ (Advanced)(RC)",
+    "course_title_alt": "IR18‐CB101 Academic SkillsⅠ (Advanced)(RC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4,木1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "MATSUO SCOT"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY307号教室/諒友館RY307号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvEVQA0/202615561"
+  },
+  {
+    "course_codes": [
+      15564,
+      15565,
+      15566
+    ],
+    "course_title": "IR26-LANG128 Academic SkillsⅠ (Advanced)(RD)",
+    "course_title_alt": "IR18‐CB101 Academic SkillsⅠ (Advanced)(RD)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4,木1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "O’DAY DAWN"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY305号教室/諒友館RY305号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvFSQA0/202615564"
+  },
+  {
+    "course_codes": [
+      15567,
+      15568,
+      15569
+    ],
+    "course_title": "IR26-LANG128 Academic SkillsⅠ (Proficient)(RE)",
+    "course_title_alt": "IR18‐CB101 Academic SkillsⅠ(Proficient)(RE)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月4,木1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "O’MOCHAIN ROBERT"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY308号教室/諒友館RY308号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvGPQA0/202615567"
+  },
+  {
+    "course_codes": [
+      15570,
+      15571,
+      15572
+    ],
+    "course_title": "IR26-LANG128 Academic SkillsⅠ (Advanced+)(RF)",
+    "course_title_alt": "IR18‐CB101 Academic SkillsⅠ(Advanced+)(RF)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月4,木1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "KIM WACHUTKA JACKIE"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "学而館GJ311号教室/学而館GJ311号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvHMQA0/202615570"
+  },
+  {
+    "course_codes": [
+      15573,
+      15574,
+      15575
+    ],
+    "course_title": "IR26-LANG128 Academic SkillsⅠ (Advanced)(RG)",
+    "course_title_alt": "IR18‐CB101 Academic SkillsⅠ (Advanced)(RG)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月4,木1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "MATSUO SCOT"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY307号教室/諒友館RY307号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvIJQA0/202615573"
+  },
+  {
+    "course_codes": [
+      15353,
+      15354
+    ],
+    "course_title": "IR26-LANG102 English for International StudiesⅡ (Advanced)(RA)",
+    "course_title_alt": "IR18‐BA102 English for International StudiesⅡ (Advanced)(RA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1,金2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "MULLER STEPHEN"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY204号教室/諒友館RY204号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuScQAK/202615353"
+  },
+  {
+    "course_codes": [
+      15355,
+      15356
+    ],
+    "course_title": "IR26-LANG102 English for International StudiesⅡ (High‐Intermediate)(RB)",
+    "course_title_alt": "IR18‐BA102 English for International StudiesⅡ (High‐Intermediate)(RB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1,金2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "MATSUO SCOT"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "恒心館KS205号教室/恒心館KS205号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuTYQA0/202615355"
+  },
+  {
+    "course_codes": [
+      15357,
+      15358
+    ],
+    "course_title": "IR26-LANG102 English for International StudiesⅡ (High‐Intermediate)(RC)",
+    "course_title_alt": "IR18‐BA102 English for International StudiesⅡ (High‐Intermediate)(RC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1,金2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "NISHIKAWA TOSHIKI"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY206号教室/諒友館RY206号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuUUQA0/202615357"
+  },
+  {
+    "course_codes": [
+      15359,
+      15360
+    ],
+    "course_title": "IR26-LANG102 English for International StudiesⅡ (Intermediate)(RD)",
+    "course_title_alt": "IR18‐BA102 English for International StudiesⅡ (Intermediate)(RD)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1,金2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "O’DAY DAWN"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY205号教室/諒友館RY205号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuVQQA0/202615359"
+  },
+  {
+    "course_codes": [
+      15361,
+      15362
+    ],
+    "course_title": "IR26-LANG102 English for International StudiesⅡ (Basic)(RE)",
+    "course_title_alt": "IR18‐BA102 English for International StudiesⅡ (Basic)(RE)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1,金2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "FABBRETTI MATTEO"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "学而館GJ311号教室/学而館GJ311号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuWMQA0/202615361"
+  },
+  {
+    "course_codes": [
+      15363,
+      15364
+    ],
+    "course_title": "IR26-LANG102 English for International StudiesⅡ (Advanced)(RF)",
+    "course_title_alt": "IR18‐BA102 English for International StudiesⅡ (Advanced)(RF)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2,金1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "MULLER STEPHEN"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY204号教室/諒友館RY204号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuXIQA0/202615363"
+  },
+  {
+    "course_codes": [
+      15365,
+      15366
+    ],
+    "course_title": "IR26-LANG102 English for International StudiesⅡ (High‐Intermediate)(RG)",
+    "course_title_alt": "IR18‐BA102 English for International StudiesⅡ (High‐Intermediate)(RG)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2,金1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "O’MOCHAIN ROBERT"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY208号教室/諒友館RY208号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuYEQA0/202615365"
+  },
+  {
+    "course_codes": [
+      15367,
+      15368
+    ],
+    "course_title": "IR26-LANG102 English for International StudiesⅡ (High‐Intermediate)(RH)",
+    "course_title_alt": "IR18‐BA102 English for International StudiesⅡ (High‐Intermediate)(RH)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2,金1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "NISHIKAWA TOSHIKI"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY206号教室/諒友館RY206号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuZAQA0/202615367"
+  },
+  {
+    "course_codes": [
+      15369,
+      15370
+    ],
+    "course_title": "IR26-LANG102 English for International StudiesⅡ (Intermediate)(RI)",
+    "course_title_alt": "IR18‐BA102 English for International StudiesⅡ (Intermediate)(RI)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2,金1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "MATSUO SCOT"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "恒心館KS205号教室/恒心館KS205号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rua6QAC/202615369"
+  },
+  {
+    "course_codes": [
+      15371,
+      15372
+    ],
+    "course_title": "IR26-LANG102 English for International StudiesⅡ (Intermediate)(RJ)",
+    "course_title_alt": "IR18‐BA102 English for International StudiesⅡ (Intermediate)(RJ)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2,金1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "O’DAY DAWN"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY205号教室/諒友館RY205号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rub2QAC/202615371"
+  },
+  {
+    "course_codes": [
+      15373,
+      15374
+    ],
+    "course_title": "IR26-LANG102 English for International StudiesⅡ (Basic)(RK)",
+    "course_title_alt": "IR18‐BA102 English for International StudiesⅡ (Basic)(RK)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2,金1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "FABBRETTI MATTEO"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "学而館GJ311号教室/学而館GJ311号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RubyQAC/202615373"
+  },
+  {
+    "course_codes": [
+      15397,
+      15398
+    ],
+    "course_title": "IR26-LANG104 English for International StudiesⅣ (Advanced)(RA)",
+    "course_title_alt": "IR18‐BA104 English for International StudiesⅣ (Advanced)(RA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1,金2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "KIM WACHUTKA JACKIE"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "恒心館KS207号教室/恒心館KS207号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RunCQAS/202615397"
+  },
+  {
+    "course_codes": [
+      15399,
+      15400
+    ],
+    "course_title": "IR26-LANG104 English for International StudiesⅣ (High‐Intermediate)(RB)",
+    "course_title_alt": "IR18‐BA104 English for International StudiesⅣ (High‐Intermediate)(RB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1,金2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "MULLER STEPHEN"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY206号教室/諒友館RY206号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ruo8QAC/202615399"
+  },
+  {
+    "course_codes": [
+      15401,
+      15402
+    ],
+    "course_title": "IR26-LANG104 English for International StudiesⅣ (High‐Intermediate)(RC)",
+    "course_title_alt": "IR18‐BA104 English for International StudiesⅣ (High‐Intermediate)(RC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1,金2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "FABBRETTI MATTEO"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY307号教室/諒友館RY307号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rup4QAC/202615401"
+  },
+  {
+    "course_codes": [
+      15403,
+      15404
+    ],
+    "course_title": "IR26-LANG104 English for International StudiesⅣ (Intermediate)(RD)",
+    "course_title_alt": "IR18‐BA104 English for International StudiesⅣ (Intermediate)(RD)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1,金2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "MATSUO SCOT"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY205号教室/諒友館RY205号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ruq0QAC/202615403"
+  },
+  {
+    "course_codes": [
+      15405,
+      15406
+    ],
+    "course_title": "IR26-LANG104 English for International StudiesⅣ (Intermediate)(RE)",
+    "course_title_alt": "IR18‐BA104 English for International StudiesⅣ (Intermediate)(RE)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1,金2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "NISHIKAWA TOSHIKI"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY204号教室/諒友館RY204号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuqwQAC/202615405"
+  },
+  {
+    "course_codes": [
+      15407,
+      15408
+    ],
+    "course_title": "IR26-LANG104 English for International StudiesⅣ (Basic)(RF)",
+    "course_title_alt": "IR18‐BA104 English for International StudiesⅣ (Basic)(RF)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1,金2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "O’DAY DAWN"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY209号教室/諒友館RY209号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RursQAC/202615407"
+  },
+  {
+    "course_codes": [
+      15409,
+      15410
+    ],
+    "course_title": "IR26-LANG104 English for International StudiesⅣ (Advanced)(RG)",
+    "course_title_alt": "IR18‐BA104 English for International StudiesⅣ (Advanced)(RG)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2,金1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "MULLER STEPHEN"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY206号教室/諒友館RY206号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RusoQAC/202615409"
+  },
+  {
+    "course_codes": [
+      15411,
+      15412
+    ],
+    "course_title": "IR26-LANG104 English for International StudiesⅣ (High‐Intermediate)(RH)",
+    "course_title_alt": "IR18‐BA104 English for International StudiesⅣ (High‐Intermediate)(RH)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2,金1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "FABBRETTI MATTEO"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY307号教室/諒友館RY307号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RutkQAC/202615411"
+  },
+  {
+    "course_codes": [
+      15413,
+      15414
+    ],
+    "course_title": "IR26-LANG104 English for International StudiesⅣ (High‐Intermediate)(RI)",
+    "course_title_alt": "IR18‐BA104 English for International StudiesⅣ (High‐Intermediate)(RI)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2,金1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "O’MOCHAIN ROBERT"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY207号教室/諒友館RY207号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuugQAC/202615413"
+  },
+  {
+    "course_codes": [
+      15415,
+      15416
+    ],
+    "course_title": "IR26-LANG104 English for International StudiesⅣ (Intermediate)(RJ)",
+    "course_title_alt": "IR18‐BA104 English for International StudiesⅣ (Intermediate)(RJ)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2,金1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "MATSUO SCOT"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY205号教室/諒友館RY205号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuvcQAC/202615415"
+  },
+  {
+    "course_codes": [
+      15417,
+      15418
+    ],
+    "course_title": "IR26-LANG104 English for International StudiesⅣ (Intermediate)(RK)",
+    "course_title_alt": "IR18‐BA104 English for International StudiesⅣ (Intermediate)(RK)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2,金1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "LITTLECOTT GARY"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY208号教室/諒友館RY208号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuwYQAS/202615417"
+  },
+  {
+    "course_codes": [
+      15419,
+      15420
+    ],
+    "course_title": "IR26-LANG104 English for International StudiesⅣ (Intermediate)(RL)",
+    "course_title_alt": "IR18‐BA104 English for International StudiesⅣ (Intermediate)(RL)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2,金1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "NISHIKAWA TOSHIKI"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY204号教室/諒友館RY204号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuxUQAS/202615419"
+  },
+  {
+    "course_codes": [
+      15421,
+      15422
+    ],
+    "course_title": "IR26-LANG104 English for International StudiesⅣ (Basic)(RM)",
+    "course_title_alt": "IR18‐BA104 English for International StudiesⅣ (Basic)(RM)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2,金1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "O’DAY DAWN"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY209号教室/諒友館RY209号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuyQQAS/202615421"
+  },
+  {
+    "course_codes": [
+      15423,
+      15424
+    ],
+    "course_title": "IR26-LANG105 ドイツ語・基礎 (RA)",
+    "course_title_alt": "IR18‐BB131 ドイツ語・基礎(RA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1,木3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "井尻 樂"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY201号教室/諒友館RY201号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuzMQAS/202615423"
+  },
+  {
+    "course_codes": [
+      15427,
+      15428
+    ],
+    "course_title": "IR26-LANG107 ドイツ語・展開 (RA)",
+    "course_title_alt": "IR18‐BB133 ドイツ語・展開(RA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1,木3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "井尻 樂"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY201号教室/諒友館RY201号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv1EQAS/202615427"
+  },
+  {
+    "course_codes": [
+      15431,
+      15432
+    ],
+    "course_title": "IR26-LANG109 フランス語・基礎 (RA)",
+    "course_title_alt": "IR18‐BB111 フランス語・基礎(RA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1,金4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "宇野木 めぐみ"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "学而館GJ310号教室/恒心館KS204号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv36QAC/202615431"
+  },
+  {
+    "course_codes": [
+      15433,
+      15434
+    ],
+    "course_title": "IR26-LANG109 フランス語・基礎 (RB)",
+    "course_title_alt": "IR18‐BB111 フランス語・基礎(RB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1,木3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "竹中 徹"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "恒心館KS204号教室/恒心館KS204号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv42QAC/202615433"
+  },
+  {
+    "course_codes": [
+      15435,
+      15436
+    ],
+    "course_title": "IR26-LANG109 フランス語・基礎 (RC)",
+    "course_title_alt": "IR18‐BB111 フランス語・基礎(RC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1,木3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "松原 冬二"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY309号教室/諒友館RY309号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv4yQAC/202615435"
+  },
+  {
+    "course_codes": [
+      15443,
+      15444
+    ],
+    "course_title": "IR26-LANG111 フランス語・展開 (RA)",
+    "course_title_alt": "IR18‐BB113 フランス語・展開(RA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1,金4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "宇野木 めぐみ"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "恒心館KS203号教室/恒心館KS203号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv8mQAC/202615443"
+  },
+  {
+    "course_codes": [
+      15445,
+      15446
+    ],
+    "course_title": "IR26-LANG111 フランス語・展開 (RB)",
+    "course_title_alt": "IR18‐BB113 フランス語・展開(RB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1,木3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "竹中 徹"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "恒心館KS204号教室/恒心館KS204号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv9jQAC/202615445"
+  },
+  {
+    "course_codes": [
+      15447,
+      15448
+    ],
+    "course_title": "IR26-LANG111 フランス語・展開 (RC)",
+    "course_title_alt": "IR18‐BB113 フランス語・展開(RC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1,木3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "松原 冬二"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY309号教室/諒友館RY309号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvAgQAK/202615447"
+  },
+  {
+    "course_codes": [
+      15455,
+      15456
+    ],
+    "course_title": "IR26-LANG113 中国語・基礎 (RA)",
+    "course_title_alt": "IR18‐BB141 中国語・基礎(RA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1,金4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "孫 軍悦"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "恒心館KS207号教室/恒心館KS207号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvEUQA0/202615455"
+  },
+  {
+    "course_codes": [
+      15457,
+      15458
+    ],
+    "course_title": "IR26-LANG113 中国語・基礎 (RB)",
+    "course_title_alt": "IR18‐BB141 中国語・基礎(RB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1,金4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "呂 芳"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY308号教室/諒友館RY308号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvFRQA0/202615457"
+  },
+  {
+    "course_codes": [
+      15459,
+      15460
+    ],
+    "course_title": "IR26-LANG113 中国語・基礎 (RC)",
+    "course_title_alt": "IR18‐BB141 中国語・基礎(RC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1,金4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "TANG YU"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "恒心館KS205号教室/恒心館KS205号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvGOQA0/202615459"
+  },
+  {
+    "course_codes": [
+      15467,
+      15468
+    ],
+    "course_title": "IR26-LANG115 中国語・展開 (RA)",
+    "course_title_alt": "IR18‐BB143 中国語・展開(RA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1,金4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "孫 軍悦"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "恒心館KS202号教室/恒心館KS202号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuSdQAK/202615467"
+  },
+  {
+    "course_codes": [
+      15469,
+      15470
+    ],
+    "course_title": "IR26-LANG115 中国語・展開 (RB)",
+    "course_title_alt": "IR18‐BB143 中国語・展開(RB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1,金4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "呂 芳"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY308号教室/諒友館RY308号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuTZQA0/202615469"
+  },
+  {
+    "course_codes": [
+      15471,
+      15472
+    ],
+    "course_title": "IR26-LANG115 中国語・展開 (RC)",
+    "course_title_alt": "IR18‐BB143 中国語・展開(RC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1,金4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "TANG YU"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "恒心館KS205号教室/恒心館KS205号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuUVQA0/202615471"
+  },
+  {
+    "course_codes": [
+      15479,
+      15480
+    ],
+    "course_title": "IR26-LANG117 スペイン語・基礎 (RA)",
+    "course_title_alt": "IR18‐BB121 スペイン語・基礎(RA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1,木3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "川嶋 まどか",
+      "川添 誠"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY207号教室/諒友館RY207号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuYFQA0/202615479"
+  },
+  {
+    "course_codes": [
+      15481,
+      15482
+    ],
+    "course_title": "IR26-LANG117 スペイン語・基礎 (RB)",
+    "course_title_alt": "IR18‐BB121 スペイン語・基礎(RB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1,木3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "田中 由美",
+      "仲井 邦佳"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY304号教室/諒友館RY304号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuZBQA0/202615481"
+  },
+  {
+    "course_codes": [
+      15483,
+      15484
+    ],
+    "course_title": "IR26-LANG117 スペイン語・基礎 (RC)",
+    "course_title_alt": "IR18‐BB121 スペイン語・基礎(RC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1,木3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "高木 仁",
+      "塚田 真由美"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY206号教室/諒友館RY206号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rua7QAC/202615483"
+  },
+  {
+    "course_codes": [
+      15485,
+      15486
+    ],
+    "course_title": "IR26-LANG117 スペイン語・基礎 (RD)",
+    "course_title_alt": "IR18‐BB121 スペイン語・基礎(RD)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1,金4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "竹内 めい"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "学而館GJ312号教室/諒友館RY205号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rub3QAC/202615485"
+  },
+  {
+    "course_codes": [
+      15495,
+      15496
+    ],
+    "course_title": "IR26-LANG119 スペイン語・展開 (RA)",
+    "course_title_alt": "IR18‐BB123 スペイン語・展開(RA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1,木3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "川嶋 まどか",
+      "川添 誠"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY208号教室/諒友館RY208号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RufjQAC/202615495"
+  },
+  {
+    "course_codes": [
+      15497,
+      15498
+    ],
+    "course_title": "IR26-LANG119 スペイン語・展開 (RB)",
+    "course_title_alt": "IR18‐BB123 スペイン語・展開(RB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1,木3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "田中 由美",
+      "仲井 邦佳"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY302号教室/諒友館RY302号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RugfQAC/202615497"
+  },
+  {
+    "course_codes": [
+      15499,
+      15500
+    ],
+    "course_title": "IR26-LANG119 スペイン語・展開 (RC)",
+    "course_title_alt": "IR18‐BB123 スペイン語・展開(RC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1,木3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "高木 仁",
+      "塚田 真由美"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY206号教室/諒友館RY206号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuhbQAC/202615499"
+  },
+  {
+    "course_codes": [
+      15501,
+      15502
+    ],
+    "course_title": "IR26-LANG119 スペイン語・展開 (RD)",
+    "course_title_alt": "IR18‐BB123 スペイン語・展開(RD)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1,金4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "竹内 めい"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "学而館GJ312号教室/恒心館KS303号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuiXQAS/202615501"
+  },
+  {
+    "course_codes": [
+      15516,
+      15517
+    ],
+    "course_title": "IR26-LANG121 朝鮮語・基礎 (RA)",
+    "course_title_alt": "IR18‐BB151 朝鮮語・基礎(RA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1,木3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "呉 仁済",
+      "宋 基榮"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY303号教室/諒友館RY303号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RurtQAC/202615516"
+  },
+  {
+    "course_codes": [
+      15518,
+      15519
+    ],
+    "course_title": "IR26-LANG121 朝鮮語・基礎 (RB)",
+    "course_title_alt": "IR18‐BB151 朝鮮語・基礎(RB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1,木3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "金 友子",
+      "南 裕恵"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY208号教室/諒友館RY208号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuspQAC/202615518"
+  },
+  {
+    "course_codes": [
+      15524,
+      15525
+    ],
+    "course_title": "IR26-LANG123 朝鮮語・展開 (RA)",
+    "course_title_alt": "IR18‐BB153 朝鮮語・展開(RA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1,木3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "安 聖民",
+      "呉 仁済"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY303号教室/諒友館RY303号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuvdQAC/202615524"
+  },
+  {
+    "course_codes": [
+      15526,
+      15527
+    ],
+    "course_title": "IR26-LANG123 朝鮮語・展開 (RB)",
+    "course_title_alt": "IR18‐BB153 朝鮮語・展開(RB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1,木3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "姜 文姫",
+      "南 裕恵"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY207号教室/諒友館RY207号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuwZQAS/202615526"
+  },
+  {
+    "course_codes": [
+      15576,
+      15577,
+      15578
+    ],
+    "course_title": "IR26-LANG129 Academic SkillsⅡ (Proficient)(RA)",
+    "course_title_alt": "IR18‐CB102 Academic SkillsⅡ(Proficient)(RA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,金3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "KUNSCHAK CLAUDIA"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY209号教室/諒友館RY209号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvJGQA0/202615576"
+  },
+  {
+    "course_codes": [
+      15579,
+      15580,
+      15581
+    ],
+    "course_title": "IR26-LANG129 Academic SkillsⅡ (Advanced+)(RB)",
+    "course_title_alt": "IR18‐CB102 Academic SkillsⅡ(Advanced+)(RB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,金3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "O’MOCHAIN ROBERT"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY208号教室/諒友館RY208号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvLpQAK/202615579"
+  },
+  {
+    "course_codes": [
+      15582,
+      15583,
+      15584
+    ],
+    "course_title": "IR26-LANG129 Academic SkillsⅡ (Advanced)(RC)",
+    "course_title_alt": "IR18‐CB102 Academic SkillsⅡ (Advanced)(RC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,金3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "KIM WACHUTKA JACKIE"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY206号教室/諒友館RY206号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvMmQAK/202615582"
+  },
+  {
+    "course_codes": [
+      15585,
+      15586,
+      15587
+    ],
+    "course_title": "IR26-LANG129 Academic SkillsⅡ (Advanced)(RD)",
+    "course_title_alt": "IR18‐CB102 Academic SkillsⅡ (Advanced)(RD)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,金3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "STEWART REX ARTHUR"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY207号教室/諒友館RY207号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvNjQAK/202615585"
+  },
+  {
+    "course_codes": [
+      15588,
+      15589,
+      15590
+    ],
+    "course_title": "IR26-LANG129 Academic SkillsⅡ (Proficient)(RE)",
+    "course_title_alt": "IR18‐CB102 Academic SkillsⅡ(Proficient)(RE)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,金3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "奉 鉉京"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY207号教室/諒友館RY207号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvOgQAK/202615588"
+  },
+  {
+    "course_codes": [
+      15591,
+      15592,
+      15593
+    ],
+    "course_title": "IR26-LANG129 Academic SkillsⅡ (Advanced+)(RF)",
+    "course_title_alt": "IR18‐CB102 Academic SkillsⅡ(Advanced+)(RF)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,金3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "KUNSCHAK CLAUDIA"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "恒心館KS203号教室/恒心館KS203号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuOEQA0/202615591"
+  },
+  {
+    "course_codes": [
+      15594,
+      15595,
+      15596
+    ],
+    "course_title": "IR26-LANG129 Academic SkillsⅡ (Advanced)(RG)",
+    "course_title_alt": "IR18‐CB102 Academic SkillsⅡ (Advanced)(RG)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,金3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "STEWART REX ARTHUR"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY208号教室/諒友館RY208号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuPAQA0/202615594"
+  },
+  {
+    "course_codes": [
+      15597,
+      15598,
+      15599
+    ],
+    "course_title": "IR26-LANG130 Academic SkillsⅢ (Proficient)(RA)",
+    "course_title_alt": "IR18‐CB103 Academic SkillsⅢ(Proficient)(RA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "奉 鉉京"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY207号教室/諒友館RY207号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuQ6QAK/202615597"
+  },
+  {
+    "course_codes": [
+      15600,
+      15601,
+      15602
+    ],
+    "course_title": "IR26-LANG130 Academic SkillsⅢ (Advanced+)(RB)",
+    "course_title_alt": "IR18‐CB103 Academic SkillsⅢ(Advanced+)(RB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "KUNSCHAK CLAUDIA"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "恒心館KS203号教室/恒心館KS203号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuSeQAK/202615600"
+  },
+  {
+    "course_codes": [
+      15603,
+      15604,
+      15605
+    ],
+    "course_title": "IR26-LANG130 Academic SkillsⅢ (Advanced)(RC)",
+    "course_title_alt": "IR18‐CB103 Academic SkillsⅢ (Advanced)(RC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "STEWART REX ARTHUR"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY208号教室/諒友館RY208号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuTaQAK/202615603"
+  },
+  {
+    "course_codes": [
+      15606,
+      15607,
+      15608
+    ],
+    "course_title": "IR26-LANG130 Academic SkillsⅢ (Advanced)(RD)",
+    "course_title_alt": "IR18‐CB103 Academic SkillsⅢ (Advanced)(RD)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "CLIFTON ADAM F."
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "恒心館KS208号教室/恒心館KS208号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuUWQA0/202615606"
+  },
+  {
+    "course_codes": [
+      15609,
+      15610
+    ],
+    "course_title": "IR18‐CB103 Academic SkillsⅢ(Proficient)(RE)",
+    "course_title_alt": "RUIR-1103 Academic Skills III (Proficient)(RE)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "KUNSCHAK CLAUDIA"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY209号教室/諒友館RY209号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuVSQA0/202615609"
+  },
+  {
+    "course_codes": [
+      15611,
+      15612
+    ],
+    "course_title": "IR18‐CB103 Academic SkillsⅢ(Advanced+)(RF)",
+    "course_title_alt": "RUIR-1103 Academic Skills III (Advanced+)(RF)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "奉 鉉京"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY207号教室/諒友館RY207号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuWOQA0/202615611"
+  },
+  {
+    "course_codes": [
+      15613,
+      15614
+    ],
+    "course_title": "IR18‐CB103 Academic SkillsⅢ (Advanced)(RG)",
+    "course_title_alt": "RUIR-1103 Academic Skills III (Advanced)(RG)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "O’MOCHAIN ROBERT"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY208号教室/諒友館RY208号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuXKQA0/202615613"
+  },
+  {
+    "course_codes": [
+      15823,
+      15824
+    ],
+    "course_title": "IR18‐EBJ201 マクロ経済学(R)",
+    "course_title_alt": "IR-EBR201 マクロ経済学(R)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木1,木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "森岡 真史"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "恒心館KS305号教室/恒心館KS305号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuQ8QAK/202615823"
+  },
+  {
+    "course_codes": [
+      15834,
+      15835
+    ],
+    "course_title": "IR18‐EBJ301 ミクロ経済学(R)",
+    "course_title_alt": "IR-EBR301 ミクロ経済学(R)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木1,木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "森岡 真史"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "恒心館KS305号教室/恒心館KS305号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuaAQAS/202615834"
+  },
+  {
+    "course_codes": [
+      16005,
+      16006
+    ],
+    "course_title": "IR18‐FJ204 プロフェッショナル・ワークショップ(RA)",
+    "course_title_alt": "IR-EDR304 プロフェッショナル・ワークショップ(RA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金4,金5",
+    "slots": [
+      {
+        "day": "金",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "石川 幸子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "恒心館KS202号教室/恒心館KS202号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvNnQAK/202616005"
+  },
+  {
+    "course_codes": [
+      16007,
+      16008
+    ],
+    "course_title": "IR18‐FJ204 プロフェッショナル・ワークショップ(RB)",
+    "course_title_alt": "IR-EDR304 プロフェッショナル・ワークショップ(RB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金4,金5",
+    "slots": [
+      {
+        "day": "金",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "星野 郁"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "恒心館KS203号教室/恒心館KS203号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvOkQAK/202616007"
+  },
+  {
+    "course_codes": [
+      16009,
+      16010
+    ],
+    "course_title": "IR18‐FJ204 プロフェッショナル・ワークショップ(RC)",
+    "course_title_alt": "IR-EDR304 プロフェッショナル・ワークショップ(RC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金4,金5",
+    "slots": [
+      {
+        "day": "金",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "白戸 圭一"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "恒心館KS306号教室/恒心館KS306号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvPiQAK/202616009"
+  },
+  {
+    "course_codes": [
+      16011,
+      16012,
+      16013
+    ],
+    "course_title": "IR18‐FE202 Professional Workshop(R)",
+    "course_title_alt": "IR-EDS301 Professional Workshop(R)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金4,金5",
+    "slots": [
+      {
+        "day": "金",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "金児 真依"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "明学館MG001号教室/明学館MG001号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvQgQAK/202616011"
+  }
+]

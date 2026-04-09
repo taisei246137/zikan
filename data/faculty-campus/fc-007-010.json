@@ -1,0 +1,2818 @@
+[
+  {
+    "course_codes": [
+      34923
+    ],
+    "course_title": "データサイエンス・AI基礎 (G1)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月",
+    "slots": [
+      {
+        "day": "月",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwaLQAS/202634923"
+  },
+  {
+    "course_codes": [
+      34924
+    ],
+    "course_title": "データサイエンス・AI基礎 (G2)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月",
+    "slots": [
+      {
+        "day": "月",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwbJQAS/202634924"
+  },
+  {
+    "course_codes": [
+      34925
+    ],
+    "course_title": "データエンジニアリング基礎 (G1)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水",
+    "slots": [
+      {
+        "day": "水",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwcHQAS/202634925"
+  },
+  {
+    "course_codes": [
+      34926
+    ],
+    "course_title": "データエンジニアリング基礎 (G2)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水",
+    "slots": [
+      {
+        "day": "水",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwdFQAS/202634926"
+  },
+  {
+    "course_codes": [
+      10258
+    ],
+    "course_title": "グローバル社会の体験と理解（Global Fieldwork Project）(AC)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "駒見 一善"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RupCQAS/202610258"
+  },
+  {
+    "course_codes": [
+      10260
+    ],
+    "course_title": "グローバル社会の体験と理解（Global Fieldwork Project）(AE)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "石川 涼子"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rur4QAC/202610260"
+  },
+  {
+    "course_codes": [
+      10263
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BB)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RutsQAC/202610263"
+  },
+  {
+    "course_codes": [
+      10264
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BC)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuuoQAC/202610264"
+  },
+  {
+    "course_codes": [
+      10265
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BD)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuvkQAC/202610265"
+  },
+  {
+    "course_codes": [
+      10272,
+      10273
+    ],
+    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CB)",
+    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CB)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv1MQAS/202610272"
+  },
+  {
+    "course_codes": [
+      10282,
+      10283
+    ],
+    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CG)",
+    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CG)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuPHQA0/202610282"
+  },
+  {
+    "course_codes": [
+      10284
+    ],
+    "course_title": "グローバル社会の体験と理解（昭和ボストン）(DA)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuQDQA0/202610284"
+  },
+  {
+    "course_codes": [
+      10288
+    ],
+    "course_title": "Global Project-Based Learning（Advanced Global Fieldwork Project）(GD)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "庄子 萌"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuVZQA0/202610288"
+  },
+  {
+    "course_codes": [
+      10290
+    ],
+    "course_title": "Intensive Language Workshop（マコーリー大学）(IA)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuXRQA0/202610290"
+  },
+  {
+    "course_codes": [
+      10291
+    ],
+    "course_title": "Area Study Ⅰ（マコーリー大学）(IB)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuYNQA0/202610291"
+  },
+  {
+    "course_codes": [
+      10338
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BL)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RukYQAS/202610338"
+  },
+  {
+    "course_codes": [
+      10340
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BN)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RumQQAS/202610340"
+  },
+  {
+    "course_codes": [
+      10257
+    ],
+    "course_title": "グローバル社会の体験と理解（Global Fieldwork Project）(AA)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "石川 涼子"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuoGQAS/202610257"
+  },
+  {
+    "course_codes": [
+      10259
+    ],
+    "course_title": "グローバル社会の体験と理解（Global Fieldwork Project）(AD)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "庄子 萌"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ruq8QAC/202610259"
+  },
+  {
+    "course_codes": [
+      10262
+    ],
+    "course_title": "グローバル社会の体験と理解（Global Fieldwork Project）(AG)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "駒見 一善"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuswQAC/202610262"
+  },
+  {
+    "course_codes": [
+      10266
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BF)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuwgQAC/202610266"
+  },
+  {
+    "course_codes": [
+      10267
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BG)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuxcQAC/202610267"
+  },
+  {
+    "course_codes": [
+      10268
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BH)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuyYQAS/202610268"
+  },
+  {
+    "course_codes": [
+      10269
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BI)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuzUQAS/202610269"
+  },
+  {
+    "course_codes": [
+      10270,
+      10271
+    ],
+    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CA)",
+    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CA)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv0QQAS/202610270"
+  },
+  {
+    "course_codes": [
+      10274,
+      10275
+    ],
+    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CC)",
+    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CC)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv2IQAS/202610274"
+  },
+  {
+    "course_codes": [
+      10276,
+      10277
+    ],
+    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CD)",
+    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CD)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv3EQAS/202610276"
+  },
+  {
+    "course_codes": [
+      10278,
+      10279
+    ],
+    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CE)",
+    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CE)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv4AQAS/202610278"
+  },
+  {
+    "course_codes": [
+      10280,
+      10281
+    ],
+    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CF)",
+    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CF)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuOLQA0/202610280"
+  },
+  {
+    "course_codes": [
+      10285
+    ],
+    "course_title": "Global Project-Based Learning（海外スタディ）(EA)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuSlQAK/202610285"
+  },
+  {
+    "course_codes": [
+      10287
+    ],
+    "course_title": "Global Project-Based Learning（Advanced Global Fieldwork Project）(GB)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "羽谷 沙織"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuUdQAK/202610287"
+  },
+  {
+    "course_codes": [
+      10289
+    ],
+    "course_title": "Area Study Ⅱ（海外スタディ）(HA)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 4,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuWVQA0/202610289"
+  },
+  {
+    "course_codes": [
+      10339
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BM)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RulUQAS/202610339"
+  },
+  {
+    "course_codes": [
+      17225
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BO)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000004t6yXQAQ/202617225"
+  },
+  {
+    "course_codes": [
+      10301
+    ],
+    "course_title": "Academic Communication(Online Learning)(立命館XUC Davis “Online Learning”)(QA)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuhjQAC/202610301"
+  },
+  {
+    "course_codes": [
+      10302
+    ],
+    "course_title": "Area Study(Online Learning)(立命館XUC Davis “Online Learning”)(RA)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuifQAC/202610302"
+  },
+  {
+    "course_codes": [
+      50217
+    ],
+    "course_title": "スペイン語・基礎1(YA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2,木2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "岡村 ビクトル勇",
+      "平井 素子"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AC241セミナールーム/AC345セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOidQAG/202650217"
+  },
+  {
+    "course_codes": [
+      50219
+    ],
+    "course_title": "スペイン語・基礎1(ZA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,木1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "駒村 幸",
+      "平井 素子"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AC241セミナールーム/AN429セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOifQAG/202650219"
+  },
+  {
+    "course_codes": [
+      50225
+    ],
+    "course_title": "ドイツ語・基礎1(YA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "廣瀬 ゆう子"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN324セミナールーム/AC344セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rxa9QAC/202650225"
+  },
+  {
+    "course_codes": [
+      50226
+    ],
+    "course_title": "ドイツ語・基礎1(ZA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,金1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "小野 二葉"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AC435セミナールーム/AC435セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rxb7QAC/202650226"
+  },
+  {
+    "course_codes": [
+      50229
+    ],
+    "course_title": "フランス語・基礎1(YA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "楠田 悠貴"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN323セミナールーム/AN221セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rxe1QAC/202650229"
+  },
+  {
+    "course_codes": [
+      50230
+    ],
+    "course_title": "フランス語・基礎1(ZA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,金1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "楠田 悠貴"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN323セミナールーム/AN221セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxezQAC/202650230"
+  },
+  {
+    "course_codes": [
+      50233
+    ],
+    "course_title": "中国語・基礎1(YA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2,木2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "齋藤 真司",
+      "森中 野枝"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AS262セミナールーム/AC244マルチメディアルーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOihQAG/202650233"
+  },
+  {
+    "course_codes": [
+      50235
+    ],
+    "course_title": "中国語・基礎1(YC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "齋藤 真司",
+      "田村 彩子"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AC244マルチメディアルーム/AS262セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOijQAG/202650235"
+  },
+  {
+    "course_codes": [
+      50236
+    ],
+    "course_title": "中国語・基礎1(ZA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,木1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "齋藤 真司",
+      "森中 野枝"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AS262セミナールーム/AC244マルチメディアルーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOikQAG/202650236"
+  },
+  {
+    "course_codes": [
+      50238
+    ],
+    "course_title": "中国語・基礎1(ZC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,金1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "齋藤 真司",
+      "田村 彩子"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AC244マルチメディアルーム/AS262セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOimQAG/202650238"
+  },
+  {
+    "course_codes": [
+      50247
+    ],
+    "course_title": "朝鮮語・基礎1(YC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "金 仁姫",
+      "秦 榮和"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AC431セミナールーム/AN222セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOipQAG/202650247"
+  },
+  {
+    "course_codes": [
+      50248
+    ],
+    "course_title": "朝鮮語・基礎1(ZA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,金1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "安 聖民",
+      "鄭 雅英"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN423セミナールーム/AS261セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOiqQAG/202650248"
+  },
+  {
+    "course_codes": [
+      50257
+    ],
+    "course_title": "スペイン語・展開1(YA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2,木1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "岡村 ビクトル勇",
+      "平井 素子"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN221セミナールーム/AC345セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOitQAG/202650257"
+  },
+  {
+    "course_codes": [
+      50259
+    ],
+    "course_title": "スペイン語・展開1(ZA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,木2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "駒村 幸",
+      "平井 素子"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN221セミナールーム/AN429セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOivQAG/202650259"
+  },
+  {
+    "course_codes": [
+      50265
+    ],
+    "course_title": "ドイツ語・展開1(YA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2,金3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "廣瀬 ゆう子"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN324セミナールーム/AC336セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyG5QAK/202650265"
+  },
+  {
+    "course_codes": [
+      50266
+    ],
+    "course_title": "ドイツ語・展開1(ZA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,金1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "小野 二葉"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AC435セミナールーム/AC435セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyH3QAK/202650266"
+  },
+  {
+    "course_codes": [
+      50269
+    ],
+    "course_title": "フランス語・展開1(YA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2,金3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "楠田 悠貴"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AC241セミナールーム/AN222セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyJxQAK/202650269"
+  },
+  {
+    "course_codes": [
+      50270
+    ],
+    "course_title": "フランス語・展開1(ZA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,金1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "楠田 悠貴"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AC241セミナールーム/AN222セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyKvQAK/202650270"
+  },
+  {
+    "course_codes": [
+      50273
+    ],
+    "course_title": "中国語・展開1(YA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2,木1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "齋藤 真司",
+      "森中 野枝"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN323セミナールーム/AC244マルチメディアルーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOixQAG/202650273"
+  },
+  {
+    "course_codes": [
+      50275
+    ],
+    "course_title": "中国語・展開1(YC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2,金3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "齋藤 真司",
+      "田村 彩子"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AC244マルチメディアルーム/AS262セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOizQAG/202650275"
+  },
+  {
+    "course_codes": [
+      50276
+    ],
+    "course_title": "中国語・展開1(ZA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,木2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "齋藤 真司",
+      "森中 野枝"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN323セミナールーム/AC244マルチメディアルーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOj0QAG/202650276"
+  },
+  {
+    "course_codes": [
+      50278
+    ],
+    "course_title": "中国語・展開1(ZC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,金1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "齋藤 真司",
+      "田村 彩子"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AC244マルチメディアルーム/AS262セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOj2QAG/202650278"
+  },
+  {
+    "course_codes": [
+      50287
+    ],
+    "course_title": "朝鮮語・展開1(YC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2,木1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "趙 倫子",
+      "秦 榮和"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN316セミナールーム/AN221セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOhUQAW/202650287"
+  },
+  {
+    "course_codes": [
+      50289
+    ],
+    "course_title": "朝鮮語・展開1(ZB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,木2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "趙 倫子",
+      "秦 榮和"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN316セミナールーム/AN221セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOhYQAW/202650289"
+  },
+  {
+    "course_codes": [
+      51133
+    ],
+    "course_title": "スペイン語・基礎1(YC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "磯野 吉美",
+      "中川 節子"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN415セミナールーム/AC436セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOhcQAG/202651133"
+  },
+  {
+    "course_codes": [
+      51135
+    ],
+    "course_title": "中国語・基礎1(ZD)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,木1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "絹川 浩敏"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN224マルチメディアルーム/AC242セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyVgQAK/202651135"
+  },
+  {
+    "course_codes": [
+      51137
+    ],
+    "course_title": "スペイン語・展開1(YC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2,金3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "磯野 吉美",
+      "中川 節子"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN425セミナールーム/AC436セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOheQAG/202651137"
+  },
+  {
+    "course_codes": [
+      51139
+    ],
+    "course_title": "中国語・展開1(ZD)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,木2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "絹川 浩敏"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN224マルチメディアルーム/AC242セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyZYQA0/202651139"
+  },
+  {
+    "course_codes": [
+      52259
+    ],
+    "course_title": "プログラム特殊講義（アジアビジネス）Ⅰ (B)",
+    "academic_year": 2026,
+    "term": "春１Ｑ",
+    "schedule": "水2,木3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "石川 亮太",
+      "張 卓",
+      "何 格尓",
+      "守 政毅"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AS358セミナールーム/AS358セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxnzQAC/202652259"
+  },
+  {
+    "course_codes": [
+      52657
+    ],
+    "course_title": "（留）日本語初級2（読解・ライティング）(Z2)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "大久保 加奈子"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AS361セミナールーム/AS357セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxqxQAC/202652657"
+  },
+  {
+    "course_codes": [
+      52728
+    ],
+    "course_title": "（留）日本語初級2（読解・ライティング）(K)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "大久保 加奈子"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AS357セミナールーム/AN425セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxVgQAK/202652728"
+  },
+  {
+    "course_codes": [
+      52732
+    ],
+    "course_title": "（留）日本語初級1（読解・ライティング）(K)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2,金3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "大久保 加奈子"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AS357セミナールーム/AS361セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxZYQA0/202652732"
+  },
+  {
+    "course_codes": [
+      50218
+    ],
+    "course_title": "スペイン語・基礎1(YB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木2,金2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "駒村 幸",
+      "二宗 美紀"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN429セミナールーム/AC433セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOieQAG/202650218"
+  },
+  {
+    "course_codes": [
+      50220
+    ],
+    "course_title": "スペイン語・基礎1(ZB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木1,金1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "磯野 吉美",
+      "岡村 ビクトル勇"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AC345セミナールーム/AC436セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOigQAG/202650220"
+  },
+  {
+    "course_codes": [
+      50234
+    ],
+    "course_title": "中国語・基礎1(YB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木2,金2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "鄭 洲",
+      "森中 野枝"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN421セミナールーム/AC247マルチメディアルーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOiiQAG/202650234"
+  },
+  {
+    "course_codes": [
+      50237
+    ],
+    "course_title": "中国語・基礎1(ZB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木1,金1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "権 慧",
+      "森中 野枝"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN421セミナールーム/AC247マルチメディアルーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOilQAG/202650237"
+  },
+  {
+    "course_codes": [
+      50245
+    ],
+    "course_title": "朝鮮語・基礎1(YA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木2,金2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "趙 倫子",
+      "鄭 雅英"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AC241セミナールーム/AS261セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOinQAG/202650245"
+  },
+  {
+    "course_codes": [
+      50246
+    ],
+    "course_title": "朝鮮語・基礎1(YB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木2,金2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "坂本 知壽子",
+      "梁 京姫"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN423セミナールーム/AC432セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOioQAG/202650246"
+  },
+  {
+    "course_codes": [
+      50249
+    ],
+    "course_title": "朝鮮語・基礎1(ZB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木1,金1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "趙 倫子",
+      "秦 榮和"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AC241セミナールーム/AN222セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOirQAG/202650249"
+  },
+  {
+    "course_codes": [
+      50250
+    ],
+    "course_title": "朝鮮語・基礎1(ZC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木1,金1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "金 仁姫",
+      "梁 京姫"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN423セミナールーム/AC341セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOisQAG/202650250"
+  },
+  {
+    "course_codes": [
+      50258
+    ],
+    "course_title": "スペイン語・展開1(YB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木1,金3",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "駒村 幸",
+      "二宗 美紀"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN429セミナールーム/AC433セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOiuQAG/202650258"
+  },
+  {
+    "course_codes": [
+      50260
+    ],
+    "course_title": "スペイン語・展開1(ZB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木2,金1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "磯野 吉美",
+      "岡村 ビクトル勇"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AC345セミナールーム/AC436セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOiwQAG/202650260"
+  },
+  {
+    "course_codes": [
+      50274
+    ],
+    "course_title": "中国語・展開1(YB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木1,金3",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "権 慧",
+      "森中 野枝"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN425セミナールーム/AC247マルチメディアルーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOiyQAG/202650274"
+  },
+  {
+    "course_codes": [
+      50277
+    ],
+    "course_title": "中国語・展開1(ZB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木2,金1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "権 慧",
+      "森中 野枝"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN425セミナールーム/AC247マルチメディアルーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOj1QAG/202650277"
+  },
+  {
+    "course_codes": [
+      50285
+    ],
+    "course_title": "朝鮮語・展開1(YA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木1,金3",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "鄭 雅英",
+      "梁 京姫"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AS262セミナールーム/AS261セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOj3QAG/202650285"
+  },
+  {
+    "course_codes": [
+      50286
+    ],
+    "course_title": "朝鮮語・展開1(YB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木1,金3",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "坂本 知壽子",
+      "張 惠英"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN423セミナールーム/AN424セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOhSQAW/202650286"
+  },
+  {
+    "course_codes": [
+      50288
+    ],
+    "course_title": "朝鮮語・展開1(ZA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木2,金1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "坂本 知壽子",
+      "梁 京姫"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AS262セミナールーム/AN424セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOhWQAW/202650288"
+  },
+  {
+    "course_codes": [
+      50290
+    ],
+    "course_title": "朝鮮語・展開1(ZC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木2,金1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "洪 ジョンウン",
+      "梁 京姫"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AN321セミナールーム/AC431セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000005OOhaQAG/202650290"
+  },
+  {
+    "course_codes": [
+      52656
+    ],
+    "course_title": "（留）日本語初級2（読解・ライティング）(Z)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木2,金4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "ベイリー あゆみ"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AS362セミナールーム/AS365セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxpzQAC/202652656"
+  },
+  {
+    "course_codes": [
+      52661
+    ],
+    "course_title": "（留）日本語初級1（読解・ライティング）(Z)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木2,金4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "水野 瑛子"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AS356セミナールーム/AS356セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxupQAC/202652661"
+  },
+  {
+    "course_codes": [
+      52163
+    ],
+    "course_title": "プロジェクト研究(03)",
+    "academic_year": 2026,
+    "term": "秋１Ｑ",
+    "schedule": "金4,金5",
+    "slots": [
+      {
+        "day": "金",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "石川 亮太"
+    ],
+    "credits": 2,
+    "campus": "OIC/OIC",
+    "classroom": "AC342セミナールーム/AC342セミナールーム",
+    "is_online": false,
+    "faculties": [
+      "経営学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyyXQAS/202652163"
+  }
+]

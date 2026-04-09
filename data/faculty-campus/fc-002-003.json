@@ -1,0 +1,50 @@
+[
+  {
+    "course_codes": [
+      52823,
+      52824,
+      52825
+    ],
+    "course_title": "GLA 1182 Internship 1 (IA)",
+    "course_title_alt": "GLA 1282 Internship 2 (IA)",
+    "academic_year": 2026,
+    "term": "春＋夏",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "北野 知佳"
+    ],
+    "credits": 1,
+    "campus": "*/*",
+    "classroom": "施設なし/施設なし",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxurQAC/202652823"
+  },
+  {
+    "course_codes": [
+      52826,
+      52827,
+      52828
+    ],
+    "course_title": "GLA 1182 Internship 1 (IB)",
+    "course_title_alt": "GLA 1282 Internship 2 (IB)",
+    "academic_year": 2026,
+    "term": "秋＋冬",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "北野 知佳"
+    ],
+    "credits": 1,
+    "campus": "*/*",
+    "classroom": "施設なし/施設なし",
+    "is_online": false,
+    "faculties": [
+      "グローバル教養学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxvpQAC/202652826"
+  }
+]

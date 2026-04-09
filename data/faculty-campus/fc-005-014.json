@@ -1,0 +1,2123 @@
+[
+  {
+    "course_codes": [
+      34923
+    ],
+    "course_title": "データサイエンス・AI基礎 (G1)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月",
+    "slots": [
+      {
+        "day": "月",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwaLQAS/202634923"
+  },
+  {
+    "course_codes": [
+      34924
+    ],
+    "course_title": "データサイエンス・AI基礎 (G2)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月",
+    "slots": [
+      {
+        "day": "月",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwbJQAS/202634924"
+  },
+  {
+    "course_codes": [
+      15264,
+      15265,
+      15266,
+      15267
+    ],
+    "course_title": "IR26-POL104 Introduction to Peace Studies(RA)",
+    "course_title_alt": "IR18‐AE111 Introduction to Peace Studies(RA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月5",
+    "slots": [
+      {
+        "day": "月",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "クロス 京子"
+    ],
+    "credits": 2,
+    "campus": "衣笠",
+    "classroom": "明学館MG001号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "スポーツ健康科学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuctQAC/202615264"
+  },
+  {
+    "course_codes": [
+      15293,
+      15294,
+      15295,
+      15296
+    ],
+    "course_title": "IR26-CULT102 Introduction to Gender Studies(RB)",
+    "course_title_alt": "IR18‐AE112 Introduction to Gender Studies(RB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月5",
+    "slots": [
+      {
+        "day": "月",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "KIM VIKTORIYA"
+    ],
+    "credits": 2,
+    "campus": "衣笠",
+    "classroom": "明学館MG002号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "スポーツ健康科学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RukNQAS/202615293"
+  },
+  {
+    "course_codes": [
+      15268,
+      15269,
+      15270,
+      15271
+    ],
+    "course_title": "IR26-POL104 Introduction to Peace Studies(RB)",
+    "course_title_alt": "IR18‐AE111 Introduction to Peace Studies(RB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火5",
+    "slots": [
+      {
+        "day": "火",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "シン ヒョンオ"
+    ],
+    "credits": 2,
+    "campus": "衣笠",
+    "classroom": "明学館MG002号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "スポーツ健康科学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RudpQAC/202615268"
+  },
+  {
+    "course_codes": [
+      15289,
+      15290,
+      15291,
+      15292
+    ],
+    "course_title": "IR26-CULT102 Introduction to Gender Studies(RA)",
+    "course_title_alt": "IR18‐AE112 Introduction to Gender Studies(RA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "KIM VIKTORIYA"
+    ],
+    "credits": 2,
+    "campus": "衣笠",
+    "classroom": "明学館MG002号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "スポーツ健康科学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RujRQAS/202615289"
+  },
+  {
+    "course_codes": [
+      16966,
+      16967
+    ],
+    "course_title": "Liberal Arts Seminar (1)",
+    "course_title_alt": "Theme Study(1)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "曹 瑞林"
+    ],
+    "credits": 2,
+    "campus": "衣笠",
+    "classroom": "諒友館RY306号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwocQAC/202616966"
+  },
+  {
+    "course_codes": [
+      34925
+    ],
+    "course_title": "データエンジニアリング基礎 (G1)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水",
+    "slots": [
+      {
+        "day": "水",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwcHQAS/202634925"
+  },
+  {
+    "course_codes": [
+      34926
+    ],
+    "course_title": "データエンジニアリング基礎 (G2)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水",
+    "slots": [
+      {
+        "day": "水",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwdFQAS/202634926"
+  },
+  {
+    "course_codes": [
+      15235,
+      15236,
+      15237,
+      15238
+    ],
+    "course_title": "IR26-IR114 Special Lecture (General Education Course)(RC)",
+    "course_title_alt": "IR18‐AE108 Introduction to Humanities(R)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "AVILES ERNULT J. R."
+    ],
+    "credits": 2,
+    "campus": "衣笠",
+    "classroom": "明学館MG002号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuSbQAK/202615235"
+  },
+  {
+    "course_codes": [
+      15256,
+      15257,
+      15258,
+      15259
+    ],
+    "course_title": "IR26-POL103 Introduction to the United Nations(RA)",
+    "course_title_alt": "IR18‐AE110 Introduction to the United Nations(RA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "石川 幸子"
+    ],
+    "credits": 2,
+    "campus": "衣笠",
+    "classroom": "恒心館KS209号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "スポーツ健康科学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rub1QAC/202615256"
+  },
+  {
+    "course_codes": [
+      15260,
+      15261,
+      15262,
+      15263
+    ],
+    "course_title": "IR26-POL103 Introduction to the United Nations(RB)",
+    "course_title_alt": "IR18‐AE110 Introduction to the United Nations(RB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "石川 幸子"
+    ],
+    "credits": 2,
+    "campus": "衣笠",
+    "classroom": "明学館MG002号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "スポーツ健康科学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RubxQAC/202615260"
+  },
+  {
+    "course_codes": [
+      16877,
+      16878,
+      16879,
+      16880,
+      16881,
+      16882
+    ],
+    "course_title": "国の行政組織 (GA)",
+    "course_title_alt": "国の行政組織 (GA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金3",
+    "slots": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "紀國 洋"
+    ],
+    "credits": 2,
+    "campus": "衣笠",
+    "classroom": "明学館MG201号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "映像学部",
+      "生命科学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvpxQAC/202616877"
+  },
+  {
+    "course_codes": [
+      10258
+    ],
+    "course_title": "グローバル社会の体験と理解（Global Fieldwork Project）(AC)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "駒見 一善"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RupCQAS/202610258"
+  },
+  {
+    "course_codes": [
+      10260
+    ],
+    "course_title": "グローバル社会の体験と理解（Global Fieldwork Project）(AE)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "石川 涼子"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rur4QAC/202610260"
+  },
+  {
+    "course_codes": [
+      10263
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BB)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RutsQAC/202610263"
+  },
+  {
+    "course_codes": [
+      10264
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BC)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuuoQAC/202610264"
+  },
+  {
+    "course_codes": [
+      10265
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BD)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuvkQAC/202610265"
+  },
+  {
+    "course_codes": [
+      10272,
+      10273
+    ],
+    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CB)",
+    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CB)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv1MQAS/202610272"
+  },
+  {
+    "course_codes": [
+      10282,
+      10283
+    ],
+    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CG)",
+    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CG)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuPHQA0/202610282"
+  },
+  {
+    "course_codes": [
+      10284
+    ],
+    "course_title": "グローバル社会の体験と理解（昭和ボストン）(DA)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuQDQA0/202610284"
+  },
+  {
+    "course_codes": [
+      10288
+    ],
+    "course_title": "Global Project-Based Learning（Advanced Global Fieldwork Project）(GD)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "庄子 萌"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuVZQA0/202610288"
+  },
+  {
+    "course_codes": [
+      10290
+    ],
+    "course_title": "Intensive Language Workshop（マコーリー大学）(IA)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuXRQA0/202610290"
+  },
+  {
+    "course_codes": [
+      10291
+    ],
+    "course_title": "Area Study Ⅰ（マコーリー大学）(IB)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuYNQA0/202610291"
+  },
+  {
+    "course_codes": [
+      10338
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BL)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RukYQAS/202610338"
+  },
+  {
+    "course_codes": [
+      10340
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BN)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RumQQAS/202610340"
+  },
+  {
+    "course_codes": [
+      10257
+    ],
+    "course_title": "グローバル社会の体験と理解（Global Fieldwork Project）(AA)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "石川 涼子"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuoGQAS/202610257"
+  },
+  {
+    "course_codes": [
+      10259
+    ],
+    "course_title": "グローバル社会の体験と理解（Global Fieldwork Project）(AD)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "庄子 萌"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ruq8QAC/202610259"
+  },
+  {
+    "course_codes": [
+      10262
+    ],
+    "course_title": "グローバル社会の体験と理解（Global Fieldwork Project）(AG)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "駒見 一善"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuswQAC/202610262"
+  },
+  {
+    "course_codes": [
+      10266
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BF)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuwgQAC/202610266"
+  },
+  {
+    "course_codes": [
+      10267
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BG)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuxcQAC/202610267"
+  },
+  {
+    "course_codes": [
+      10268
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BH)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuyYQAS/202610268"
+  },
+  {
+    "course_codes": [
+      10269
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BI)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuzUQAS/202610269"
+  },
+  {
+    "course_codes": [
+      10270,
+      10271
+    ],
+    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CA)",
+    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CA)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv0QQAS/202610270"
+  },
+  {
+    "course_codes": [
+      10274,
+      10275
+    ],
+    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CC)",
+    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CC)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv2IQAS/202610274"
+  },
+  {
+    "course_codes": [
+      10276,
+      10277
+    ],
+    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CD)",
+    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CD)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv3EQAS/202610276"
+  },
+  {
+    "course_codes": [
+      10278,
+      10279
+    ],
+    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CE)",
+    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CE)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv4AQAS/202610278"
+  },
+  {
+    "course_codes": [
+      10280,
+      10281
+    ],
+    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CF)",
+    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CF)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuOLQA0/202610280"
+  },
+  {
+    "course_codes": [
+      10285
+    ],
+    "course_title": "Global Project-Based Learning（海外スタディ）(EA)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuSlQAK/202610285"
+  },
+  {
+    "course_codes": [
+      10287
+    ],
+    "course_title": "Global Project-Based Learning（Advanced Global Fieldwork Project）(GB)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [
+      "羽谷 沙織"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuUdQAK/202610287"
+  },
+  {
+    "course_codes": [
+      10289
+    ],
+    "course_title": "Area Study Ⅱ（海外スタディ）(HA)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 4,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuWVQA0/202610289"
+  },
+  {
+    "course_codes": [
+      10339
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BM)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RulUQAS/202610339"
+  },
+  {
+    "course_codes": [
+      17225
+    ],
+    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BO)",
+    "academic_year": 2026,
+    "term": "冬期集中",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000004t6yXQAQ/202617225"
+  },
+  {
+    "course_codes": [
+      15219,
+      15220,
+      15221,
+      15222,
+      15223
+    ],
+    "course_title": "IR26-IR112 Modern World History (RB)",
+    "course_title_alt": "IR18‐AE109 Modern World History(RB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "松坂 裕晃"
+    ],
+    "credits": 2,
+    "campus": "衣笠",
+    "classroom": "明学館MG001号教室",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "スポーツ健康科学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvURQA0/202615219"
+  },
+  {
+    "course_codes": [
+      15307,
+      15308,
+      15309,
+      15310,
+      15311
+    ],
+    "course_title": "IR26-CULT104 Introduction to Linguistics (RA)",
+    "course_title_alt": "IR18‐AE102 Introduction to Linguistics(RA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "RAJKAI ZSOMBOR TIBOR"
+    ],
+    "credits": 2,
+    "campus": "衣笠",
+    "classroom": "恒心館KS306号教室",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "スポーツ健康科学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RunBQAS/202615307"
+  },
+  {
+    "course_codes": [
+      15297,
+      15298,
+      15299,
+      15300,
+      15301
+    ],
+    "course_title": "IR26-CULT103 Introduction to Anthropology(RA)",
+    "course_title_alt": "IR18‐AE103 Introduction to Anthropology(RA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "黄 信者"
+    ],
+    "credits": 2,
+    "campus": "衣笠",
+    "classroom": "恒心館KS201号教室",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "スポーツ健康科学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RulJQAS/202615297"
+  },
+  {
+    "course_codes": [
+      15302,
+      15303,
+      15304,
+      15305,
+      15306
+    ],
+    "course_title": "IR26-CULT103 Introduction to Anthropology(RB)",
+    "course_title_alt": "IR18‐AE103 Introduction to Anthropology(RB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "黄 信者"
+    ],
+    "credits": 2,
+    "campus": "衣笠",
+    "classroom": "明学館MG002号教室",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "スポーツ健康科学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RumFQAS/202615302"
+  },
+  {
+    "course_codes": [
+      16970,
+      16971
+    ],
+    "course_title": "Foundations of Data Science and AI (G1)",
+    "course_title_alt": "RUIR-1806 Foundations of Data Science and AI(JD)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火",
+    "slots": [
+      {
+        "day": "火",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "情報理工学部",
+      "法学部",
+      "国際関係学部",
+      "映像学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwrWQAS/202616970"
+  },
+  {
+    "course_codes": [
+      16972,
+      16973
+    ],
+    "course_title": "Foundations of Data Engineering (G1)",
+    "course_title_alt": "RUIR-1807 Foundations of Data Engineering(JD)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火",
+    "slots": [
+      {
+        "day": "火",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "情報理工学部",
+      "法学部",
+      "国際関係学部",
+      "映像学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwsUQAS/202616972"
+  },
+  {
+    "course_codes": [
+      15214,
+      15215,
+      15216,
+      15217,
+      15218
+    ],
+    "course_title": "IR26-IR112 Modern World History (RA)",
+    "course_title_alt": "IR18‐AE109 Modern World History(RA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "松坂 裕晃"
+    ],
+    "credits": 2,
+    "campus": "衣笠",
+    "classroom": "恒心館KS201号教室",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "スポーツ健康科学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvTTQA0/202615214"
+  },
+  {
+    "course_codes": [
+      15312,
+      15313,
+      15314,
+      15315,
+      15316
+    ],
+    "course_title": "IR26-CULT104 Introduction to Linguistics (RB)",
+    "course_title_alt": "IR18‐AE102 Introduction to Linguistics(RB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "RAJKAI ZSOMBOR TIBOR"
+    ],
+    "credits": 2,
+    "campus": "衣笠",
+    "classroom": "恒心館KS201号教室",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "スポーツ健康科学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ruo7QAC/202615312"
+  },
+  {
+    "course_codes": [
+      15317,
+      15318,
+      15319,
+      17206
+    ],
+    "course_title": "IR26-CULT105 Japan and the World (RA)",
+    "course_title_alt": "IR18‐AE105 Japan and the West(RA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "AVILES ERNULT J. R."
+    ],
+    "credits": 2,
+    "campus": "衣笠",
+    "classroom": "恒心館KS201号教室",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "スポーツ健康科学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rup3QAC/202615317"
+  },
+  {
+    "course_codes": [
+      15321,
+      15322,
+      15323,
+      17207
+    ],
+    "course_title": "IR26-CULT105 Japan and the World (RB)",
+    "course_title_alt": "IR18‐AE105 Japan and the West(RB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "AVILES ERNULT J. R."
+    ],
+    "credits": 2,
+    "campus": "衣笠",
+    "classroom": "明学館MG003号教室",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "スポーツ健康科学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RupzQAC/202615321"
+  },
+  {
+    "course_codes": [
+      15227,
+      15228,
+      15229,
+      15230
+    ],
+    "course_title": "IR26-IR114 Special Lecture (General Education Course)(RA)",
+    "course_title_alt": "IR18‐AE104 Introduction to Natural Science(R)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "門脇 浩明"
+    ],
+    "credits": 2,
+    "campus": "衣笠",
+    "classroom": "恒心館KS306号教室",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "スポーツ健康科学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuP7QAK/202615227"
+  },
+  {
+    "course_codes": [
+      15231,
+      15232,
+      15233,
+      15234
+    ],
+    "course_title": "IR26-IR114 Special Lecture (General Education Course)(RB)",
+    "course_title_alt": "IR18‐AE106 Kyoto and the Japanese Arts(R)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "GADJEVA NADEJDA P."
+    ],
+    "credits": 2,
+    "campus": "衣笠",
+    "classroom": "明学館MG001号教室",
+    "is_online": false,
+    "faculties": [
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "スポーツ健康科学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuQ3QAK/202615231"
+  },
+  {
+    "course_codes": [
+      10301
+    ],
+    "course_title": "Academic Communication(Online Learning)(立命館XUC Davis “Online Learning”)(QA)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuhjQAC/202610301"
+  },
+  {
+    "course_codes": [
+      10302
+    ],
+    "course_title": "Area Study(Online Learning)(立命館XUC Davis “Online Learning”)(RA)",
+    "academic_year": 2026,
+    "term": "夏集中Ⅳ",
+    "schedule": "",
+    "slots": [],
+    "instructors": [],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "情報理工学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuifQAC/202610302"
+  },
+  {
+    "course_codes": [
+      13999,
+      14000,
+      14001,
+      14002,
+      14003
+    ],
+    "course_title": "ツーリズム地域論 (L)",
+    "course_title_alt": "ツーリズム地域論Ⅰ(L)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "山本 理佳"
+    ],
+    "credits": 2,
+    "campus": "衣笠",
+    "classroom": "明学館MG401号教室",
+    "is_online": false,
+    "faculties": [
+      "国際関係学部",
+      "文学部",
+      "デザイン・アート部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvFEQA0/202613999"
+  }
+]

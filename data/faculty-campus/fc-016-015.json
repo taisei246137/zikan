@@ -1,0 +1,7723 @@
+[
+  {
+    "course_codes": [
+      34923
+    ],
+    "course_title": "データサイエンス・AI基礎 (G1)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月",
+    "slots": [
+      {
+        "day": "月",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwaLQAS/202634923"
+  },
+  {
+    "course_codes": [
+      34924
+    ],
+    "course_title": "データサイエンス・AI基礎 (G2)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月",
+    "slots": [
+      {
+        "day": "月",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwbJQAS/202634924"
+  },
+  {
+    "course_codes": [
+      11628
+    ],
+    "course_title": "（留）日本語Ⅳ（聴解口頭）(Z)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3,水2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "久米 朋子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY402号教室/諒友館RY203号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvEsQAK/202611628"
+  },
+  {
+    "course_codes": [
+      11634
+    ],
+    "course_title": "（留）日本語Ⅲ（聴解口頭）(Z)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3,火2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "川瀬 愛"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "洋洋館YY203号教室/諒友館RY304号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuUsQAK/202611634"
+  },
+  {
+    "course_codes": [
+      11639
+    ],
+    "course_title": "（留）日本語Ⅱ（聴解口頭）(Z)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月2,火4",
+    "slots": [
+      {
+        "day": "月",
+        "period": 2
+      },
+      {
+        "day": "火",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "増田 寛次"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "学而館GJ307号教室/諒友館RY408号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuZYQA0/202611639"
+  },
+  {
+    "course_codes": [
+      11758
+    ],
+    "course_title": "（留）日本語Ⅳ（聴解口頭）(K)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3,水2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "久米 朋子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY305号教室/学而館GJ308号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ruv5QAC/202611758"
+  },
+  {
+    "course_codes": [
+      11764
+    ],
+    "course_title": "（留）日本語Ⅲ（聴解口頭）(K)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3,火2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "川瀬 愛"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "学而館GJ307号教室/洋洋館YY303号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv0hQAC/202611764"
+  },
+  {
+    "course_codes": [
+      11771
+    ],
+    "course_title": "（留）日本語Ⅱ（聴解口頭）(K)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月2,火4",
+    "slots": [
+      {
+        "day": "月",
+        "period": 2
+      },
+      {
+        "day": "火",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "増田 寛次"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "学而館GJ310号教室/諒友館RY304号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv7IQAS/202611771"
+  },
+  {
+    "course_codes": [
+      11595
+    ],
+    "course_title": "（留）日本語6（聴解口頭） (Z)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火3,金4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "川瀬 愛"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY304号教室/諒友館RY302号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RumdQAC/202611595"
+  },
+  {
+    "course_codes": [
+      11620
+    ],
+    "course_title": "（留）日本語Ⅴ（聴解口頭）(Z)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2,木4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "増田 寛次"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY408号教室/諒友館RY405号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv7GQAS/202611620"
+  },
+  {
+    "course_codes": [
+      11724
+    ],
+    "course_title": "（留）日本語6（聴解口頭） (K)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火3,金4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "川瀬 愛"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "洋洋館YY303号教室/学而館GJ305号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuQTQA0/202611724"
+  },
+  {
+    "course_codes": [
+      11750
+    ],
+    "course_title": "（留）日本語Ⅴ（聴解口頭）(K)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2,木4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "増田 寛次"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY304号教室/諒友館RY405号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RunbQAC/202611750"
+  },
+  {
+    "course_codes": [
+      34925
+    ],
+    "course_title": "データエンジニアリング基礎 (G1)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水",
+    "slots": [
+      {
+        "day": "水",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwcHQAS/202634925"
+  },
+  {
+    "course_codes": [
+      34926
+    ],
+    "course_title": "データエンジニアリング基礎 (G2)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水",
+    "slots": [
+      {
+        "day": "水",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "理工学部",
+      "情報理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "映像学部",
+      "生命科学部",
+      "薬学部",
+      "スポーツ健康科学部",
+      "総合心理学部",
+      "食マネジメント学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwdFQAS/202634926"
+  },
+  {
+    "course_codes": [
+      11609
+    ],
+    "course_title": "（留）日本語Ⅵ（聴解口頭）(Z)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2,金3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "久次 優子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY204号教室/学而館GJ304号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuxrQAC/202611609"
+  },
+  {
+    "course_codes": [
+      11621
+    ],
+    "course_title": "（留）日本語Ⅴ（聴解口頭）(Z2)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2,金3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "菅 智穂"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "学而館GJ311号教室/諒友館RY303号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv8DQAS/202611621"
+  },
+  {
+    "course_codes": [
+      11629
+    ],
+    "course_title": "（留）日本語Ⅳ（聴解口頭）(Z2)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,金3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "澁谷 きみ子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY303号教室/諒友館RY305号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuOaQAK/202611629"
+  },
+  {
+    "course_codes": [
+      11642
+    ],
+    "course_title": "（留）日本語Ⅰ（聴解口頭）(Z)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,木2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "堀野 善康"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY406号教室/学而館GJ308号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RucMQAS/202611642"
+  },
+  {
+    "course_codes": [
+      11739
+    ],
+    "course_title": "（留）日本語Ⅵ（聴解口頭）(K)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2,金3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "久次 優子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "諒友館RY305号教室/諒友館RY304号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RueFQAS/202611739"
+  },
+  {
+    "course_codes": [
+      11751
+    ],
+    "course_title": "（留）日本語Ⅴ（聴解口頭）(K2)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2,金3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "菅 智穂"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "学而館GJ309号教室/諒友館RY303号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuoXQAS/202611751"
+  },
+  {
+    "course_codes": [
+      11759
+    ],
+    "course_title": "（留）日本語Ⅳ（聴解口頭）(K2)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,金3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "澁谷 きみ子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "洋洋館YY203号教室/諒友館RY406号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ruw1QAC/202611759"
+  },
+  {
+    "course_codes": [
+      11774
+    ],
+    "course_title": "（留）日本語Ⅰ（聴解口頭）(K)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,木2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "堀野 善康"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "学而館GJ311号教室/諒友館RY406号教室",
+    "is_online": false,
+    "faculties": [
+      "理工学部",
+      "法学部",
+      "経済学部",
+      "経営学部",
+      "産業社会学部",
+      "国際関係学部",
+      "文学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvA9QAK/202611774"
+  },
+  {
+    "course_codes": [
+      16970,
+      16971
+    ],
+    "course_title": "Foundations of Data Science and AI (G1)",
+    "course_title_alt": "RUIR-1806 Foundations of Data Science and AI(JD)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火",
+    "slots": [
+      {
+        "day": "火",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "情報理工学部",
+      "法学部",
+      "国際関係学部",
+      "映像学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwrWQAS/202616970"
+  },
+  {
+    "course_codes": [
+      16972,
+      16973
+    ],
+    "course_title": "Foundations of Data Engineering (G1)",
+    "course_title_alt": "RUIR-1807 Foundations of Data Engineering(JD)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火",
+    "slots": [
+      {
+        "day": "火",
+        "period": null
+      }
+    ],
+    "instructors": [
+      "西門 秀人"
+    ],
+    "credits": 2,
+    "campus": "*",
+    "classroom": "施設なし",
+    "is_online": true,
+    "faculties": [
+      "情報理工学部",
+      "法学部",
+      "国際関係学部",
+      "映像学部",
+      "デザイン・アート部",
+      "デザイン・アート学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwsUQAS/202616972"
+  },
+  {
+    "course_codes": [
+      11985
+    ],
+    "course_title": "卒業研究(A1)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "月5,月5",
+    "slots": [
+      {
+        "day": "月",
+        "period": 5
+      },
+      {
+        "day": "月",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "吉原 雅人"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS302号教室/存心館ZS302号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rvv4QAC/202611985"
+  },
+  {
+    "course_codes": [
+      11988
+    ],
+    "course_title": "卒業研究(A4)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "月5,月5",
+    "slots": [
+      {
+        "day": "月",
+        "period": 5
+      },
+      {
+        "day": "月",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "渡辺 千原"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS303号教室/存心館ZS303号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvxyQAC/202611988"
+  },
+  {
+    "course_codes": [
+      11989
+    ],
+    "course_title": "卒業研究(A5)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "月1,月1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 1
+      },
+      {
+        "day": "月",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "小田 美佐子"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS307号教室/存心館ZS307号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvywQAC/202611989"
+  },
+  {
+    "course_codes": [
+      11991
+    ],
+    "course_title": "卒業研究(A7)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "月5,月5",
+    "slots": [
+      {
+        "day": "月",
+        "period": 5
+      },
+      {
+        "day": "月",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "河野 恵一"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS304号教室/存心館ZS304号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw0sQAC/202611991"
+  },
+  {
+    "course_codes": [
+      11998
+    ],
+    "course_title": "卒業研究(B7)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "月5,月5",
+    "slots": [
+      {
+        "day": "月",
+        "period": 5
+      },
+      {
+        "day": "月",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "谷 遼大"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS308号教室/存心館ZS308号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw7eQAC/202611998"
+  },
+  {
+    "course_codes": [
+      12006
+    ],
+    "course_title": "卒業研究(C2)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "月5,木5",
+    "slots": [
+      {
+        "day": "月",
+        "period": 5
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "安達 光治"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "興学館KO201号教室/興学館KO201号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuOeQAK/202612006"
+  },
+  {
+    "course_codes": [
+      12009
+    ],
+    "course_title": "卒業研究(C5)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "月1,月1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 1
+      },
+      {
+        "day": "月",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "本田 稔"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS405号教室/存心館ZS405号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuT4QAK/202612009"
+  },
+  {
+    "course_codes": [
+      12019
+    ],
+    "course_title": "卒業研究(D5)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "月5,月5",
+    "slots": [
+      {
+        "day": "月",
+        "period": 5
+      },
+      {
+        "day": "月",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "木村 和成"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS202号教室/存心館ZS202号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RucQQAS/202612019"
+  },
+  {
+    "course_codes": [
+      12021
+    ],
+    "course_title": "卒業研究(D7)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "月5,月5",
+    "slots": [
+      {
+        "day": "月",
+        "period": 5
+      },
+      {
+        "day": "月",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "谷本 圭子"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS307号教室/存心館ZS307号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RueIQAS/202612021"
+  },
+  {
+    "course_codes": [
+      12022
+    ],
+    "course_title": "卒業研究(D8)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "月1,月1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 1
+      },
+      {
+        "day": "月",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "中谷 崇"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS306号教室/存心館ZS306号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RufEQAS/202612022"
+  },
+  {
+    "course_codes": [
+      12024
+    ],
+    "course_title": "卒業研究(D0)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "月1,月1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 1
+      },
+      {
+        "day": "月",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "本山 敦"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS407号教室/存心館ZS407号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ruh6QAC/202612024"
+  },
+  {
+    "course_codes": [
+      12026
+    ],
+    "course_title": "卒業研究(E2)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "月1,月1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 1
+      },
+      {
+        "day": "月",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "田中 悠美子"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS406号教室/存心館ZS406号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuiyQAC/202612026"
+  },
+  {
+    "course_codes": [
+      12028
+    ],
+    "course_title": "卒業研究(E4)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "月1,月1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 1
+      },
+      {
+        "day": "月",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "岩淵 重広"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS309号教室/存心館ZS309号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RukqQAC/202612028"
+  },
+  {
+    "course_codes": [
+      12029
+    ],
+    "course_title": "卒業研究(E5)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "月5,月5",
+    "slots": [
+      {
+        "day": "月",
+        "period": 5
+      },
+      {
+        "day": "月",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "品谷 篤哉"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS401号教室/存心館ZS401号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RulmQAC/202612029"
+  },
+  {
+    "course_codes": [
+      12033
+    ],
+    "course_title": "卒業研究(E9)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "月1,月1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 1
+      },
+      {
+        "day": "月",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "青木 克也"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS401号教室/存心館ZS401号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RupWQAS/202612033"
+  },
+  {
+    "course_codes": [
+      12035
+    ],
+    "course_title": "卒業研究(EA)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "月5,月5",
+    "slots": [
+      {
+        "day": "月",
+        "period": 5
+      },
+      {
+        "day": "月",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "宮脇 正晴"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS402号教室/存心館ZS402号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RurOQAS/202612035"
+  },
+  {
+    "course_codes": [
+      12036
+    ],
+    "course_title": "卒業研究(EB)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "月5,月5",
+    "slots": [
+      {
+        "day": "月",
+        "period": 5
+      },
+      {
+        "day": "月",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "樋爪 誠"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS403号教室/存心館ZS403号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RusKQAS/202612036"
+  },
+  {
+    "course_codes": [
+      12045
+    ],
+    "course_title": "卒業研究(F3)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "月1,月1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 1
+      },
+      {
+        "day": "月",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "西村 翼"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS403号教室/存心館ZS403号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv0kQAC/202612045"
+  },
+  {
+    "course_codes": [
+      12049
+    ],
+    "course_title": "卒業研究(F7)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "月1,月1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 1
+      },
+      {
+        "day": "月",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "柳 至"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "興学館KO201号教室/興学館KO201号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv4UQAS/202612049"
+  },
+  {
+    "course_codes": [
+      12118
+    ],
+    "course_title": "自主企画演習(J1)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月5,水6",
+    "slots": [
+      {
+        "day": "月",
+        "period": 5
+      },
+      {
+        "day": "水",
+        "period": 6
+      }
+    ],
+    "instructors": [],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "衣笠/衣笠",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvhXQAS/202612118"
+  },
+  {
+    "course_codes": [
+      12145
+    ],
+    "course_title": "憲法Ⅱ（人権） (JA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月1,木3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "多田 一路"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS201号教室/存心館ZS201号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw7fQAC/202612145"
+  },
+  {
+    "course_codes": [
+      12147
+    ],
+    "course_title": "憲法Ⅱ（人権） (JC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月1,木4",
+    "slots": [
+      {
+        "day": "月",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "倉田 原志"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS207号教室/存心館ZS207号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuPbQAK/202612147"
+  },
+  {
+    "course_codes": [
+      12165
+    ],
+    "course_title": "刑法Ⅰ（総論）(JC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3,木2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "山本 和輝"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS207号教室/存心館ZS207号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rui3QAC/202612165"
+  },
+  {
+    "course_codes": [
+      12222
+    ],
+    "course_title": "刑事訴訟法(JA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4,月5",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "月",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "森久 智江"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS301号教室/存心館ZS301号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvR6QAK/202612222"
+  },
+  {
+    "course_codes": [
+      12226
+    ],
+    "course_title": "刑法Ⅱ（各論）(JC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3,月4",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "月",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "山本 和輝"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS207号教室/存心館ZS207号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvUyQAK/202612226"
+  },
+  {
+    "course_codes": [
+      12320
+    ],
+    "course_title": "民事訴訟法（法曹） (J)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月5,月6",
+    "slots": [
+      {
+        "day": "月",
+        "period": 5
+      },
+      {
+        "day": "月",
+        "period": 6
+      }
+    ],
+    "instructors": [
+      "平野 哲郎"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS310号教室/存心館ZS310号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvS5QAK/202612320"
+  },
+  {
+    "course_codes": [
+      12577
+    ],
+    "course_title": "ドイツ語・基礎(JA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4,金1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "神野 ゆみこ"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "洋洋館YY501号教室/洋洋館YY501号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuQbQAK/202612577"
+  },
+  {
+    "course_codes": [
+      12578
+    ],
+    "course_title": "ドイツ語・基礎(JB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4,金1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "武田 良材"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "洋洋館YY503号教室/洋洋館YY503号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuT9QAK/202612578"
+  },
+  {
+    "course_codes": [
+      12579
+    ],
+    "course_title": "ドイツ語・基礎(JC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3,金2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "武田 良材"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "洋洋館YY503号教室/洋洋館YY503号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuU5QAK/202612579"
+  },
+  {
+    "course_codes": [
+      12580
+    ],
+    "course_title": "ドイツ語・基礎(JD)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3,金2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "神野 ゆみこ"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "洋洋館YY501号教室/洋洋館YY501号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuV1QAK/202612580"
+  },
+  {
+    "course_codes": [
+      12581
+    ],
+    "course_title": "ドイツ語・展開(JA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月4,金1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "神野 ゆみこ"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS306号教室/存心館ZS306号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuVxQAK/202612581"
+  },
+  {
+    "course_codes": [
+      12582
+    ],
+    "course_title": "ドイツ語・展開(JB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月4,金1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "武田 良材"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS203号教室/存心館ZS203号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuWtQAK/202612582"
+  },
+  {
+    "course_codes": [
+      12583
+    ],
+    "course_title": "ドイツ語・展開(JC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3,金2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "武田 良材"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS203号教室/存心館ZS203号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuXpQAK/202612583"
+  },
+  {
+    "course_codes": [
+      12584
+    ],
+    "course_title": "ドイツ語・展開(JD)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3,金2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "神野 ゆみこ"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS306号教室/存心館ZS306号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuYlQAK/202612584"
+  },
+  {
+    "course_codes": [
+      12605
+    ],
+    "course_title": "スペイン語・基礎(JA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3,水1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "安保 寛尚",
+      "二宗 美紀"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS304号教室/存心館ZS304号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RusPQAS/202612605"
+  },
+  {
+    "course_codes": [
+      12606
+    ],
+    "course_title": "スペイン語・基礎(JB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4,水2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "川添 誠",
+      "福森 雅史"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS406号教室/志学館SG403号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RutLQAS/202612606"
+  },
+  {
+    "course_codes": [
+      12610
+    ],
+    "course_title": "スペイン語・展開(JA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3,水1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "安保 寛尚",
+      "二宗 美紀"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "洋洋館YY501号教室/洋洋館YY501号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rux5QAC/202612610"
+  },
+  {
+    "course_codes": [
+      12611
+    ],
+    "course_title": "スペイン語・展開(JB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月4,水2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "川添 誠",
+      "福森 雅史"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "洋洋館YY501号教室/洋洋館YY501号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ruy1QAC/202612611"
+  },
+  {
+    "course_codes": [
+      12625
+    ],
+    "course_title": "朝鮮語・基礎(JA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3,金1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "金 容賛",
+      "田中 知子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS309号教室/存心館ZS309号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvBEQA0/202612625"
+  },
+  {
+    "course_codes": [
+      12626
+    ],
+    "course_title": "朝鮮語・基礎(JB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3,金1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "高 永珍",
+      "SHIN JUHYUNG"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS306号教室/存心館ZS306号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvCBQA0/202612626"
+  },
+  {
+    "course_codes": [
+      12627
+    ],
+    "course_title": "朝鮮語・基礎(JC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3,金1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "姜 文姫",
+      "梁 京姫"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "洋洋館YY504号教室/洋洋館YY504号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvD8QAK/202612627"
+  },
+  {
+    "course_codes": [
+      12628
+    ],
+    "course_title": "朝鮮語・基礎(JD)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4,金2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "姜 文姫",
+      "SHIN JUHYUNG"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS306号教室/洋洋館YY504号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvE5QAK/202612628"
+  },
+  {
+    "course_codes": [
+      12629
+    ],
+    "course_title": "朝鮮語・基礎(JE)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4,金2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "SONG EUN YOUNG",
+      "田中 知子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS309号教室/存心館ZS309号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvF2QAK/202612629"
+  },
+  {
+    "course_codes": [
+      12630
+    ],
+    "course_title": "朝鮮語・展開(JA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3,金1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "姜 文姫",
+      "高 永珍"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS305号教室/存心館ZS305号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvFzQAK/202612630"
+  },
+  {
+    "course_codes": [
+      12631
+    ],
+    "course_title": "朝鮮語・展開(JB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3,金1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "姜 文姫",
+      "金 容賛"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "興学館KO202号教室/興学館KO202号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvGwQAK/202612631"
+  },
+  {
+    "course_codes": [
+      12632
+    ],
+    "course_title": "朝鮮語・展開(JC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3,金1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "SHIN JUHYUNG",
+      "田中 知子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS309号教室/存心館ZS309号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvHtQAK/202612632"
+  },
+  {
+    "course_codes": [
+      12633
+    ],
+    "course_title": "朝鮮語・展開(JD)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月4,金2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "SONG EUN YOUNG",
+      "田中 知子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS309号教室/存心館ZS309号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvIqQAK/202612633"
+  },
+  {
+    "course_codes": [
+      12634
+    ],
+    "course_title": "朝鮮語・展開(JE)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月4,金2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "姜 文姫",
+      "申 東洙"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "興学館KO202号教室/興学館KO202号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvJnQAK/202612634"
+  },
+  {
+    "course_codes": [
+      12157
+    ],
+    "course_title": "民法Ⅱ（債権各論）(JB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4,木1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "谷江 陽介"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS207号教室/存心館ZS207号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部",
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuaZQAS/202612157"
+  },
+  {
+    "course_codes": [
+      12146
+    ],
+    "course_title": "憲法Ⅱ（人権） (JB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火3,木4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "波多江 悟史"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS201号教室/存心館ZS201号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuOfQAK/202612146"
+  },
+  {
+    "course_codes": [
+      12163
+    ],
+    "course_title": "刑法Ⅰ（総論）(JA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1,水2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "本田 稔"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS207号教室/存心館ZS207号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RugBQAS/202612163"
+  },
+  {
+    "course_codes": [
+      12164
+    ],
+    "course_title": "刑法Ⅰ（総論）(JB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2,水1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "嘉門 優"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS207号教室/存心館ZS207号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ruh7QAC/202612164"
+  },
+  {
+    "course_codes": [
+      12177,
+      12178
+    ],
+    "course_title": "訴訟法務入門演習 (JA)",
+    "course_title_alt": "法曹フィールドワーク演習(JA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火4,火5",
+    "slots": [
+      {
+        "day": "火",
+        "period": 4
+      },
+      {
+        "day": "火",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "中井 真雄",
+      "堀田 康介",
+      "山田 泰弘"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS202号教室/存心館ZS202号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RutHQAS/202612177"
+  },
+  {
+    "course_codes": [
+      12179,
+      12180
+    ],
+    "course_title": "訴訟法務入門演習 (JB)",
+    "course_title_alt": "法曹フィールドワーク演習(JB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火4,火5",
+    "slots": [
+      {
+        "day": "火",
+        "period": 4
+      },
+      {
+        "day": "火",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "河野 佑宜",
+      "中出 威一郎",
+      "山田 泰弘"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS205号教室/存心館ZS205号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuuDQAS/202612179"
+  },
+  {
+    "course_codes": [
+      12231
+    ],
+    "course_title": "公共政策実習(J)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "火4,火4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 4
+      },
+      {
+        "day": "火",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "柳 至"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS204号教室/存心館ZS204号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvZoQAK/202612231"
+  },
+  {
+    "course_codes": [
+      12279
+    ],
+    "course_title": "日本法史(JA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1,金2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "河野 恵一"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS207号教室/存心館ZS207号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RungQAC/202612279"
+  },
+  {
+    "course_codes": [
+      12280
+    ],
+    "course_title": "日本法史(JB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2,金1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "河野 恵一"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS207号教室/存心館ZS207号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuocQAC/202612280"
+  },
+  {
+    "course_codes": [
+      12289
+    ],
+    "course_title": "法哲学(J)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1,火2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "菊地 諒"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "明学館MG202号教室/明学館MG202号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rux2QAC/202612289"
+  },
+  {
+    "course_codes": [
+      12319
+    ],
+    "course_title": "刑事訴訟法（法曹） (J)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1,木3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "山口 直也"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS310号教室/存心館ZS310号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvR7QAK/202612319"
+  },
+  {
+    "course_codes": [
+      12325,
+      12326
+    ],
+    "course_title": "法政海外フィールド・スタディ(JA)",
+    "course_title_alt": "（副）法政海外フィールド・スタディ(JA)",
+    "academic_year": 2026,
+    "term": "秋＋冬",
+    "schedule": "火5,",
+    "slots": [
+      {
+        "day": "火",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "佐藤 渉"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS302号教室/存心館ZS302号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvUzQAK/202612325"
+  },
+  {
+    "course_codes": [
+      12327,
+      12328
+    ],
+    "course_title": "法政海外フィールド・スタディ(JB)",
+    "course_title_alt": "法政特殊講義(JH)",
+    "academic_year": 2026,
+    "term": "秋＋冬",
+    "schedule": "火5,",
+    "slots": [
+      {
+        "day": "火",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "樋爪 誠",
+      "山田 希"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS303号教室/存心館ZS303号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvVxQAK/202612327"
+  },
+  {
+    "course_codes": [
+      12331,
+      12332
+    ],
+    "course_title": "法政海外フィールド・スタディ (JD)",
+    "course_title_alt": "法政特殊講義(JL)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "火5,火5",
+    "slots": [
+      {
+        "day": "火",
+        "period": 5
+      },
+      {
+        "day": "火",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "村上 剛"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS203号教室/存心館ZS203号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvXtQAK/202612331"
+  },
+  {
+    "course_codes": [
+      12448
+    ],
+    "course_title": "英語Ⅰ（Advanced）(1)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1,木2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "JACKSON LACHLAN"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS302号教室/存心館ZS302号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvBCQA0/202612448"
+  },
+  {
+    "course_codes": [
+      12449
+    ],
+    "course_title": "英語Ⅰ（Advanced）(2)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2,木1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "JACKSON LACHLAN"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS302号教室/存心館ZS302号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvC9QAK/202612449"
+  },
+  {
+    "course_codes": [
+      12450
+    ],
+    "course_title": "英語Ⅰ（High-intermediate）(3)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1,木2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "WARD DALE JOHN"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS303号教室/存心館ZS303号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvD6QAK/202612450"
+  },
+  {
+    "course_codes": [
+      12451
+    ],
+    "course_title": "英語Ⅰ（High-intermediate）(4)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2,木1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "WARD DALE JOHN"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS303号教室/存心館ZS303号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvE3QAK/202612451"
+  },
+  {
+    "course_codes": [
+      12452
+    ],
+    "course_title": "英語Ⅰ（High-intermediate）(5)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1,木2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "HILLIS MARY EDNA"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS304号教室/存心館ZS304号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvF0QAK/202612452"
+  },
+  {
+    "course_codes": [
+      12453
+    ],
+    "course_title": "英語Ⅰ（High-intermediate）(6)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2,木1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "HILLIS MARY EDNA"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS304号教室/存心館ZS304号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvFxQAK/202612453"
+  },
+  {
+    "course_codes": [
+      12454
+    ],
+    "course_title": "英語Ⅰ（High-intermediate）(7)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1,木2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "RUSHTON ANDY"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS305号教室/存心館ZS305号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvGuQAK/202612454"
+  },
+  {
+    "course_codes": [
+      12455
+    ],
+    "course_title": "英語Ⅰ（High-intermediate）(8)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2,木1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "RUSHTON ANDY"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS305号教室/存心館ZS305号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvHrQAK/202612455"
+  },
+  {
+    "course_codes": [
+      12456
+    ],
+    "course_title": "英語Ⅰ（High-intermediate）(9)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1,木2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "HACON JONATHAN"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS306号教室/存心館ZS306号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvIoQAK/202612456"
+  },
+  {
+    "course_codes": [
+      12457
+    ],
+    "course_title": "英語Ⅰ（High-intermediate）(10)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2,木1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "HACON JONATHAN"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS306号教室/存心館ZS306号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvJlQAK/202612457"
+  },
+  {
+    "course_codes": [
+      12458
+    ],
+    "course_title": "英語Ⅰ（Intermediate）(11)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1,木2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "STEWART REX ARTHUR"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS307号教室/存心館ZS307号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvMKQA0/202612458"
+  },
+  {
+    "course_codes": [
+      12459
+    ],
+    "course_title": "英語Ⅰ（Intermediate）(12)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2,木1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "STEWART REX ARTHUR"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS307号教室/存心館ZS307号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvNHQA0/202612459"
+  },
+  {
+    "course_codes": [
+      12460
+    ],
+    "course_title": "英語Ⅰ（Intermediate）(13)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1,木2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "LECKIE RICHARD W."
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS308号教室/存心館ZS308号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvOEQA0/202612460"
+  },
+  {
+    "course_codes": [
+      12461
+    ],
+    "course_title": "英語Ⅰ（Intermediate）(14)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2,木1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "LECKIE RICHARD W."
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS308号教室/存心館ZS308号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvPCQA0/202612461"
+  },
+  {
+    "course_codes": [
+      12462
+    ],
+    "course_title": "英語Ⅰ（Intermediate）(15)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1,木2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "MAYRAND.J.S"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS309号教室/存心館ZS309号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvQAQA0/202612462"
+  },
+  {
+    "course_codes": [
+      12463
+    ],
+    "course_title": "英語Ⅰ（Intermediate）(16)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2,木1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "MAYRAND.J.S"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS309号教室/存心館ZS309号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvR8QAK/202612463"
+  },
+  {
+    "course_codes": [
+      12464
+    ],
+    "course_title": "英語Ⅰ（Intermediate）(17)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1,木2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "FOSTER JOHN PAUL"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS401号教室/存心館ZS401号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvS6QAK/202612464"
+  },
+  {
+    "course_codes": [
+      12465
+    ],
+    "course_title": "英語Ⅰ（Intermediate）(18)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2,木1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "FOSTER JOHN PAUL"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS401号教室/存心館ZS401号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvT4QAK/202612465"
+  },
+  {
+    "course_codes": [
+      12466
+    ],
+    "course_title": "英語Ⅰ（Intermediate）(19)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1,木2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "VIDAL JOSHUA GUANZON"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS402号教室/存心館ZS402号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvU2QAK/202612466"
+  },
+  {
+    "course_codes": [
+      12467
+    ],
+    "course_title": "英語Ⅰ（Intermediate）(20)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2,木1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "VIDAL JOSHUA GUANZON"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS402号教室/存心館ZS402号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvV0QAK/202612467"
+  },
+  {
+    "course_codes": [
+      12468
+    ],
+    "course_title": "英語Ⅰ（Pre-intermediate）(21)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1,木2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "RADMALL ADAM"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS403号教室/存心館ZS403号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvVyQAK/202612468"
+  },
+  {
+    "course_codes": [
+      12469
+    ],
+    "course_title": "英語Ⅰ（Pre-intermediate）(22)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2,木1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "RADMALL ADAM"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS403号教室/存心館ZS403号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvWwQAK/202612469"
+  },
+  {
+    "course_codes": [
+      12470
+    ],
+    "course_title": "英語Ⅱ（Advanced）(1)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2,木1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "WARD DALE JOHN"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS302号教室/存心館ZS302号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvXuQAK/202612470"
+  },
+  {
+    "course_codes": [
+      12471
+    ],
+    "course_title": "英語Ⅱ（Advanced）(2)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1,木2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "WARD DALE JOHN"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS302号教室/存心館ZS302号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvYsQAK/202612471"
+  },
+  {
+    "course_codes": [
+      12472
+    ],
+    "course_title": "英語Ⅱ（High-intermediate）(3)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2,木1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "HORN STEPHEN WRIGHT"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS303号教室/存心館ZS303号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvZqQAK/202612472"
+  },
+  {
+    "course_codes": [
+      12473
+    ],
+    "course_title": "英語Ⅱ（High-intermediate）(4)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1,木2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "HORN STEPHEN WRIGHT"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS303号教室/存心館ZS303号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvaoQAC/202612473"
+  },
+  {
+    "course_codes": [
+      12474
+    ],
+    "course_title": "英語Ⅱ（High-intermediate）(5)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1,木2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "RUSHTON ANDY"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS304号教室/存心館ZS304号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvbmQAC/202612474"
+  },
+  {
+    "course_codes": [
+      12475
+    ],
+    "course_title": "英語Ⅱ（High-intermediate）(6)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2,木1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "RUSHTON ANDY"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS304号教室/存心館ZS304号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvckQAC/202612475"
+  },
+  {
+    "course_codes": [
+      12476
+    ],
+    "course_title": "英語Ⅱ（High-intermediate）(7)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1,木2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "RADMALL ADAM"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS305号教室/存心館ZS305号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvdiQAC/202612476"
+  },
+  {
+    "course_codes": [
+      12477
+    ],
+    "course_title": "英語Ⅱ（High-intermediate）(8)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2,木1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "RADMALL ADAM"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS305号教室/存心館ZS305号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvegQAC/202612477"
+  },
+  {
+    "course_codes": [
+      12478
+    ],
+    "course_title": "英語Ⅱ（High-intermediate）(9)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1,木2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "STEWART REX ARTHUR"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS306号教室/存心館ZS306号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvfeQAC/202612478"
+  },
+  {
+    "course_codes": [
+      12479
+    ],
+    "course_title": "英語Ⅱ（High-intermediate）(10)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2,木1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "STEWART REX ARTHUR"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS306号教室/存心館ZS306号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuNmQAK/202612479"
+  },
+  {
+    "course_codes": [
+      12480
+    ],
+    "course_title": "英語Ⅱ（Intermediate）(11)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1,木2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "HACON JONATHAN"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS307号教室/存心館ZS307号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuOiQAK/202612480"
+  },
+  {
+    "course_codes": [
+      12481
+    ],
+    "course_title": "英語Ⅱ（Intermediate）(12)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2,木1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "HACON JONATHAN"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS307号教室/存心館ZS307号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuPeQAK/202612481"
+  },
+  {
+    "course_codes": [
+      12482
+    ],
+    "course_title": "英語Ⅱ（Intermediate）(13)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1,木2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "MAYRAND.J.S"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS308号教室/存心館ZS308号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuQaQAK/202612482"
+  },
+  {
+    "course_codes": [
+      12483
+    ],
+    "course_title": "英語Ⅱ（Intermediate）(14)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2,木1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "MAYRAND.J.S"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS308号教室/存心館ZS308号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuT8QAK/202612483"
+  },
+  {
+    "course_codes": [
+      12484
+    ],
+    "course_title": "英語Ⅱ（Intermediate）(15)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1,木2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "LECKIE RICHARD W."
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS309号教室/存心館ZS309号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuU4QAK/202612484"
+  },
+  {
+    "course_codes": [
+      12485
+    ],
+    "course_title": "英語Ⅱ（Intermediate）(16)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2,木1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "LECKIE RICHARD W."
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS309号教室/存心館ZS309号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuV0QAK/202612485"
+  },
+  {
+    "course_codes": [
+      12486
+    ],
+    "course_title": "英語Ⅱ（Intermediate）(17)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1,木2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "HILLIS MARY EDNA"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS401号教室/存心館ZS401号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuVwQAK/202612486"
+  },
+  {
+    "course_codes": [
+      12487
+    ],
+    "course_title": "英語Ⅱ（Intermediate）(18)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2,木1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "HILLIS MARY EDNA"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS401号教室/存心館ZS401号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuWsQAK/202612487"
+  },
+  {
+    "course_codes": [
+      12488
+    ],
+    "course_title": "英語Ⅱ（Intermediate）(19)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1,木2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "FOSTER JOHN PAUL"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS402号教室/存心館ZS402号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuXoQAK/202612488"
+  },
+  {
+    "course_codes": [
+      12489
+    ],
+    "course_title": "英語Ⅱ（Intermediate）(20)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2,木1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "FOSTER JOHN PAUL"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS402号教室/存心館ZS402号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuYkQAK/202612489"
+  },
+  {
+    "course_codes": [
+      12490
+    ],
+    "course_title": "英語Ⅱ（Pre-intermediate）(21)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1,木2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "VIDAL JOSHUA GUANZON"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS403号教室/存心館ZS403号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuZgQAK/202612490"
+  },
+  {
+    "course_codes": [
+      12491
+    ],
+    "course_title": "英語Ⅱ（Pre-intermediate）(22)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2,木1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "VIDAL JOSHUA GUANZON"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS403号教室/存心館ZS403号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuacQAC/202612491"
+  },
+  {
+    "course_codes": [
+      12158
+    ],
+    "course_title": "民法Ⅱ（債権各論）(JC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2,木3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      },
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "臼井 豊"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS201号教室/存心館ZS201号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部",
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RubVQAS/202612158"
+  },
+  {
+    "course_codes": [
+      11789
+    ],
+    "course_title": "基礎演習Ⅰ(1)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "小田 美佐子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS203号教室/存心館ZS203号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuZaQAK/202611789"
+  },
+  {
+    "course_codes": [
+      11790
+    ],
+    "course_title": "基礎演習Ⅰ(2)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "西村 めぐみ"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS302号教室/存心館ZS302号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuaWQAS/202611790"
+  },
+  {
+    "course_codes": [
+      11791
+    ],
+    "course_title": "基礎演習Ⅰ(3)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "本田 稔"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS303号教室/存心館ZS303号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RubSQAS/202611791"
+  },
+  {
+    "course_codes": [
+      11792
+    ],
+    "course_title": "基礎演習Ⅰ(4)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "西村 翼"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS304号教室/存心館ZS304号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RucOQAS/202611792"
+  },
+  {
+    "course_codes": [
+      11793
+    ],
+    "course_title": "基礎演習Ⅰ(5)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "村上 剛"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS305号教室/存心館ZS305号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RudKQAS/202611793"
+  },
+  {
+    "course_codes": [
+      11794
+    ],
+    "course_title": "基礎演習Ⅰ(6)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "森久 智江"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS306号教室/存心館ZS306号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RueGQAS/202611794"
+  },
+  {
+    "course_codes": [
+      11795
+    ],
+    "course_title": "基礎演習Ⅰ(7)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "嘉門 優"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS307号教室/存心館ZS307号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RufCQAS/202611795"
+  },
+  {
+    "course_codes": [
+      11796
+    ],
+    "course_title": "基礎演習Ⅰ(8)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "清水 拓磨"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS308号教室/存心館ZS308号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rug8QAC/202611796"
+  },
+  {
+    "course_codes": [
+      11797
+    ],
+    "course_title": "基礎演習Ⅰ(9)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "山本 和輝"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS309号教室/存心館ZS309号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ruh4QAC/202611797"
+  },
+  {
+    "course_codes": [
+      11798
+    ],
+    "course_title": "基礎演習Ⅰ(10)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "臼井 豊"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS401号教室/存心館ZS401号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rui0QAC/202611798"
+  },
+  {
+    "course_codes": [
+      11799
+    ],
+    "course_title": "基礎演習Ⅰ(11)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "石橋 秀起"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS402号教室/存心館ZS402号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuiwQAC/202611799"
+  },
+  {
+    "course_codes": [
+      11800
+    ],
+    "course_title": "基礎演習Ⅰ(12)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "中谷 崇"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS403号教室/存心館ZS403号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RujsQAC/202611800"
+  },
+  {
+    "course_codes": [
+      11801
+    ],
+    "course_title": "基礎演習Ⅰ(13)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "正木 宏長"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS404号教室/存心館ZS404号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RukoQAC/202611801"
+  },
+  {
+    "course_codes": [
+      11802
+    ],
+    "course_title": "基礎演習Ⅰ(14)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "多田 一路"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS405号教室/存心館ZS405号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RulkQAC/202611802"
+  },
+  {
+    "course_codes": [
+      11803
+    ],
+    "course_title": "基礎演習Ⅰ(15)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "波多江 悟史"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS406号教室/存心館ZS406号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RumgQAC/202611803"
+  },
+  {
+    "course_codes": [
+      11804
+    ],
+    "course_title": "基礎演習Ⅰ(16)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "品谷 篤哉"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS407号教室/存心館ZS407号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuncQAC/202611804"
+  },
+  {
+    "course_codes": [
+      11805
+    ],
+    "course_title": "基礎演習Ⅰ(17)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "岩淵 重広"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS408号教室/存心館ZS408号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuoYQAS/202611805"
+  },
+  {
+    "course_codes": [
+      11806
+    ],
+    "course_title": "基礎演習Ⅰ(18)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "田中 悠美子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "興学館KO201号教室/興学館KO201号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RupUQAS/202611806"
+  },
+  {
+    "course_codes": [
+      11807
+    ],
+    "course_title": "基礎演習Ⅰ(19)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "渡辺 千原"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "興学館KO202号教室/興学館KO202号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuqQQAS/202611807"
+  },
+  {
+    "course_codes": [
+      11808
+    ],
+    "course_title": "基礎演習Ⅰ(20)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "出口 雅久"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "志学館SG302号教室/志学館SG302号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RurMQAS/202611808"
+  },
+  {
+    "course_codes": [
+      11809
+    ],
+    "course_title": "基礎演習Ⅰ(21)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "樋爪 誠"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "志学館SG303号教室/志学館SG303号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RusIQAS/202611809"
+  },
+  {
+    "course_codes": [
+      11810
+    ],
+    "course_title": "基礎演習Ⅰ(22)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "井畑 陽平"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "志学館SG304号教室/志学館SG304号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RutEQAS/202611810"
+  },
+  {
+    "course_codes": [
+      11811
+    ],
+    "course_title": "基礎演習Ⅰ(23)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "山田 泰弘"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "志学館SG401号教室/志学館SG401号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuuAQAS/202611811"
+  },
+  {
+    "course_codes": [
+      11812
+    ],
+    "course_title": "基礎演習Ⅰ(24)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "竹浜 修"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "志学館SG402号教室/志学館SG402号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ruv6QAC/202611812"
+  },
+  {
+    "course_codes": [
+      11819
+    ],
+    "course_title": "基礎演習Ⅱ(1)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "竹浜 修"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS203号教室/存心館ZS203号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv1eQAC/202611819"
+  },
+  {
+    "course_codes": [
+      11820
+    ],
+    "course_title": "基礎演習Ⅱ(2)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "青木 克也"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS302号教室/存心館ZS302号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv2aQAC/202611820"
+  },
+  {
+    "course_codes": [
+      11821
+    ],
+    "course_title": "基礎演習Ⅱ(3)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "清水 円香"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS303号教室/存心館ZS303号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv3WQAS/202611821"
+  },
+  {
+    "course_codes": [
+      11822
+    ],
+    "course_title": "基礎演習Ⅱ(4)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "谷江 陽介"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS304号教室/存心館ZS304号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv4SQAS/202611822"
+  },
+  {
+    "course_codes": [
+      11823
+    ],
+    "course_title": "基礎演習Ⅱ(5)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "波多江 悟史"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS305号教室/存心館ZS305号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv5PQAS/202611823"
+  },
+  {
+    "course_codes": [
+      11824
+    ],
+    "course_title": "基礎演習Ⅱ(6)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "多田 一路"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS306号教室/存心館ZS306号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv6MQAS/202611824"
+  },
+  {
+    "course_codes": [
+      11825
+    ],
+    "course_title": "基礎演習Ⅱ(7)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "岩淵 重広"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS307号教室/存心館ZS307号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv7JQAS/202611825"
+  },
+  {
+    "course_codes": [
+      11826
+    ],
+    "course_title": "基礎演習Ⅱ(8)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "正木 宏長"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS308号教室/存心館ZS308号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv8GQAS/202611826"
+  },
+  {
+    "course_codes": [
+      11827
+    ],
+    "course_title": "基礎演習Ⅱ(9)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "山田 泰弘"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS309号教室/存心館ZS309号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv9DQAS/202611827"
+  },
+  {
+    "course_codes": [
+      11828
+    ],
+    "course_title": "基礎演習Ⅱ(10)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "倉田 原志"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS401号教室/存心館ZS401号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvAAQA0/202611828"
+  },
+  {
+    "course_codes": [
+      11829
+    ],
+    "course_title": "基礎演習Ⅱ(11)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "井畑 陽平"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS402号教室/存心館ZS402号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvB7QAK/202611829"
+  },
+  {
+    "course_codes": [
+      11830
+    ],
+    "course_title": "基礎演習Ⅱ(12)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "品谷 篤哉"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS403号教室/存心館ZS403号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvC4QAK/202611830"
+  },
+  {
+    "course_codes": [
+      11831
+    ],
+    "course_title": "基礎演習Ⅱ(13)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "石橋 秀起"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS404号教室/存心館ZS404号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvD1QAK/202611831"
+  },
+  {
+    "course_codes": [
+      11832
+    ],
+    "course_title": "基礎演習Ⅱ(14)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "田中 悠美子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS405号教室/存心館ZS405号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvDyQAK/202611832"
+  },
+  {
+    "course_codes": [
+      11833
+    ],
+    "course_title": "基礎演習Ⅱ(15)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "森久 智江"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS406号教室/存心館ZS406号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvEvQAK/202611833"
+  },
+  {
+    "course_codes": [
+      11834
+    ],
+    "course_title": "基礎演習Ⅱ(16)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "山田 希"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS407号教室/存心館ZS407号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvFsQAK/202611834"
+  },
+  {
+    "course_codes": [
+      11835
+    ],
+    "course_title": "基礎演習Ⅱ(17)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "中谷 崇"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS408号教室/存心館ZS408号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvGpQAK/202611835"
+  },
+  {
+    "course_codes": [
+      11836
+    ],
+    "course_title": "基礎演習Ⅱ(18)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "本田 稔"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "興学館KO201号教室/興学館KO201号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvHmQAK/202611836"
+  },
+  {
+    "course_codes": [
+      11837
+    ],
+    "course_title": "基礎演習Ⅱ(19)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "山本 和輝"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "興学館KO202号教室/興学館KO202号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvIjQAK/202611837"
+  },
+  {
+    "course_codes": [
+      11838
+    ],
+    "course_title": "基礎演習Ⅱ(20)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "嘉門 優"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "志学館SG302号教室/志学館SG302号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvJgQAK/202611838"
+  },
+  {
+    "course_codes": [
+      11839
+    ],
+    "course_title": "基礎演習Ⅱ(21)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "清水 拓磨"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "志学館SG303号教室/志学館SG303号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvMFQA0/202611839"
+  },
+  {
+    "course_codes": [
+      11840
+    ],
+    "course_title": "基礎演習Ⅱ(22)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "湯山 智之"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "志学館SG304号教室/志学館SG304号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvNCQA0/202611840"
+  },
+  {
+    "course_codes": [
+      11841
+    ],
+    "course_title": "基礎演習Ⅱ(23)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "小田 美佐子"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "志学館SG401号教室/志学館SG401号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvO9QAK/202611841"
+  },
+  {
+    "course_codes": [
+      11842
+    ],
+    "course_title": "基礎演習Ⅱ(24)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3,水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      },
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "渡辺 千原"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "志学館SG402号教室/志学館SG402号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvP7QAK/202611842"
+  },
+  {
+    "course_codes": [
+      11986
+    ],
+    "course_title": "卒業研究(A2)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "水1,水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "WOLF MICHAEL L."
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS306号教室/存心館ZS306号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rvw2QAC/202611986"
+  },
+  {
+    "course_codes": [
+      11987
+    ],
+    "course_title": "卒業研究(A3)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "水1,水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "高橋 直人"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS307号教室/存心館ZS307号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rvx0QAC/202611987"
+  },
+  {
+    "course_codes": [
+      11992
+    ],
+    "course_title": "卒業研究(B1)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "水2,水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "小松 浩"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "興学館KO102号教室/興学館KO102号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw1qQAC/202611992"
+  },
+  {
+    "course_codes": [
+      11995
+    ],
+    "course_title": "卒業研究(B4)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "水1,水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "倉田 原志"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS309号教室/存心館ZS309号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw4kQAC/202611995"
+  },
+  {
+    "course_codes": [
+      12013
+    ],
+    "course_title": "卒業研究(C9)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "水1,水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "渕野 貴生"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS401号教室/存心館ZS401号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuWoQAK/202612013"
+  },
+  {
+    "course_codes": [
+      12014
+    ],
+    "course_title": "卒業研究(C0)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "水1,水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "清水 拓磨"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS402号教室/存心館ZS402号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuXkQAK/202612014"
+  },
+  {
+    "course_codes": [
+      12018
+    ],
+    "course_title": "卒業研究(D4)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "水1,水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "臼井 豊"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS403号教室/存心館ZS403号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RubUQAS/202612018"
+  },
+  {
+    "course_codes": [
+      12034
+    ],
+    "course_title": "卒業研究(E0)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "水1,水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "山本 忠"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS406号教室/存心館ZS406号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuqSQAS/202612034"
+  },
+  {
+    "course_codes": [
+      12047
+    ],
+    "course_title": "卒業研究(F5)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "水1,水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "吉次 公介"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS407号教室/存心館ZS407号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv2cQAC/202612047"
+  },
+  {
+    "course_codes": [
+      12052
+    ],
+    "course_title": "卒業研究(G1)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "水1,水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "堀 雅晴"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS408号教室/存心館ZS408号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv7LQAS/202612052"
+  },
+  {
+    "course_codes": [
+      12225
+    ],
+    "course_title": "刑法Ⅱ（各論）(JB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1,水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "嘉門 優"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS201号教室/存心館ZS201号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvU0QAK/202612225"
+  },
+  {
+    "course_codes": [
+      12303
+    ],
+    "course_title": "労働法(J)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4,水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      },
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "青木 克也"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS301号教室/存心館ZS301号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvAEQA0/202612303"
+  },
+  {
+    "course_codes": [
+      12545
+    ],
+    "course_title": "中国語・基礎(JA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "植屋 高史",
+      "中西 千香"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "興学館KO201号教室/興学館KO201号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvR9QAK/202612545"
+  },
+  {
+    "course_codes": [
+      12546
+    ],
+    "course_title": "中国語・基礎(JB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "西端 彩"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS305号教室/存心館ZS305号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvS7QAK/202612546"
+  },
+  {
+    "course_codes": [
+      12547
+    ],
+    "course_title": "中国語・基礎(JC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "山崎 俊鋭"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS303号教室/存心館ZS303号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvT5QAK/202612547"
+  },
+  {
+    "course_codes": [
+      12548
+    ],
+    "course_title": "中国語・基礎(JD)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2,金1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "植屋 高史",
+      "中西 千香"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "興学館KO201号教室/興学館KO201号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvU3QAK/202612548"
+  },
+  {
+    "course_codes": [
+      12549
+    ],
+    "course_title": "中国語・基礎(JE)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2,金1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "山崎 俊鋭"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS303号教室/存心館ZS303号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvV1QAK/202612549"
+  },
+  {
+    "course_codes": [
+      12550
+    ],
+    "course_title": "中国語・基礎(JF)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2,金1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "岩田 弥生"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS304号教室/存心館ZS304号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvVzQAK/202612550"
+  },
+  {
+    "course_codes": [
+      12551
+    ],
+    "course_title": "中国語・基礎(JG)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2,金1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "蟹江 静夫"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "興学館KO202号教室/興学館KO202号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvWxQAK/202612551"
+  },
+  {
+    "course_codes": [
+      12552
+    ],
+    "course_title": "中国語・基礎(JH)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2,金1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "西端 彩"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS305号教室/存心館ZS305号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvXvQAK/202612552"
+  },
+  {
+    "course_codes": [
+      12553
+    ],
+    "course_title": "中国語・展開(JA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "植屋 高史",
+      "中西 千香"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "興学館KO201号教室/興学館KO201号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvYtQAK/202612553"
+  },
+  {
+    "course_codes": [
+      12554
+    ],
+    "course_title": "中国語・展開(JB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "西端 彩"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "洋洋館YY502号教室/洋洋館YY502号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvZrQAK/202612554"
+  },
+  {
+    "course_codes": [
+      12555
+    ],
+    "course_title": "中国語・展開(JC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "山崎 俊鋭"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS302号教室/存心館ZS302号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvapQAC/202612555"
+  },
+  {
+    "course_codes": [
+      12556
+    ],
+    "course_title": "中国語・展開(JD)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2,金1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "植屋 高史",
+      "中西 千香"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "興学館KO201号教室/興学館KO201号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvbnQAC/202612556"
+  },
+  {
+    "course_codes": [
+      12557
+    ],
+    "course_title": "中国語・展開(JE)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2,金1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "山崎 俊鋭"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS302号教室/存心館ZS302号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvclQAC/202612557"
+  },
+  {
+    "course_codes": [
+      12558
+    ],
+    "course_title": "中国語・展開(JF)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2,金1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "岩田 弥生"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "志学館SG403号教室/存心館ZS307号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvdjQAC/202612558"
+  },
+  {
+    "course_codes": [
+      12559
+    ],
+    "course_title": "中国語・展開(JG)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2,金1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "蟹江 静夫"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "洋洋館YY504号教室/洋洋館YY504号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvehQAC/202612559"
+  },
+  {
+    "course_codes": [
+      12560
+    ],
+    "course_title": "中国語・展開(JH)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2,金1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "西端 彩"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "洋洋館YY502号教室/洋洋館YY502号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvffQAC/202612560"
+  },
+  {
+    "course_codes": [
+      12593
+    ],
+    "course_title": "フランス語・基礎(JA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "松尾 剛"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS203号教室/存心館ZS203号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuhBQAS/202612593"
+  },
+  {
+    "course_codes": [
+      12594
+    ],
+    "course_title": "フランス語・基礎(JB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2,金1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "松尾 剛"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS203号教室/存心館ZS203号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rui7QAC/202612594"
+  },
+  {
+    "course_codes": [
+      12595
+    ],
+    "course_title": "フランス語・基礎(JC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2,金1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "粟野 広雅"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "洋洋館YY502号教室/洋洋館YY502号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ruj3QAC/202612595"
+  },
+  {
+    "course_codes": [
+      12596
+    ],
+    "course_title": "フランス語・展開(JA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "松尾 剛"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS303号教室/存心館ZS303号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RujzQAC/202612596"
+  },
+  {
+    "course_codes": [
+      12597
+    ],
+    "course_title": "フランス語・展開(JB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2,金1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "松尾 剛"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS303号教室/存心館ZS303号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RukvQAC/202612597"
+  },
+  {
+    "course_codes": [
+      12598
+    ],
+    "course_title": "フランス語・展開(JC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2,金1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "粟野 広雅"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS304号教室/存心館ZS304号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RulrQAC/202612598"
+  },
+  {
+    "course_codes": [
+      12607
+    ],
+    "course_title": "スペイン語・基礎(JC)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2,金1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "高橋 可恋",
+      "西洞院 遥美"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS302号教室/存心館ZS302号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuuHQAS/202612607"
+  },
+  {
+    "course_codes": [
+      12608
+    ],
+    "course_title": "スペイン語・基礎(JD)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "高橋 可恋",
+      "西洞院 遥美"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS302号教室/存心館ZS302号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuvDQAS/202612608"
+  },
+  {
+    "course_codes": [
+      12609
+    ],
+    "course_title": "スペイン語・基礎(JE)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "田中 由美",
+      "寺本 あけみ"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "志学館SG404号教室/存心館ZS304号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ruw9QAC/202612609"
+  },
+  {
+    "course_codes": [
+      12612
+    ],
+    "course_title": "スペイン語・展開(JC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2,金1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "高橋 可恋",
+      "西洞院 遥美"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "洋洋館YY503号教室/洋洋館YY503号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuyxQAC/202612612"
+  },
+  {
+    "course_codes": [
+      12613
+    ],
+    "course_title": "スペイン語・展開(JD)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "高橋 可恋",
+      "西洞院 遥美"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "洋洋館YY503号教室/洋洋館YY503号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuztQAC/202612613"
+  },
+  {
+    "course_codes": [
+      12614
+    ],
+    "course_title": "スペイン語・展開(JE)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2,金2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "田中 由美",
+      "寺本 あけみ"
+    ],
+    "credits": 2,
+    "campus": "衣笠/衣笠",
+    "classroom": "志学館SG402号教室/存心館ZS305号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv0pQAC/202612614"
+  },
+  {
+    "course_codes": [
+      12156
+    ],
+    "course_title": "民法Ⅱ（債権各論）(JA)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1,木2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "中谷 崇"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS201号教室/存心館ZS201号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部",
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuZdQAK/202612156"
+  },
+  {
+    "course_codes": [
+      12210
+    ],
+    "course_title": "行政法Ⅰ(JA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1,水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      },
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "正木 宏長"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS301号教室/存心館ZS301号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部",
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvE1QAK/202612210"
+  },
+  {
+    "course_codes": [
+      11993
+    ],
+    "course_title": "卒業研究(B2)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "木5,木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "多田 一路"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS203号教室/存心館ZS203号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw2oQAC/202611993"
+  },
+  {
+    "course_codes": [
+      11994
+    ],
+    "course_title": "卒業研究(B3)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "木5,木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "植松 健一"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS306号教室/存心館ZS306号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw3mQAC/202611994"
+  },
+  {
+    "course_codes": [
+      11997
+    ],
+    "course_title": "卒業研究(B6)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "木5,木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "正木 宏長"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS303号教室/存心館ZS303号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw6gQAC/202611997"
+  },
+  {
+    "course_codes": [
+      11999
+    ],
+    "course_title": "卒業研究(B8)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "木5,木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "須藤 陽子"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS304号教室/存心館ZS304号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw8cQAC/202611999"
+  },
+  {
+    "course_codes": [
+      12000
+    ],
+    "course_title": "卒業研究(B9)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "木5,木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "徳川 信治"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "興学館KO202号教室/興学館KO202号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw9aQAC/202612000"
+  },
+  {
+    "course_codes": [
+      12001
+    ],
+    "course_title": "卒業研究(B0)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "木5,木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "湯山 智之"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS305号教室/存心館ZS305号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwAYQA0/202612001"
+  },
+  {
+    "course_codes": [
+      12002
+    ],
+    "course_title": "卒業研究(BA)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "木5,木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "安井 栄二"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS202号教室/存心館ZS202号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwBWQA0/202612002"
+  },
+  {
+    "course_codes": [
+      12004
+    ],
+    "course_title": "卒業研究(BC)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "木5,木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "大西 祥世"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS302号教室/存心館ZS302号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwDSQA0/202612004"
+  },
+  {
+    "course_codes": [
+      12005
+    ],
+    "course_title": "卒業研究(C1)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "木5,木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "嘉門 優"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS307号教室/存心館ZS307号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwEQQA0/202612005"
+  },
+  {
+    "course_codes": [
+      12007
+    ],
+    "course_title": "卒業研究(C3)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "木5,木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "大下 英希"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS308号教室/存心館ZS308号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuPaQAK/202612007"
+  },
+  {
+    "course_codes": [
+      12010
+    ],
+    "course_title": "卒業研究(C6)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "木5,木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "森久 智江"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS309号教室/存心館ZS309号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuU0QAK/202612010"
+  },
+  {
+    "course_codes": [
+      12011
+    ],
+    "course_title": "卒業研究(C7)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "木5,木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "山口 直也"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS401号教室/存心館ZS401号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuUwQAK/202612011"
+  },
+  {
+    "course_codes": [
+      12017
+    ],
+    "course_title": "卒業研究(D3)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "木4,木4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "石橋 秀起"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS402号教室/存心館ZS402号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuaYQAS/202612017"
+  },
+  {
+    "course_codes": [
+      12027
+    ],
+    "course_title": "卒業研究(E3)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "木5,木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "山田 泰弘"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS403号教室/存心館ZS403号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RujuQAC/202612027"
+  },
+  {
+    "course_codes": [
+      12043
+    ],
+    "course_title": "卒業研究(F1)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "木5,木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "徳久 恭子"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS405号教室/存心館ZS405号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuysQAC/202612043"
+  },
+  {
+    "course_codes": [
+      12048
+    ],
+    "course_title": "卒業研究(F6)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "木5,木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "村上 剛"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS407号教室/存心館ZS407号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv3YQAS/202612048"
+  },
+  {
+    "course_codes": [
+      12051
+    ],
+    "course_title": "卒業研究(F9)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "木5,木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "平石 知久"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS408号教室/存心館ZS408号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv6OQAS/202612051"
+  },
+  {
+    "course_codes": [
+      12141
+    ],
+    "course_title": "憲法Ⅱ(JD)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木1,木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "小松 浩"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS311号教室/存心館ZS311号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw3nQAC/202612141"
+  },
+  {
+    "course_codes": [
+      12223
+    ],
+    "course_title": "刑事訴訟法(JB)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木1,木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      },
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "清水 拓磨"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS301号教室/存心館ZS301号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvS4QAK/202612223"
+  },
+  {
+    "course_codes": [
+      12269
+    ],
+    "course_title": "西洋法史(J)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木3,木4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 3
+      },
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "高橋 直人"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS311号教室/存心館ZS311号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RueKQAS/202612269"
+  },
+  {
+    "course_codes": [
+      12211
+    ],
+    "course_title": "行政法Ⅰ(JB)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木4,木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 4
+      },
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "谷 遼大"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS301号教室/存心館ZS301号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部",
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvEyQAK/202612211"
+  },
+  {
+    "course_codes": [
+      12003
+    ],
+    "course_title": "卒業研究(BB)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "金5,金5",
+    "slots": [
+      {
+        "day": "金",
+        "period": 5
+      },
+      {
+        "day": "金",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "望月 爾"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "興学館KO201号教室/興学館KO201号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwCUQA0/202612003"
+  },
+  {
+    "course_codes": [
+      12040
+    ],
+    "course_title": "卒業研究(EF)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "金5,金5",
+    "slots": [
+      {
+        "day": "金",
+        "period": 5
+      },
+      {
+        "day": "金",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "畑中 麻子",
+      "松井 章浩"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS302号教室/存心館ZS302号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ruw4QAC/202612040"
+  },
+  {
+    "course_codes": [
+      12046
+    ],
+    "course_title": "卒業研究(F4)",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "金5,金5",
+    "slots": [
+      {
+        "day": "金",
+        "period": 5
+      },
+      {
+        "day": "金",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "西村 めぐみ"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "洋洋館YY501号教室/洋洋館YY501号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv1gQAC/202612046"
+  },
+  {
+    "course_codes": [
+      12137
+    ],
+    "course_title": "憲法Ⅰ(JD)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金1,金2",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "植松 健一"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS311号教室/存心館ZS311号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvzvQAC/202612137"
+  },
+  {
+    "course_codes": [
+      12224
+    ],
+    "course_title": "刑法Ⅱ（各論）(JA)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金3,金4",
+    "slots": [
+      {
+        "day": "金",
+        "period": 3
+      },
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "本田 稔"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS301号教室/存心館ZS301号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvT2QAK/202612224"
+  },
+  {
+    "course_codes": [
+      12291
+    ],
+    "course_title": "民事訴訟法(J)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金4,金5",
+    "slots": [
+      {
+        "day": "金",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "田中 悠美子"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS207号教室/存心館ZS207号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuyuQAC/202612291"
+  },
+  {
+    "course_codes": [
+      12317
+    ],
+    "course_title": "刑法総論（法曹） (J)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金4,金5",
+    "slots": [
+      {
+        "day": "金",
+        "period": 4
+      },
+      {
+        "day": "金",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "大下 英希"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS310号教室/存心館ZS310号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvPBQA0/202612317"
+  },
+  {
+    "course_codes": [
+      12212
+    ],
+    "course_title": "行政法Ⅰ(JC)",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金1,金2",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "須藤 陽子"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS301号教室/存心館ZS301号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部",
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvFvQAK/202612212"
+  },
+  {
+    "course_codes": [
+      12213
+    ],
+    "course_title": "行政法Ⅱ(J)",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金1,金2",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      },
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "正木 宏長"
+    ],
+    "credits": 4,
+    "campus": "衣笠/衣笠",
+    "classroom": "存心館ZS301号教室/存心館ZS301号教室",
+    "is_online": false,
+    "faculties": [
+      "法学部",
+      "国際関係学部"
+    ],
+    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvGsQAK/202612213"
+  }
+]
