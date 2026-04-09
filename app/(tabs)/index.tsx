@@ -141,22 +141,27 @@ const normalizeTable = (input: unknown): Timetable => {
 };
 
 
-const loadStoredTable = async () => {
+const makeTableKey = (term: TermOption, year: number) =>
+  `${storageKey}:${year}:${term}`;
+const makeColorKey = (term: TermOption, year: number) =>
+  `${colorKey}:${year}:${term}`;
+
+const loadStoredTable = async (key: string) => {
   if (Platform.OS === 'web') {
-    const raw = window.localStorage.getItem(storageKey);
+    const raw = window.localStorage.getItem(key);
     return raw ? JSON.parse(raw) : null;
   }
-  const raw = await AsyncStorage.getItem(storageKey);
+  const raw = await AsyncStorage.getItem(key);
   return raw ? JSON.parse(raw) : null;
 };
 
-const saveStoredTable = async (table: Timetable) => {
+const saveStoredTable = async (key: string, table: Timetable) => {
   const payload = JSON.stringify(table);
   if (Platform.OS === 'web') {
-    window.localStorage.setItem(storageKey, payload);
+    window.localStorage.setItem(key, payload);
     return;
   }
-  await AsyncStorage.setItem(storageKey, payload);
+  await AsyncStorage.setItem(key, payload);
 };
 
 const loadStoredSettings = async () => {
@@ -177,22 +182,22 @@ const saveStoredSettings = async (settings: Settings) => {
   await AsyncStorage.setItem(settingsKey, payload);
 };
 
-const loadStoredColors = async () => {
+const loadStoredColors = async (key: string) => {
   if (Platform.OS === 'web') {
-    const raw = window.localStorage.getItem(colorKey);
+    const raw = window.localStorage.getItem(key);
     return raw ? JSON.parse(raw) : null;
   }
-  const raw = await AsyncStorage.getItem(colorKey);
+  const raw = await AsyncStorage.getItem(key);
   return raw ? JSON.parse(raw) : null;
 };
 
-const saveStoredColors = async (colorMap: Record<string, string>) => {
+const saveStoredColors = async (key: string, colorMap: Record<string, string>) => {
   const payload = JSON.stringify(colorMap);
   if (Platform.OS === 'web') {
-    window.localStorage.setItem(colorKey, payload);
+    window.localStorage.setItem(key, payload);
     return;
   }
-  await AsyncStorage.setItem(colorKey, payload);
+  await AsyncStorage.setItem(key, payload);
 };
 
 const loadLocalCourses = (faculty: string, campus: string): Course[] => {
@@ -220,20 +225,37 @@ export default function HomeScreen() {
   const [campusOptions] = useState<string[]>(() => [...campusList]);
   const [colorMap, setColorMap] = useState<Record<string, string>>({});
   const [selectedColor, setSelectedColor] = useState(pastelColors[0].value);
+  const [tableKey, setTableKey] = useState(() =>
+    makeTableKey(defaultSettings.term, defaultSettings.academicYear)
+  );
+  const [colorsStorageKey, setColorsStorageKey] = useState(() =>
+    makeColorKey(defaultSettings.term, defaultSettings.academicYear)
+  );
 
   useEffect(() => {
     const hydrate = async () => {
       try {
-        const [storedTable, storedSettings, storedColors] = await Promise.all([
-          loadStoredTable(),
-          loadStoredSettings(),
-          loadStoredColors(),
+        const storedSettings = await loadStoredSettings();
+        const nextSettings = storedSettings
+          ? { ...defaultSettings, ...storedSettings }
+          : defaultSettings;
+        setSettings(nextSettings);
+        const nextTableKey = makeTableKey(
+          nextSettings.term,
+          nextSettings.academicYear
+        );
+        const nextColorsKey = makeColorKey(
+          nextSettings.term,
+          nextSettings.academicYear
+        );
+        setTableKey(nextTableKey);
+        setColorsStorageKey(nextColorsKey);
+        const [storedTable, storedColors] = await Promise.all([
+          loadStoredTable(nextTableKey),
+          loadStoredColors(nextColorsKey),
         ]);
         if (storedTable) {
           setTable(normalizeTable(storedTable));
-        }
-        if (storedSettings) {
-          setSettings({ ...defaultSettings, ...storedSettings });
         }
         if (storedColors && typeof storedColors === 'object') {
           setColorMap(storedColors as Record<string, string>);
@@ -252,8 +274,8 @@ export default function HomeScreen() {
     if (!hydrated) {
       return;
     }
-    saveStoredTable(table).catch(() => undefined);
-  }, [hydrated, table]);
+    saveStoredTable(tableKey, table).catch(() => undefined);
+  }, [hydrated, table, tableKey]);
 
   useEffect(() => {
     if (!hydrated) {
@@ -266,8 +288,54 @@ export default function HomeScreen() {
     if (!hydrated) {
       return;
     }
-    saveStoredColors(colorMap).catch(() => undefined);
-  }, [hydrated, colorMap]);
+    saveStoredColors(colorsStorageKey, colorMap).catch(() => undefined);
+  }, [hydrated, colorMap, colorsStorageKey]);
+
+  useEffect(() => {
+    if (!hydrated) {
+      return;
+    }
+    const nextTableKey = makeTableKey(settings.term, settings.academicYear);
+    const nextColorsKey = makeColorKey(settings.term, settings.academicYear);
+    if (nextTableKey === tableKey && nextColorsKey === colorsStorageKey) {
+      return;
+    }
+    const switchTermData = async () => {
+      try {
+        await Promise.all([
+          saveStoredTable(tableKey, table),
+          saveStoredColors(colorsStorageKey, colorMap),
+        ]);
+        const [storedTable, storedColors] = await Promise.all([
+          loadStoredTable(nextTableKey),
+          loadStoredColors(nextColorsKey),
+        ]);
+        setTable(storedTable ? normalizeTable(storedTable) : createEmptyTable());
+        setColorMap(
+          storedColors && typeof storedColors === 'object'
+            ? (storedColors as Record<string, string>)
+            : {}
+        );
+        setOpenCell(null);
+      } catch (err) {
+        setTable(createEmptyTable());
+        setColorMap({});
+      } finally {
+        setTableKey(nextTableKey);
+        setColorsStorageKey(nextColorsKey);
+      }
+    };
+
+    switchTermData();
+  }, [
+    hydrated,
+    settings.term,
+    settings.academicYear,
+    tableKey,
+    colorsStorageKey,
+    table,
+    colorMap,
+  ]);
 
   useEffect(() => {
     if (!openCell) {
