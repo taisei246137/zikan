@@ -1,1607 +1,4491 @@
 [
   {
     "course_codes": [
-      34923
+      40012015
     ],
-    "course_title": "データサイエンス・AI基礎 (G1)",
+    "course_title": "福祉対象入門",
     "academic_year": 2026,
     "term": "春セメスター",
-    "schedule": "月",
+    "schedule": "木4",
     "slots": [
       {
-        "day": "月",
-        "period": null
+        "day": "木",
+        "period": 4
       }
     ],
     "instructors": [
-      "西門 秀人"
+      "福間　隆康"
     ],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
     "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "法学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
+      "社会福祉学部"
     ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwaLQAS/202634923"
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40012015&kaikoNendo=2026&syllabusKomokuPatternId=1"
   },
   {
     "course_codes": [
-      34924
+      40022015
     ],
-    "course_title": "データサイエンス・AI基礎 (G2)",
+    "course_title": "福祉援助入門",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "前期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "福間　隆康"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40022015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40032015
+    ],
+    "course_title": "社会福祉入門演習",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "大熊　絵理菜",
+      "乾　由美",
+      "田中　顕悟",
+      "清家　庸佑"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40032015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40043015
+    ],
+    "course_title": "社会福祉基礎演習",
     "academic_year": 2026,
     "term": "秋セメスター",
-    "schedule": "月",
+    "schedule": "木5",
     "slots": [
       {
-        "day": "月",
-        "period": null
+        "day": "木",
+        "period": 5
       }
     ],
     "instructors": [
-      "西門 秀人"
+      "大熊　絵理菜",
+      "田中　顕悟"
     ],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
     "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "法学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
+      "社会福祉学部"
     ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwbJQAS/202634924"
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40043015&kaikoNendo=2026&syllabusKomokuPatternId=1"
   },
   {
     "course_codes": [
-      34925
+      40052015
     ],
-    "course_title": "データエンジニアリング基礎 (G1)",
+    "course_title": "心理学と心理的支援",
     "academic_year": 2026,
     "term": "春セメスター",
-    "schedule": "水",
+    "schedule": "水3",
     "slots": [
       {
         "day": "水",
-        "period": null
+        "period": 3
       }
     ],
     "instructors": [
-      "西門 秀人"
+      "杉原　俊二",
+      "玉利　麻紀"
     ],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
     "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "法学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
+      "社会福祉学部"
     ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwcHQAS/202634925"
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40052015&kaikoNendo=2026&syllabusKomokuPatternId=1"
   },
   {
     "course_codes": [
-      34926
+      40063015
     ],
-    "course_title": "データエンジニアリング基礎 (G2)",
+    "course_title": "社会学と社会システム",
     "academic_year": 2026,
     "term": "秋セメスター",
-    "schedule": "水",
-    "slots": [
-      {
-        "day": "水",
-        "period": null
-      }
-    ],
-    "instructors": [
-      "西門 秀人"
-    ],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "法学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwdFQAS/202634926"
-  },
-  {
-    "course_codes": [
-      10258
-    ],
-    "course_title": "グローバル社会の体験と理解（Global Fieldwork Project）(AC)",
-    "academic_year": 2026,
-    "term": "夏集中Ⅳ",
-    "schedule": "",
-    "slots": [],
-    "instructors": [
-      "駒見 一善"
-    ],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RupCQAS/202610258"
-  },
-  {
-    "course_codes": [
-      10260
-    ],
-    "course_title": "グローバル社会の体験と理解（Global Fieldwork Project）(AE)",
-    "academic_year": 2026,
-    "term": "夏集中Ⅳ",
-    "schedule": "",
-    "slots": [],
-    "instructors": [
-      "石川 涼子"
-    ],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rur4QAC/202610260"
-  },
-  {
-    "course_codes": [
-      10263
-    ],
-    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BB)",
-    "academic_year": 2026,
-    "term": "夏集中Ⅳ",
-    "schedule": "",
-    "slots": [],
-    "instructors": [],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RutsQAC/202610263"
-  },
-  {
-    "course_codes": [
-      10264
-    ],
-    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BC)",
-    "academic_year": 2026,
-    "term": "夏集中Ⅳ",
-    "schedule": "",
-    "slots": [],
-    "instructors": [],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuuoQAC/202610264"
-  },
-  {
-    "course_codes": [
-      10265
-    ],
-    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BD)",
-    "academic_year": 2026,
-    "term": "夏集中Ⅳ",
-    "schedule": "",
-    "slots": [],
-    "instructors": [],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuvkQAC/202610265"
-  },
-  {
-    "course_codes": [
-      10272,
-      10273
-    ],
-    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CB)",
-    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CB)",
-    "academic_year": 2026,
-    "term": "夏集中Ⅳ",
-    "schedule": "",
-    "slots": [],
-    "instructors": [],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv1MQAS/202610272"
-  },
-  {
-    "course_codes": [
-      10282,
-      10283
-    ],
-    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CG)",
-    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CG)",
-    "academic_year": 2026,
-    "term": "夏集中Ⅳ",
-    "schedule": "",
-    "slots": [],
-    "instructors": [],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuPHQA0/202610282"
-  },
-  {
-    "course_codes": [
-      10284
-    ],
-    "course_title": "グローバル社会の体験と理解（昭和ボストン）(DA)",
-    "academic_year": 2026,
-    "term": "夏集中Ⅳ",
-    "schedule": "",
-    "slots": [],
-    "instructors": [],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuQDQA0/202610284"
-  },
-  {
-    "course_codes": [
-      10288
-    ],
-    "course_title": "Global Project-Based Learning（Advanced Global Fieldwork Project）(GD)",
-    "academic_year": 2026,
-    "term": "夏集中Ⅳ",
-    "schedule": "",
-    "slots": [],
-    "instructors": [
-      "庄子 萌"
-    ],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuVZQA0/202610288"
-  },
-  {
-    "course_codes": [
-      10290
-    ],
-    "course_title": "Intensive Language Workshop（マコーリー大学）(IA)",
-    "academic_year": 2026,
-    "term": "夏集中Ⅳ",
-    "schedule": "",
-    "slots": [],
-    "instructors": [],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuXRQA0/202610290"
-  },
-  {
-    "course_codes": [
-      10291
-    ],
-    "course_title": "Area Study Ⅰ（マコーリー大学）(IB)",
-    "academic_year": 2026,
-    "term": "夏集中Ⅳ",
-    "schedule": "",
-    "slots": [],
-    "instructors": [],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuYNQA0/202610291"
-  },
-  {
-    "course_codes": [
-      10338
-    ],
-    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BL)",
-    "academic_year": 2026,
-    "term": "夏集中Ⅳ",
-    "schedule": "",
-    "slots": [],
-    "instructors": [],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RukYQAS/202610338"
-  },
-  {
-    "course_codes": [
-      10340
-    ],
-    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BN)",
-    "academic_year": 2026,
-    "term": "夏集中Ⅳ",
-    "schedule": "",
-    "slots": [],
-    "instructors": [],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RumQQAS/202610340"
-  },
-  {
-    "course_codes": [
-      10257
-    ],
-    "course_title": "グローバル社会の体験と理解（Global Fieldwork Project）(AA)",
-    "academic_year": 2026,
-    "term": "冬期集中",
-    "schedule": "",
-    "slots": [],
-    "instructors": [
-      "石川 涼子"
-    ],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuoGQAS/202610257"
-  },
-  {
-    "course_codes": [
-      10259
-    ],
-    "course_title": "グローバル社会の体験と理解（Global Fieldwork Project）(AD)",
-    "academic_year": 2026,
-    "term": "冬期集中",
-    "schedule": "",
-    "slots": [],
-    "instructors": [
-      "庄子 萌"
-    ],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ruq8QAC/202610259"
-  },
-  {
-    "course_codes": [
-      10262
-    ],
-    "course_title": "グローバル社会の体験と理解（Global Fieldwork Project）(AG)",
-    "academic_year": 2026,
-    "term": "冬期集中",
-    "schedule": "",
-    "slots": [],
-    "instructors": [
-      "駒見 一善"
-    ],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuswQAC/202610262"
-  },
-  {
-    "course_codes": [
-      10266
-    ],
-    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BF)",
-    "academic_year": 2026,
-    "term": "冬期集中",
-    "schedule": "",
-    "slots": [],
-    "instructors": [],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuwgQAC/202610266"
-  },
-  {
-    "course_codes": [
-      10267
-    ],
-    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BG)",
-    "academic_year": 2026,
-    "term": "冬期集中",
-    "schedule": "",
-    "slots": [],
-    "instructors": [],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuxcQAC/202610267"
-  },
-  {
-    "course_codes": [
-      10268
-    ],
-    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BH)",
-    "academic_year": 2026,
-    "term": "冬期集中",
-    "schedule": "",
-    "slots": [],
-    "instructors": [],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuyYQAS/202610268"
-  },
-  {
-    "course_codes": [
-      10269
-    ],
-    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BI)",
-    "academic_year": 2026,
-    "term": "冬期集中",
-    "schedule": "",
-    "slots": [],
-    "instructors": [],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuzUQAS/202610269"
-  },
-  {
-    "course_codes": [
-      10270,
-      10271
-    ],
-    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CA)",
-    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CA)",
-    "academic_year": 2026,
-    "term": "冬期集中",
-    "schedule": "",
-    "slots": [],
-    "instructors": [],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv0QQAS/202610270"
-  },
-  {
-    "course_codes": [
-      10274,
-      10275
-    ],
-    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CC)",
-    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CC)",
-    "academic_year": 2026,
-    "term": "冬期集中",
-    "schedule": "",
-    "slots": [],
-    "instructors": [],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv2IQAS/202610274"
-  },
-  {
-    "course_codes": [
-      10276,
-      10277
-    ],
-    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CD)",
-    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CD)",
-    "academic_year": 2026,
-    "term": "冬期集中",
-    "schedule": "",
-    "slots": [],
-    "instructors": [],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv3EQAS/202610276"
-  },
-  {
-    "course_codes": [
-      10278,
-      10279
-    ],
-    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CE)",
-    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CE)",
-    "academic_year": 2026,
-    "term": "冬期集中",
-    "schedule": "",
-    "slots": [],
-    "instructors": [],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv4AQAS/202610278"
-  },
-  {
-    "course_codes": [
-      10280,
-      10281
-    ],
-    "course_title": "Intensive Language Workshop（現地で学ぶ初修語セミナー）(CF)",
-    "course_title_alt": "（副）Intensive Language Workshop（現地で学ぶ初修語セミナー）(CF)",
-    "academic_year": 2026,
-    "term": "冬期集中",
-    "schedule": "",
-    "slots": [],
-    "instructors": [],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuOLQA0/202610280"
-  },
-  {
-    "course_codes": [
-      10285
-    ],
-    "course_title": "Global Project-Based Learning（海外スタディ）(EA)",
-    "academic_year": 2026,
-    "term": "冬期集中",
-    "schedule": "",
-    "slots": [],
-    "instructors": [],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuSlQAK/202610285"
-  },
-  {
-    "course_codes": [
-      10287
-    ],
-    "course_title": "Global Project-Based Learning（Advanced Global Fieldwork Project）(GB)",
-    "academic_year": 2026,
-    "term": "冬期集中",
-    "schedule": "",
-    "slots": [],
-    "instructors": [
-      "羽谷 沙織"
-    ],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuUdQAK/202610287"
-  },
-  {
-    "course_codes": [
-      10289
-    ],
-    "course_title": "Area Study Ⅱ（海外スタディ）(HA)",
-    "academic_year": 2026,
-    "term": "冬期集中",
-    "schedule": "",
-    "slots": [],
-    "instructors": [],
-    "credits": 4,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuWVQA0/202610289"
-  },
-  {
-    "course_codes": [
-      10339
-    ],
-    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BM)",
-    "academic_year": 2026,
-    "term": "冬期集中",
-    "schedule": "",
-    "slots": [],
-    "instructors": [],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RulUQAS/202610339"
-  },
-  {
-    "course_codes": [
-      17225
-    ],
-    "course_title": "グローバル社会の体験と理解（異文化理解セミナー）(BO)",
-    "academic_year": 2026,
-    "term": "冬期集中",
-    "schedule": "",
-    "slots": [],
-    "instructors": [],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "理工学部",
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000004t6yXQAQ/202617225"
-  },
-  {
-    "course_codes": [
-      16970,
-      16971
-    ],
-    "course_title": "Foundations of Data Science and AI (G1)",
-    "course_title_alt": "RUIR-1806 Foundations of Data Science and AI(JD)",
-    "academic_year": 2026,
-    "term": "春セメスター",
-    "schedule": "火",
+    "schedule": "火3",
     "slots": [
       {
         "day": "火",
-        "period": null
+        "period": 3
       }
     ],
     "instructors": [
-      "西門 秀人"
+      "玉里　恵美子"
     ],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
     "faculties": [
-      "情報理工学部",
-      "法学部",
-      "国際関係学部",
-      "映像学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
+      "社会福祉学部"
     ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwrWQAS/202616970"
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40063015&kaikoNendo=2026&syllabusKomokuPatternId=1"
   },
   {
     "course_codes": [
-      16972,
-      16973
+      40072015
     ],
-    "course_title": "Foundations of Data Engineering (G1)",
-    "course_title_alt": "RUIR-1807 Foundations of Data Engineering(JD)",
+    "course_title": "社会福祉の原理と政策Ⅰ",
     "academic_year": 2026,
-    "term": "秋セメスター",
-    "schedule": "火",
+    "term": "春セメスター",
+    "schedule": "火3",
     "slots": [
       {
         "day": "火",
-        "period": null
+        "period": 3
       }
     ],
     "instructors": [
-      "西門 秀人"
+      "長澤　紀美子",
+      "行貞　伸二"
     ],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
     "faculties": [
-      "情報理工学部",
-      "法学部",
-      "国際関係学部",
-      "映像学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
+      "社会福祉学部"
     ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwsUQAS/202616972"
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40072015&kaikoNendo=2026&syllabusKomokuPatternId=1"
   },
   {
     "course_codes": [
-      10301
+      40083015
     ],
-    "course_title": "Academic Communication(Online Learning)(立命館XUC Davis “Online Learning”)(QA)",
+    "course_title": "社会福祉の原理と政策Ⅱ",
     "academic_year": 2026,
-    "term": "夏集中Ⅳ",
-    "schedule": "",
+    "term": "秋セメスター",
+    "schedule": "火2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "長澤　紀美子",
+      "行貞　伸二"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40083015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40092015
+    ],
+    "course_title": "社会福祉史",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "行貞　伸二"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40092015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40102015
+    ],
+    "course_title": "介護技術",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木3",
+    "slots": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "上杉　麻理"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40102015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40112015
+    ],
+    "course_title": "社会保障論Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "田中　きよむ"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40112015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40123015
+    ],
+    "course_title": "社会保障論Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "田中　きよむ"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40123015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40133015
+    ],
+    "course_title": "公的扶助論",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木3",
+    "slots": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "田中　きよむ",
+      "行貞　伸二"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40133015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40143015
+    ],
+    "course_title": "障害者福祉論",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金4",
+    "slots": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "遠山　真世"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40143015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40152015
+    ],
+    "course_title": "児童・家庭福祉論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "加藤　由衣"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40152015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40163015
+    ],
+    "course_title": "高齢者福祉論Ⅰ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金1",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "矢吹　知之",
+      "山本　大輔"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40163015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40172015
+    ],
+    "course_title": "高齢者福祉論Ⅱ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "矢吹　知之"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40172015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40183015
+    ],
+    "course_title": "精神保健福祉の原理",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金1",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "玉利　麻紀",
+      "田中　顕悟",
+      "玉利　麻紀",
+      "田中　顕悟"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40183015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40193015
+    ],
+    "course_title": "精神保健福祉制度論",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金1",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "井上　夏子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40193015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40203015
+    ],
+    "course_title": "福祉サービスの組織と経営",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "福間　隆康"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40203015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40212015
+    ],
+    "course_title": "権利擁護論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "田中　きよむ",
+      "行貞　伸二"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40212015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40222015
+    ],
+    "course_title": "更生保護制度",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "加藤　誠之"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40222015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40232015
+    ],
+    "course_title": "保健医療サービス",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "井上　夏子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40232015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40242015
+    ],
+    "course_title": "女性福祉論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "前期: 集中講義",
     "slots": [],
-    "instructors": [],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
+    "instructors": [
+      "長澤　紀美子"
     ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuhjQAC/202610301"
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40242015&kaikoNendo=2026&syllabusKomokuPatternId=1"
   },
   {
     "course_codes": [
-      10302
+      40253015
     ],
-    "course_title": "Area Study(Online Learning)(立命館XUC Davis “Online Learning”)(RA)",
+    "course_title": "医療福祉論",
     "academic_year": 2026,
-    "term": "夏集中Ⅳ",
-    "schedule": "",
+    "term": "秋セメスター",
+    "schedule": "木1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "大熊　絵理菜"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40253015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40263015
+    ],
+    "course_title": "医学概論",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "上村　直人"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40263015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40271015
+    ],
+    "course_title": "精神医学Ⅰ",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "通年: 集中講義",
     "slots": [],
-    "instructors": [],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "情報理工学部",
-      "経済学部",
-      "経営学部",
-      "産業社会学部",
-      "国際関係学部",
-      "文学部",
-      "映像学部",
-      "生命科学部",
-      "薬学部",
-      "スポーツ健康科学部",
-      "総合心理学部",
-      "食マネジメント学部",
-      "デザイン・アート部",
-      "デザイン・アート学部"
+    "instructors": [
+      "山﨑 正雄"
     ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuifQAC/202610302"
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40271015&kaikoNendo=2026&syllabusKomokuPatternId=1"
   },
   {
     "course_codes": [
-      15101
+      40281015
     ],
-    "course_title": "インダストリアルデザイン論 (A)",
+    "course_title": "精神医学Ⅱ",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "通年: 集中講義",
+    "slots": [],
+    "instructors": [
+      "山﨑 正雄"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40281015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40292015
+    ],
+    "course_title": "精神保健学Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "清家　庸佑"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40292015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40303015
+    ],
+    "course_title": "精神保健学Ⅱ",
     "academic_year": 2026,
     "term": "秋セメスター",
-    "schedule": "水",
+    "schedule": "金2",
     "slots": [
       {
-        "day": "水",
-        "period": null
+        "day": "金",
+        "period": 2
       }
     ],
     "instructors": [
-      "谷口 武司"
+      "清家　庸佑"
     ],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
     "faculties": [
-      "デザイン・アート学部"
+      "社会福祉学部"
     ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuWKQA0/202615101"
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40303015&kaikoNendo=2026&syllabusKomokuPatternId=1"
   },
   {
     "course_codes": [
-      15102
+      40313015
     ],
-    "course_title": "京都・伝統文化論 (A)",
-    "academic_year": 2026,
-    "term": "春セメスター",
-    "schedule": "水",
-    "slots": [
-      {
-        "day": "水",
-        "period": null
-      }
-    ],
-    "instructors": [
-      "戸塚 史織",
-      "前崎 信也"
-    ],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuXGQA0/202615102"
-  },
-  {
-    "course_codes": [
-      15103
-    ],
-    "course_title": "グローバルデザイン論 (A)",
-    "academic_year": 2026,
-    "term": "春セメスター",
-    "schedule": "水",
-    "slots": [
-      {
-        "day": "水",
-        "period": null
-      }
-    ],
-    "instructors": [
-      "田丸 文菜",
-      "町田 匠人",
-      "山越 理央"
-    ],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuYCQA0/202615103"
-  },
-  {
-    "course_codes": [
-      15104
-    ],
-    "course_title": "芸術批評論 (A)",
+    "course_title": "発達と老化の理解Ⅰ",
     "academic_year": 2026,
     "term": "秋セメスター",
-    "schedule": "水",
+    "schedule": "火2",
     "slots": [
       {
-        "day": "水",
-        "period": null
+        "day": "火",
+        "period": 2
       }
     ],
     "instructors": [
-      "太田 智己"
+      "玉利　麻紀",
+      "乾　由美"
     ],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
     "faculties": [
-      "デザイン・アート学部"
+      "社会福祉学部"
     ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuZ8QAK/202615104"
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40313015&kaikoNendo=2026&syllabusKomokuPatternId=1"
   },
   {
     "course_codes": [
-      15105
+      40322015
     ],
-    "course_title": "地域デザイン論 (A)",
+    "course_title": "発達と老化の理解Ⅱ",
     "academic_year": 2026,
     "term": "春セメスター",
-    "schedule": "水",
+    "schedule": "木4",
     "slots": [
       {
-        "day": "水",
-        "period": null
+        "day": "木",
+        "period": 4
       }
     ],
     "instructors": [
-      "森 一貴"
+      "清家　庸佑"
     ],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
     "faculties": [
-      "デザイン・アート学部"
+      "社会福祉学部"
     ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rua4QAC/202615105"
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40322015&kaikoNendo=2026&syllabusKomokuPatternId=1"
   },
   {
     "course_codes": [
-      15106
+      40332015
     ],
-    "course_title": "デザイン・アートとコンピュータ基礎 (A)",
+    "course_title": "認知症の理解Ⅰ",
     "academic_year": 2026,
     "term": "春セメスター",
-    "schedule": "水",
+    "schedule": "金4",
     "slots": [
       {
-        "day": "水",
-        "period": null
+        "day": "金",
+        "period": 4
       }
     ],
     "instructors": [
-      "伊東 和輝",
-      "杉山 直磯",
-      "中山 雅人",
-      "南井 勇輝"
+      "矢吹　知之"
     ],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
     "faculties": [
-      "デザイン・アート学部"
+      "社会福祉学部"
     ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rub0QAC/202615106"
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40332015&kaikoNendo=2026&syllabusKomokuPatternId=1"
   },
   {
     "course_codes": [
-      15107
+      40343015
     ],
-    "course_title": "デザイン・アートとビジュアルコミュニケーション(A)",
-    "academic_year": 2026,
-    "term": "春セメスター",
-    "schedule": "水",
-    "slots": [
-      {
-        "day": "水",
-        "period": null
-      }
-    ],
-    "instructors": [
-      "磯邉 美香",
-      "野々山 正章"
-    ],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
-    "faculties": [
-      "デザイン・アート学部"
-    ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RubwQAC/202615107"
-  },
-  {
-    "course_codes": [
-      15108
-    ],
-    "course_title": "デザイン態度論 (A)",
+    "course_title": "認知症の理解Ⅱ",
     "academic_year": 2026,
     "term": "秋セメスター",
-    "schedule": "水",
+    "schedule": "金3",
     "slots": [
       {
-        "day": "水",
-        "period": null
+        "day": "金",
+        "period": 3
       }
     ],
     "instructors": [
-      "福井 崇人",
-      "八重樫 文"
+      "矢吹　知之"
     ],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
     "faculties": [
-      "デザイン・アート学部"
+      "社会福祉学部"
     ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RucsQAC/202615108"
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40343015&kaikoNendo=2026&syllabusKomokuPatternId=1"
   },
   {
     "course_codes": [
-      15109
+      40352015
     ],
-    "course_title": "デザイン理論 (A)",
+    "course_title": "障害の理解Ⅰ",
     "academic_year": 2026,
     "term": "春セメスター",
-    "schedule": "水",
+    "schedule": "木3",
     "slots": [
       {
-        "day": "水",
-        "period": null
+        "day": "木",
+        "period": 3
       }
     ],
     "instructors": [
-      "松井 龍哉",
-      "八重樫 文"
+      "田中　眞希"
     ],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
     "faculties": [
-      "デザイン・アート学部"
+      "社会福祉学部"
     ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RudoQAC/202615109"
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40352015&kaikoNendo=2026&syllabusKomokuPatternId=1"
   },
   {
     "course_codes": [
-      15110
+      40363015
     ],
-    "course_title": "デジタルヒューマニティーズ概論 (A)",
+    "course_title": "障害の理解Ⅱ",
     "academic_year": 2026,
     "term": "秋セメスター",
-    "schedule": "水",
+    "schedule": "木3",
     "slots": [
       {
-        "day": "水",
-        "period": null
+        "day": "木",
+        "period": 3
       }
     ],
     "instructors": [
-      "金子 貴昭"
+      "河内　康文"
     ],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
     "faculties": [
-      "デザイン・アート学部"
+      "社会福祉学部"
     ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuekQAC/202615110"
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40363015&kaikoNendo=2026&syllabusKomokuPatternId=1"
   },
   {
     "course_codes": [
-      15111
+      40372015
     ],
-    "course_title": "人間中心デザイン論 (A)",
+    "course_title": "こころとからだのしくみⅠ",
     "academic_year": 2026,
     "term": "春セメスター",
-    "schedule": "水",
+    "schedule": "金2",
     "slots": [
       {
-        "day": "水",
-        "period": null
+        "day": "金",
+        "period": 2
       }
     ],
     "instructors": [
-      "辻村 和正"
+      "清家　庸佑"
     ],
-    "credits": 2,
-    "campus": "*",
-    "classroom": "施設なし",
-    "is_online": true,
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
     "faculties": [
-      "デザイン・アート学部"
+      "社会福祉学部"
     ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RufgQAC/202615111"
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40372015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40383015
+    ],
+    "course_title": "こころとからだのしくみⅡ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "清家　庸佑"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40383015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40393015
+    ],
+    "course_title": "ソーシャルワークの基盤と専門職Ⅰ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "西内　章",
+      "西梅　幸治",
+      "加藤　由衣"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40393015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40403015
+    ],
+    "course_title": "ソーシャルワークの基盤と専門職Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "西内　章",
+      "西梅　幸治",
+      "加藤　由衣"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40403015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40412015
+    ],
+    "course_title": "ソーシャルワークの理論と方法Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "加藤　由衣"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40412015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40423015
+    ],
+    "course_title": "ソーシャルワークの理論と方法Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "西梅　幸治"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40423015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40433015
+    ],
+    "course_title": "ソーシャルワークの理論と方法Ⅲ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "加藤　由衣"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40433015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40442015
+    ],
+    "course_title": "ソーシャルワークの理論と方法Ⅳ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "西梅　幸治"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40442015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40451015
+    ],
+    "course_title": "ソーシャルワークの理論と方法（精神）",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "水3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "稲垣　佳代",
+      "稲垣　佳代"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40451015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40463015
+    ],
+    "course_title": "面接技法",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "杉原　俊二"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40463015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40472015
+    ],
+    "course_title": "医療ソーシャルワーク論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金1",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "大熊　絵理菜"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40472015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40482015
+    ],
+    "course_title": "ソーシャルワーク演習Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "福間　隆康",
+      "大熊　絵理菜",
+      "湯川　順子",
+      "山本　大輔",
+      "橋村　萌"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40482015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40493015
+    ],
+    "course_title": "ソーシャルワーク演習Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "福間　隆康",
+      "遠山　真世",
+      "行貞　伸二",
+      "山本　大輔",
+      "橋村　萌"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40493015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40502015
+    ],
+    "course_title": "ソーシャルワーク演習Ⅲ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "遠山　真世",
+      "大熊　絵理菜",
+      "湯川　順子",
+      "山本　大輔",
+      "橋村　萌"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40502015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40512015
+    ],
+    "course_title": "ソーシャルワーク演習Ⅳ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "遠山　真世",
+      "大熊　絵理菜",
+      "湯川　順子",
+      "山本　大輔",
+      "橋村　萌"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40512015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40523015
+    ],
+    "course_title": "ソーシャルワーク演習Ⅴ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "西内　章",
+      "西梅　幸治",
+      "福間　隆康",
+      "加藤　由衣",
+      "遠山　真世",
+      "大熊　絵理菜",
+      "行貞　伸二",
+      "湯川　順子",
+      "山本　大輔",
+      "橋村　萌"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40523015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40532015
+    ],
+    "course_title": "ソーシャルワーク実習指導Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木3",
+    "slots": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "西内　章",
+      "西梅　幸治",
+      "福間　隆康",
+      "加藤　由衣",
+      "遠山　真世",
+      "大熊　絵理菜",
+      "行貞　伸二",
+      "湯川　順子",
+      "山本　大輔",
+      "橋村　萌"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40532015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40543015
+    ],
+    "course_title": "ソーシャルワーク実習指導Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火5",
+    "slots": [
+      {
+        "day": "火",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "西内　章",
+      "西梅　幸治",
+      "福間　隆康",
+      "加藤　由衣",
+      "遠山　真世",
+      "大熊　絵理菜",
+      "行貞　伸二",
+      "湯川　順子",
+      "山本　大輔",
+      "橋村　萌"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40543015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40552015
+    ],
+    "course_title": "ソーシャルワーク実習指導Ⅲ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "西内　章",
+      "西梅　幸治",
+      "福間　隆康",
+      "加藤　由衣",
+      "遠山　真世",
+      "大熊　絵理菜",
+      "行貞　伸二",
+      "湯川　順子",
+      "山本　大輔",
+      "橋村　萌"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40552015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40561015
+    ],
+    "course_title": "ソーシャルワーク実習Ⅰ",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "通年: 集中講義",
+    "slots": [],
+    "instructors": [
+      "西内　章",
+      "西梅　幸治",
+      "福間　隆康",
+      "加藤　由衣",
+      "遠山　真世",
+      "大熊　絵理菜",
+      "行貞　伸二",
+      "湯川　順子",
+      "山本　大輔",
+      "橋村　萌"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40561015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40571015
+    ],
+    "course_title": "ソーシャルワーク実習Ⅱ",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "通年: 集中講義",
+    "slots": [],
+    "instructors": [
+      "西内　章",
+      "西梅　幸治",
+      "福間　隆康",
+      "加藤　由衣",
+      "遠山　真世",
+      "大熊　絵理菜",
+      "行貞　伸二",
+      "湯川　順子",
+      "山本　大輔",
+      "橋村　萌"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40571015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40581015
+    ],
+    "course_title": "ソーシャルワーク実習Ⅲ",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "通年: 集中講義",
+    "slots": [],
+    "instructors": [
+      "西内　章",
+      "西梅　幸治",
+      "福間　隆康",
+      "加藤　由衣",
+      "遠山　真世",
+      "大熊　絵理菜",
+      "行貞　伸二",
+      "湯川　順子",
+      "山本　大輔",
+      "橋村　萌"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40581015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40593015
+    ],
+    "course_title": "事例研究法",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "山本　大輔"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40593015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40602015
+    ],
+    "course_title": "実践記録法",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "玉利　麻紀"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40602015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40613015
+    ],
+    "course_title": "チームアプローチ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "大熊　絵理菜"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40613015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40623015
+    ],
+    "course_title": "スーパービジョン",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金2",
+    "slots": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "西梅　幸治"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40623015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40632015
+    ],
+    "course_title": "地域福祉論Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金2",
+    "slots": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "湯川　順子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40632015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40643015
+    ],
+    "course_title": "地域福祉論Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "田中　きよむ"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40643015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40653015
+    ],
+    "course_title": "地域福祉活動",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "後期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "田中　きよむ"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40653015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40663015
+    ],
+    "course_title": "国際福祉論",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "長澤　紀美子",
+      "河内　康文",
+      "玉利　麻紀"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40663015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40673015
+    ],
+    "course_title": "コミュニティソーシャルワーク",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "湯川　順子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40673015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40683015
+    ],
+    "course_title": "福祉ＮＰＯ論",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金5",
+    "slots": [
+      {
+        "day": "金",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "田中　きよむ"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40683015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40693015
+    ],
+    "course_title": "子育て支援論",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "橋村　萌"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40693015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40702015
+    ],
+    "course_title": "虐待防止論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "西内　章",
+      "加藤　由衣"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40702015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40712015
+    ],
+    "course_title": "ケアマネジメント論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "湯川　順子",
+      "橋村　萌"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40712015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40723015
+    ],
+    "course_title": "ケアマネジメント演習",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "玉利　麻紀",
+      "山本　大輔",
+      "橋村　萌"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40723015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40732015
+    ],
+    "course_title": "ケアプラン策定法",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "前期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "西内　章"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40732015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40743015
+    ],
+    "course_title": "精神障害リハビリテーション論",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "玉利　麻紀",
+      "清家　庸佑"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40743015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40752015
+    ],
+    "course_title": "精神保健福祉援助演習Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "稲垣　佳代",
+      "田中　顕悟",
+      "井上　夏子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40752015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40761015
+    ],
+    "course_title": "精神保健福祉援助演習Ⅱ",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "火4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "稲垣　佳代",
+      "田中　顕悟",
+      "井上　夏子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40761015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40773015
+    ],
+    "course_title": "精神保健福祉援助実習指導Ⅰ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "稲垣　佳代",
+      "田中　顕悟",
+      "井上　夏子",
+      "清家　庸佑"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40773015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40781015
+    ],
+    "course_title": "精神保健福祉援助実習指導Ⅱ",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "火3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "稲垣　佳代",
+      "田中　顕悟",
+      "井上　夏子",
+      "清家　庸佑"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40781015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40791015
+    ],
+    "course_title": "精神保健福祉援助実習Ⅰ",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "通年: 集中講義",
+    "slots": [],
+    "instructors": [
+      "稲垣　佳代",
+      "田中　顕悟",
+      "井上　夏子",
+      "清家　庸佑"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40791015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40801015
+    ],
+    "course_title": "精神保健福祉援助実習Ⅱ",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "通年: 集中講義",
+    "slots": [],
+    "instructors": [
+      "稲垣　佳代",
+      "田中　顕悟",
+      "井上　夏子",
+      "清家　庸佑"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40801015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40812015
+    ],
+    "course_title": "介護の基本Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "河内　康文",
+      "河内　康文"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40812015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40821015
+    ],
+    "course_title": "介護の基本Ⅱ",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "金3",
+    "slots": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "辻　真美",
+      "清家　庸佑",
+      "辻　真美",
+      "乾　由美"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40821015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40832015
+    ],
+    "course_title": "介護の基本Ⅲ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "辻　真美",
+      "乾　由美",
+      "辻　真美",
+      "乾　由美"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40832015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40843015
+    ],
+    "course_title": "コミュニケーション技術",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金2",
+    "slots": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "河内　康文",
+      "辻　真美",
+      "河内　康文",
+      "辻　真美"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40843015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40852015
+    ],
+    "course_title": "生活支援技術Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "田中　眞希",
+      "上杉　麻理",
+      "田中　眞希",
+      "上杉　麻理"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40852015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40863015
+    ],
+    "course_title": "生活支援技術Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木3",
+    "slots": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "田中　眞希",
+      "上杉　麻理",
+      "田中　眞希",
+      "上杉　麻理"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40863015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40872015
+    ],
+    "course_title": "生活支援技術Ⅲ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "田中　眞希",
+      "上杉　麻理",
+      "乾　由美",
+      "田中　眞希",
+      "上杉　麻理",
+      "乾　由美",
+      "田中　眞希",
+      "上杉　麻理",
+      "乾　由美"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40872015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40883015
+    ],
+    "course_title": "生活支援技術Ⅳ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金1",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "田中　眞希",
+      "関　草路",
+      "田中　眞希",
+      "関　草路"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40883015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40892015
+    ],
+    "course_title": "生活支援技術Ⅴ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "辻　真美",
+      "矢吹　知之",
+      "乾　由美"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40892015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40903015
+    ],
+    "course_title": "介護過程Ⅰ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金4",
+    "slots": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "河内　康文"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40903015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40912015
+    ],
+    "course_title": "介護過程Ⅱ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金1",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "辻　真美"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40912015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40923015
+    ],
+    "course_title": "介護過程Ⅲ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "田中　眞希",
+      "矢吹　知之"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40923015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40933015
+    ],
+    "course_title": "介護過程Ⅳ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "上杉　麻理",
+      "乾　由美",
+      "上杉　麻理",
+      "乾　由美"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40933015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40941015
+    ],
+    "course_title": "介護総合演習Ⅰ",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "通年: 集中講義",
+    "slots": [],
+    "instructors": [
+      "田中　眞希",
+      "河内　康文",
+      "辻　真美",
+      "矢吹　知之",
+      "上杉　麻理",
+      "乾　由美"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40941015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40951015
+    ],
+    "course_title": "介護総合演習Ⅱ",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "通年: 集中講義",
+    "slots": [],
+    "instructors": [
+      "田中　眞希",
+      "河内　康文",
+      "辻　真美",
+      "矢吹　知之",
+      "上杉　麻理",
+      "乾　由美"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40951015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40963015
+    ],
+    "course_title": "介護総合演習Ⅲ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "田中　眞希",
+      "上杉　麻理"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40963015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40972015
+    ],
+    "course_title": "介護総合演習Ⅳ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "田中　眞希",
+      "河内　康文",
+      "辻　真美",
+      "矢吹　知之",
+      "上杉　麻理"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40972015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40981015
+    ],
+    "course_title": "介護実習Ⅰ",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "通年: 集中講義",
+    "slots": [],
+    "instructors": [
+      "田中　眞希",
+      "河内　康文",
+      "辻　真美",
+      "矢吹　知之",
+      "上杉　麻理",
+      "乾　由美"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40981015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      40991015
+    ],
+    "course_title": "介護実習Ⅱ",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "通年: 集中講義",
+    "slots": [],
+    "instructors": [
+      "田中　眞希",
+      "河内　康文",
+      "辻　真美",
+      "矢吹　知之",
+      "上杉　麻理",
+      "乾　由美"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=40991015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41001015
+    ],
+    "course_title": "介護実習Ⅲ",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "通年: 集中講義",
+    "slots": [],
+    "instructors": [
+      "田中　眞希",
+      "河内　康文",
+      "辻　真美",
+      "矢吹　知之",
+      "上杉　麻理",
+      "乾　由美"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41001015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41013015
+    ],
+    "course_title": "医療的ケアⅠ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "乾　由美",
+      "乾　由美"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41013015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41022015
+    ],
+    "course_title": "医療的ケアⅡ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "前期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "乾　由美"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41022015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41033015
+    ],
+    "course_title": "福祉研究法入門",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "福間　隆康"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41033015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41042015
+    ],
+    "course_title": "社会福祉調査の基礎",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金2",
+    "slots": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "遠山　真世"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41042015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41052015
+    ],
+    "course_title": "社会福祉専門演習Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "田中　きよむ"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41052015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41062015
+    ],
+    "course_title": "社会福祉専門演習Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "長澤　紀美子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41062015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41072015
+    ],
+    "course_title": "社会福祉専門演習Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "西内　章"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41072015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41082015
+    ],
+    "course_title": "社会福祉専門演習Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "西梅　幸治"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41082015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41092015
+    ],
+    "course_title": "社会福祉専門演習Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "矢吹　知之"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41092015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41102015
+    ],
+    "course_title": "社会福祉専門演習Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "加藤　由衣"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41102015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41112015
+    ],
+    "course_title": "社会福祉専門演習Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "河内　康文"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41112015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41122015
+    ],
+    "course_title": "社会福祉専門演習Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "田中　顕悟"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41122015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41132015
+    ],
+    "course_title": "社会福祉専門演習Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "辻　真美"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41132015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41142015
+    ],
+    "course_title": "社会福祉専門演習Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "遠山　真世"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41142015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41152015
+    ],
+    "course_title": "社会福祉専門演習Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "福間　隆康"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41152015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41162015
+    ],
+    "course_title": "社会福祉専門演習Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "井上　夏子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41162015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41172015
+    ],
+    "course_title": "社会福祉専門演習Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "清家　庸佑"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41172015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41182015
+    ],
+    "course_title": "社会福祉専門演習Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "田中　眞希"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41182015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41192015
+    ],
+    "course_title": "社会福祉専門演習Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "湯川　順子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41192015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41202015
+    ],
+    "course_title": "社会福祉専門演習Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "行貞　伸二"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41202015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41213015
+    ],
+    "course_title": "社会福祉専門演習Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "田中　きよむ"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41213015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41223015
+    ],
+    "course_title": "社会福祉専門演習Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "長澤　紀美子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41223015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41233015
+    ],
+    "course_title": "社会福祉専門演習Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "西内　章"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41233015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41243015
+    ],
+    "course_title": "社会福祉専門演習Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "西梅　幸治"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41243015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41253015
+    ],
+    "course_title": "社会福祉専門演習Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "矢吹　知之"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41253015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41263015
+    ],
+    "course_title": "社会福祉専門演習Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "加藤　由衣"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41263015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41273015
+    ],
+    "course_title": "社会福祉専門演習Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "河内　康文"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41273015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41283015
+    ],
+    "course_title": "社会福祉専門演習Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "田中　顕悟"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41283015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41293015
+    ],
+    "course_title": "社会福祉専門演習Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "辻　真美"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41293015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41303015
+    ],
+    "course_title": "社会福祉専門演習Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "遠山　真世"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41303015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41313015
+    ],
+    "course_title": "社会福祉専門演習Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "福間　隆康"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41313015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41323015
+    ],
+    "course_title": "社会福祉専門演習Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "井上　夏子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41323015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41333015
+    ],
+    "course_title": "社会福祉専門演習Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "清家　庸佑"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41333015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41343015
+    ],
+    "course_title": "社会福祉専門演習Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "田中　眞希"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41343015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41353015
+    ],
+    "course_title": "社会福祉専門演習Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "湯川　順子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41353015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41363015
+    ],
+    "course_title": "社会福祉専門演習Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "行貞　伸二"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41363015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41372015
+    ],
+    "course_title": "社会福祉専門演習Ⅲ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "田中　きよむ"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41372015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41382015
+    ],
+    "course_title": "社会福祉専門演習Ⅲ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "長澤　紀美子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41382015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41392015
+    ],
+    "course_title": "社会福祉専門演習Ⅲ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "西内　章"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41392015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41402015
+    ],
+    "course_title": "社会福祉専門演習Ⅲ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "西梅　幸治"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41402015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41412015
+    ],
+    "course_title": "社会福祉専門演習Ⅲ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "矢吹　知之"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41412015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41422015
+    ],
+    "course_title": "社会福祉専門演習Ⅲ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "加藤　由衣"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41422015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41432015
+    ],
+    "course_title": "社会福祉専門演習Ⅲ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "河内　康文"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41432015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41442015
+    ],
+    "course_title": "社会福祉専門演習Ⅲ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "田中　顕悟"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41442015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41452015
+    ],
+    "course_title": "社会福祉専門演習Ⅲ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "辻　真美"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41452015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41462015
+    ],
+    "course_title": "社会福祉専門演習Ⅲ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "遠山　真世"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41462015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41472015
+    ],
+    "course_title": "社会福祉専門演習Ⅲ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "福間　隆康"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41472015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41482015
+    ],
+    "course_title": "社会福祉専門演習Ⅲ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "井上　夏子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41482015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41492015
+    ],
+    "course_title": "社会福祉専門演習Ⅲ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "清家　庸佑"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41492015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41502015
+    ],
+    "course_title": "社会福祉専門演習Ⅲ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "田中　眞希"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41502015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41512015
+    ],
+    "course_title": "社会福祉専門演習Ⅲ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "湯川　順子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41512015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41522015
+    ],
+    "course_title": "社会福祉専門演習Ⅲ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "行貞　伸二"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41522015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41533015
+    ],
+    "course_title": "社会福祉専門演習Ⅳ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "田中　きよむ"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41533015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41543015
+    ],
+    "course_title": "社会福祉専門演習Ⅳ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "長澤　紀美子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41543015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41553015
+    ],
+    "course_title": "社会福祉専門演習Ⅳ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "西内　章"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41553015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41563015
+    ],
+    "course_title": "社会福祉専門演習Ⅳ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "西梅　幸治"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41563015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41573015
+    ],
+    "course_title": "社会福祉専門演習Ⅳ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "矢吹　知之"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41573015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41583015
+    ],
+    "course_title": "社会福祉専門演習Ⅳ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "加藤　由衣"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41583015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41593015
+    ],
+    "course_title": "社会福祉専門演習Ⅳ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "河内　康文"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41593015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41603015
+    ],
+    "course_title": "社会福祉専門演習Ⅳ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "田中　顕悟"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41603015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41613015
+    ],
+    "course_title": "社会福祉専門演習Ⅳ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "辻　真美"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41613015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41623015
+    ],
+    "course_title": "社会福祉専門演習Ⅳ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "遠山　真世"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41623015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41633015
+    ],
+    "course_title": "社会福祉専門演習Ⅳ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "福間　隆康"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41633015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41643015
+    ],
+    "course_title": "社会福祉専門演習Ⅳ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "井上　夏子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41643015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41653015
+    ],
+    "course_title": "社会福祉専門演習Ⅳ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "清家　庸佑"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41653015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41663015
+    ],
+    "course_title": "社会福祉専門演習Ⅳ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "田中　眞希"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41663015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41673015
+    ],
+    "course_title": "社会福祉専門演習Ⅳ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "湯川　順子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41673015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41683015
+    ],
+    "course_title": "社会福祉専門演習Ⅳ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "行貞　伸二"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41683015&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      41693015
+    ],
+    "course_title": "福祉行財政と福祉計画",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "後期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "田中　きよむ"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "社会福祉学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=41693015&kaikoNendo=2026&syllabusKomokuPatternId=1"
   }
 ]

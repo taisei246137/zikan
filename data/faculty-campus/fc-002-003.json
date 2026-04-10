@@ -1,50 +1,3814 @@
 [
   {
     "course_codes": [
-      52823,
-      52824,
-      52825
+      30015014
     ],
-    "course_title": "GLA 1182 Internship 1 (IA)",
-    "course_title_alt": "GLA 1282 Internship 2 (IA)",
+    "course_title": "医学の世界",
     "academic_year": 2026,
-    "term": "春＋夏",
-    "schedule": "",
-    "slots": [],
-    "instructors": [
-      "北野 知佳"
+    "term": "春セメスター",
+    "schedule": "月3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      }
     ],
-    "credits": 1,
-    "campus": "*/*",
-    "classroom": "施設なし/施設なし",
+    "instructors": [
+      "島本　亮"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
     "is_online": false,
     "faculties": [
-      "グローバル教養学部"
+      "看護学部"
     ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxurQAC/202652823"
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30015014&kaikoNendo=2026&syllabusKomokuPatternId=1"
   },
   {
     "course_codes": [
-      52826,
-      52827,
-      52828
+      30022014
     ],
-    "course_title": "GLA 1182 Internship 1 (IB)",
-    "course_title_alt": "GLA 1282 Internship 2 (IB)",
+    "course_title": "生化学",
     "academic_year": 2026,
-    "term": "秋＋冬",
-    "schedule": "",
-    "slots": [],
-    "instructors": [
-      "北野 知佳"
+    "term": "春セメスター",
+    "schedule": "木1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      }
     ],
-    "credits": 1,
-    "campus": "*/*",
-    "classroom": "施設なし/施設なし",
+    "instructors": [
+      "小林　淳"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
     "is_online": false,
     "faculties": [
-      "グローバル教養学部"
+      "看護学部"
     ],
-    "url": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxvpQAC/202652826"
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30022014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30032014
+    ],
+    "course_title": "栄養学",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "竹井　悠一郎"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30032014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30042014
+    ],
+    "course_title": "薬理学",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金2",
+    "slots": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "清水 孝洋",
+      "東　洋一郎"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30042014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30052014
+    ],
+    "course_title": "微生物学",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金1",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "小松 利広",
+      "森本　徳仁"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30052014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30062014
+    ],
+    "course_title": "人体の構造Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金4",
+    "slots": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "日高　千晴"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30062014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30076014
+    ],
+    "course_title": "人体の構造Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "日高　千晴"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30076014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30082014
+    ],
+    "course_title": "人体の機能Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "谷口 睦男"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30082014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30096014
+    ],
+    "course_title": "人体の機能Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火5",
+    "slots": [
+      {
+        "day": "火",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "谷口　睦男"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30096014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30103014
+    ],
+    "course_title": "人体のしくみの乱れⅠ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金3",
+    "slots": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "島本　亮"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30103014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30112014
+    ],
+    "course_title": "人体のしくみの乱れⅡ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金3",
+    "slots": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "島本　亮"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30112014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30123014
+    ],
+    "course_title": "心のしくみ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金5",
+    "slots": [
+      {
+        "day": "金",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "藤田 博一",
+      "戎 正司",
+      "數井 裕光",
+      "赤松 正規",
+      "森田 啓史",
+      "永野 志歩",
+      "澤田 健"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30123014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30133014
+    ],
+    "course_title": "診断学",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "島本　亮"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30133014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30142014
+    ],
+    "course_title": "治療学総論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月5",
+    "slots": [
+      {
+        "day": "月",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "島本　亮"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30142014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30153014
+    ],
+    "course_title": "病態と治療Ⅰ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月5",
+    "slots": [
+      {
+        "day": "月",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "山中　福子",
+      "内田　雅子",
+      "田中　雅美",
+      "上村　明咲",
+      "島本　亮"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30153014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30163014
+    ],
+    "course_title": "病態と治療Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "森本　紗磨美",
+      "島本　亮",
+      "高山　良子",
+      "森本　紗磨美",
+      "島本　亮",
+      "高山　良子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30163014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30173014
+    ],
+    "course_title": "病態と治療Ⅲ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金5",
+    "slots": [
+      {
+        "day": "金",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "山本 寄人",
+      "小松 淳子",
+      "川瀬 史愛",
+      "渡邊 理史"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30173014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30182014
+    ],
+    "course_title": "小児と疾患",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "浦田 奈生子",
+      "金澤 亜錦",
+      "佐々木 潔",
+      "西内 律雄",
+      "栗田　佳彦",
+      "藤原　かおり",
+      "浦田 奈生子",
+      "金澤 亜錦",
+      "佐々木 潔",
+      "西内 律雄",
+      "栗田　佳彦",
+      "藤原　かおり",
+      "浦田 奈生子",
+      "金澤 亜錦",
+      "佐々木 潔",
+      "西内 律雄",
+      "栗田　佳彦",
+      "藤原　かおり",
+      "浦田 奈生子",
+      "金澤 亜錦",
+      "佐々木 潔",
+      "西内 律雄",
+      "栗田　佳彦",
+      "藤原　かおり"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30182014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30197014
+    ],
+    "course_title": "公衆衛生学",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金1",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "立木　隆広"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30197014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30202014
+    ],
+    "course_title": "健康管理論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木2",
+    "slots": [
+      {
+        "day": "木",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "立木　隆広"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30202014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30213014
+    ],
+    "course_title": "保健統計学",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金1",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "小澤　若菜",
+      "立木　隆広",
+      "加藤　昭尚",
+      "小澤　若菜",
+      "立木　隆広",
+      "加藤　昭尚"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30213014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30223014
+    ],
+    "course_title": "疫学",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "立木　隆広",
+      "加藤　昭尚"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30223014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30234014
+    ],
+    "course_title": "地域保健政策",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "小林　秀行"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30234014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30246014
+    ],
+    "course_title": "生命の科学と倫理",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "嶋岡　暢希",
+      "岩崎　順子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30246014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30253014
+    ],
+    "course_title": "医療史",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "後期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "川原　由佳里"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30253014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30262014
+    ],
+    "course_title": "社会保障と看護",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "田中　きよむ"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30262014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30272014
+    ],
+    "course_title": "心理学と心理的支援",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "杉原　俊二",
+      "玉利　麻紀"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30272014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30281014
+    ],
+    "course_title": "行動科学",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "畦地　博子",
+      "熊田 孝恒",
+      "畦地　博子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30281014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30293014
+    ],
+    "course_title": "保健行動論",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "石川　麻衣",
+      "立木　隆広"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30293014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30307014
+    ],
+    "course_title": "人間工学",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金4",
+    "slots": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "立木　隆広"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30307014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30312014
+    ],
+    "course_title": "在宅医療",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "前期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "川上　理子",
+      "宮本 寛",
+      "松本　務"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30312014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30322014
+    ],
+    "course_title": "医療と経営",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "前期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "十萬 敬子",
+      "西岡 明人",
+      "田鍋 雅子",
+      "林　和俊"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30322014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30332014
+    ],
+    "course_title": "助産学",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水5",
+    "slots": [
+      {
+        "day": "水",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "渡邊 理史",
+      "小松　淳子",
+      "渡邊 理史",
+      "小松　淳子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30332014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30345014
+    ],
+    "course_title": "助産診断論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "塩田 さあや",
+      "上野　晃子",
+      "塩田 さあや",
+      "上野　晃子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30345014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30352014
+    ],
+    "course_title": "看護学総論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金3",
+    "slots": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "内田　雅子",
+      "畦地　博子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30352014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30364014
+    ],
+    "course_title": "人間と看護",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "大川　宣容",
+      "池添　志乃",
+      "竹崎　久美子",
+      "田井　雅子",
+      "高谷　恭子",
+      "石川　麻衣",
+      "畦地　博子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30364014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30375014
+    ],
+    "course_title": "健康と看護",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "久保田　聰美"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30375014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30387014
+    ],
+    "course_title": "環境と看護",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "小澤　若菜"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30387014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30392014
+    ],
+    "course_title": "看護研究方法論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "高谷　恭子",
+      "畦地　博子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30392014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30404014
+    ],
+    "course_title": "看護哲学と倫理",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "池添　志乃",
+      "畠山　卓也",
+      "池添　志乃",
+      "畠山　卓也"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30404014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30414014
+    ],
+    "course_title": "生活と看護",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "石川　麻衣",
+      "源田　美香"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30414014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30421014
+    ],
+    "course_title": "生活援助論",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "月4",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "瓜生　浩子",
+      "山中　福子",
+      "塩見　理香",
+      "竹中　英利子",
+      "源田　美香",
+      "加藤　昭尚",
+      "高山　良子",
+      "瓜生　浩子",
+      "山中　福子",
+      "塩見　理香",
+      "竹中　英利子",
+      "源田　美香",
+      "加藤　昭尚",
+      "高山　良子",
+      "瓜生　浩子",
+      "山中　福子",
+      "塩見　理香",
+      "竹中　英利子",
+      "源田　美香",
+      "加藤　昭尚",
+      "高山　良子",
+      "瓜生　浩子",
+      "山中　福子",
+      "塩見　理香",
+      "竹中　英利子",
+      "源田　美香",
+      "加藤　昭尚",
+      "高山　良子",
+      "瓜生　浩子",
+      "山中　福子",
+      "塩見　理香",
+      "竹中　英利子",
+      "源田　美香",
+      "加藤　昭尚",
+      "高山　良子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30421014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30432014
+    ],
+    "course_title": "看護過程論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "瓜生　浩子",
+      "田之頭　恵里",
+      "宮地　佐和子",
+      "依岡　美里"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30432014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30443014
+    ],
+    "course_title": "援助関係論",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "池内　香",
+      "畠山　卓也",
+      "依岡　美里"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30443014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30453014
+    ],
+    "course_title": "フィジカルアセスメント",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月4",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "瓜生　浩子",
+      "源田　美香",
+      "加藤　昭尚",
+      "宮地　佐和子",
+      "依岡　美里",
+      "瓜生　浩子",
+      "源田　美香",
+      "加藤　昭尚",
+      "宮地　佐和子",
+      "依岡　美里"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30453014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30462014
+    ],
+    "course_title": "治療援助論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木3",
+    "slots": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "大川　宣容",
+      "内田　雅子",
+      "田中　雅美",
+      "森本　紗磨美",
+      "上村　明咲",
+      "高山　良子",
+      "大川　宣容",
+      "内田　雅子",
+      "田中　雅美",
+      "森本　紗磨美",
+      "上村　明咲",
+      "高山　良子",
+      "大川　宣容",
+      "内田　雅子",
+      "田中　雅美",
+      "森本　紗磨美",
+      "上村　明咲",
+      "高山　良子",
+      "大川　宣容",
+      "内田　雅子",
+      "田中　雅美",
+      "森本　紗磨美",
+      "上村　明咲",
+      "高山　良子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30462014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30474014
+    ],
+    "course_title": "症状と看護",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "山中　福子",
+      "高山　良子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30474014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30482014
+    ],
+    "course_title": "看護援助の動向と課題",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "瓜生　浩子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30482014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30493014
+    ],
+    "course_title": "ふれあい看護実習",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "後期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "竹崎　久美子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30493014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30502014
+    ],
+    "course_title": "看護基盤実習",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "前期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "瓜生　浩子",
+      "源田　美香"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30502014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30513014
+    ],
+    "course_title": "看護実践能力開発実習Ⅰ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "後期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "森本　紗磨美",
+      "高山　良子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30513014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30522014
+    ],
+    "course_title": "看護システム論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "久保田　聰美"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30522014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30534014
+    ],
+    "course_title": "看護サービス論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金3",
+    "slots": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "久保田　聰美",
+      "池田　恵美子",
+      "久保田　聰美",
+      "池田　恵美子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30534014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30544014
+    ],
+    "course_title": "看護教育論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "内田　雅子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30544014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30552014
+    ],
+    "course_title": "看護管理の動向と課題",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "久保田　聰美"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30552014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30563014
+    ],
+    "course_title": "チーム医療実習",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "後期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "木下　真里",
+      "加藤　昭尚"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30563014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30572014
+    ],
+    "course_title": "看護管理実習",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "前期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "久保田　聰美"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30572014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30583014
+    ],
+    "course_title": "急性期看護論",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "大川　宣容",
+      "森本　紗磨美",
+      "大川　宣容",
+      "森本　紗磨美"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30583014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30594014
+    ],
+    "course_title": "急性期看護援助論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "森本　紗磨美",
+      "神家　ひとみ",
+      "村川　由加理"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30594014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30606014
+    ],
+    "course_title": "回復期看護援助論",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "村川　由加理"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30606014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30612014
+    ],
+    "course_title": "急性期看護の動向と課題",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "大川　宣容"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30612014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30623014
+    ],
+    "course_title": "急性期看護実習",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "後期前半: 集中講義",
+    "slots": [],
+    "instructors": [
+      "村川　由加理"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30623014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30633014
+    ],
+    "course_title": "慢性期看護論",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "山中　福子",
+      "内田　雅子",
+      "田中　雅美",
+      "上村　明咲",
+      "山中　福子",
+      "内田　雅子",
+      "田中　雅美",
+      "上村　明咲"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30633014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30644014
+    ],
+    "course_title": "慢性期看護援助論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "山中　福子",
+      "田中　雅美",
+      "上村　明咲"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30644014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30657014
+    ],
+    "course_title": "終末期看護援助論",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "青木　早苗",
+      "高山　良子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30657014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30662014
+    ],
+    "course_title": "慢性期看護の動向と課題",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "内田　雅子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30662014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30673014
+    ],
+    "course_title": "慢性期看護実習",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "後期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "山中　福子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30673014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30684014
+    ],
+    "course_title": "老人看護学総論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "竹崎　久美子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30684014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30695014
+    ],
+    "course_title": "老人の健康と看護",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "竹崎　久美子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30695014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30703014
+    ],
+    "course_title": "老人看護援助論",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "竹崎　久美子",
+      "塩見　理香",
+      "竹崎　久美子",
+      "塩見　理香"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30703014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30712014
+    ],
+    "course_title": "老人看護の動向と課題",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "竹崎　久美子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30712014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30724014
+    ],
+    "course_title": "精神看護学総論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "田井　雅子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30724014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30736014
+    ],
+    "course_title": "精神の健康と看護",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "田井　雅子",
+      "畠山　卓也"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30736014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30742014
+    ],
+    "course_title": "精神看護援助論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木3",
+    "slots": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "池内　香",
+      "畠山　卓也",
+      "小松原　大典",
+      "池内　香",
+      "畠山　卓也",
+      "小松原　大典"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30742014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30752014
+    ],
+    "course_title": "精神看護の動向と課題",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "田井　雅子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30752014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30763014
+    ],
+    "course_title": "精神看護実習",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "後期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "畠山　卓也"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30763014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30775014
+    ],
+    "course_title": "小児看護学総論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "高谷　恭子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30775014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30786014
+    ],
+    "course_title": "小児の健康と看護",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "有田　直子",
+      "田之頭　恵里"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30786014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30792014
+    ],
+    "course_title": "小児看護援助論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "有田　直子",
+      "田之頭　恵里",
+      "佃　勇輝",
+      "有田　直子",
+      "田之頭　恵里",
+      "佃　勇輝"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30792014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30802014
+    ],
+    "course_title": "小児看護の動向と課題",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "高谷　恭子",
+      "田之頭　恵里"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30802014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30813014
+    ],
+    "course_title": "小児看護実習",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "後期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "有田　直子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30813014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30825014
+    ],
+    "course_title": "母性看護学総論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月4",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "嶋岡　暢希",
+      "岩崎　順子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30825014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30837014
+    ],
+    "course_title": "母性の健康と看護",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "岩崎　順子",
+      "前田　愛友香",
+      "飯田　悠花"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30837014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30842014
+    ],
+    "course_title": "母性看護援助論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木3",
+    "slots": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "岩崎　順子",
+      "德岡　麻由",
+      "前田　愛友香",
+      "飯田　悠花",
+      "青木　良枝",
+      "岩崎　順子",
+      "德岡　麻由",
+      "前田　愛友香",
+      "飯田　悠花",
+      "青木　良枝"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30842014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30852014
+    ],
+    "course_title": "母性看護の動向と課題",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "岩崎　順子",
+      "青木　良枝"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30852014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30863014
+    ],
+    "course_title": "母性看護実習",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "後期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "岩崎　順子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30863014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30873014
+    ],
+    "course_title": "助産看護学総論",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "後期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "嶋岡　暢希"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30873014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30883014
+    ],
+    "course_title": "助産看護診断論",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "後期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "嶋岡　暢希",
+      "德岡　麻由",
+      "前田　愛友香"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30883014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30893014
+    ],
+    "course_title": "助産技術論Ⅰ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "後期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "嶋岡　暢希",
+      "德岡　麻由",
+      "前田　愛友香"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30893014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30904014
+    ],
+    "course_title": "助産技術論Ⅱ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "嶋岡　暢希",
+      "德岡　麻由",
+      "飯田　悠花",
+      "嶋岡　暢希",
+      "德岡　麻由",
+      "飯田　悠花"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30904014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30914014
+    ],
+    "course_title": "助産看護援助論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "嶋岡　暢希",
+      "岩崎　順子",
+      "德岡　麻由",
+      "前田　愛友香",
+      "飯田　悠花",
+      "嶋岡　暢希",
+      "岩崎　順子",
+      "德岡　麻由",
+      "前田　愛友香",
+      "飯田　悠花"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30914014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30924014
+    ],
+    "course_title": "助産看護管理論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "嶋岡　暢希"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30924014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30932014
+    ],
+    "course_title": "助産看護の動向と課題",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "嶋岡　暢希",
+      "德岡　麻由",
+      "前田　愛友香"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30932014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30942014
+    ],
+    "course_title": "助産看護実習Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "前期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "嶋岡　暢希",
+      "岩崎　順子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30942014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30952014
+    ],
+    "course_title": "助産看護実習Ⅱ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "前期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "嶋岡　暢希"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30952014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30964014
+    ],
+    "course_title": "在宅看護学総論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "川上　理子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30964014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30974014
+    ],
+    "course_title": "在宅看護対象論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金3",
+    "slots": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "中井　寿雄"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30974014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30984014
+    ],
+    "course_title": "在宅看護援助論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金1",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "川上　理子",
+      "竹中　英利子",
+      "井上　加奈子",
+      "川上　理子",
+      "竹中　英利子",
+      "井上　加奈子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30984014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      30994014
+    ],
+    "course_title": "在宅看護リエゾン論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "川上　理子",
+      "井上　加奈子",
+      "川上　理子",
+      "井上　加奈子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=30994014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31002014
+    ],
+    "course_title": "在宅看護の動向と課題",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "川上　理子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31002014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31011014
+    ],
+    "course_title": "在宅看護実習",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "通年: 集中講義",
+    "slots": [],
+    "instructors": [
+      "川上　理子",
+      "中井　寿雄"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31011014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31023014
+    ],
+    "course_title": "地域看護学総論",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "石川　麻衣",
+      "岩井　由里",
+      "小味　慶子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31023014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31032014
+    ],
+    "course_title": "地域の健康と看護",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "小澤　若菜",
+      "石川　麻衣",
+      "岩井　由里",
+      "小味　慶子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31032014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31042014
+    ],
+    "course_title": "地域看護援助論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "小澤　若菜",
+      "岩井　由里",
+      "小味　慶子",
+      "小澤　若菜",
+      "岩井　由里",
+      "小味　慶子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31042014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31052014
+    ],
+    "course_title": "地域看護の動向と課題",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "小澤　若菜",
+      "石川　麻衣"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31052014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31063014
+    ],
+    "course_title": "地域看護実習",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "後期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "小澤　若菜"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31063014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31072014
+    ],
+    "course_title": "学校保健",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月5",
+    "slots": [
+      {
+        "day": "月",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "池添　志乃",
+      "岩井　由里"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31072014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31083014
+    ],
+    "course_title": "養護概説",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木3",
+    "slots": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "池添　志乃",
+      "岩井　由里"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31083014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31091014
+    ],
+    "course_title": "看護研究",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "通年: 集中講義",
+    "slots": [],
+    "instructors": [
+      "畦地　博子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31091014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31251014
+    ],
+    "course_title": "看護と政策",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "通年: 集中講義",
+    "slots": [],
+    "instructors": [
+      "嶋岡　暢希",
+      "川上　理子",
+      "竹崎　久美子",
+      "田井　雅子",
+      "高谷　恭子",
+      "石川　麻衣",
+      "内田　雅子",
+      "青木　早苗",
+      "北浦 暁子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31251014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31265014
+    ],
+    "course_title": "がん看護論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "青木　早苗",
+      "高山　良子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31265014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31312014
+    ],
+    "course_title": "総合看護実習Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "前期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "大川　宣容"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31312014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31342014
+    ],
+    "course_title": "総合看護実習Ⅱ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "前期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "石川　麻衣",
+      "立木　隆広"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31342014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31352014
+    ],
+    "course_title": "家族看護実習",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "前期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "瓜生　浩子",
+      "源田　美香"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31352014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31361014
+    ],
+    "course_title": "看護実践能力開発実習Ⅱ",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "通年: 集中講義",
+    "slots": [],
+    "instructors": [
+      "青木　早苗",
+      "高山　良子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31361014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31373014
+    ],
+    "course_title": "バイオロジカルナーシング",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火5",
+    "slots": [
+      {
+        "day": "火",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "森本　紗磨美",
+      "村川　由加理"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31373014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31384014
+    ],
+    "course_title": "治療と看護",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "内田　雅子",
+      "村川　由加理"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31384014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31394014
+    ],
+    "course_title": "情報と看護",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "小林　秀行"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31394014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31407014
+    ],
+    "course_title": "災害と看護",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "竹崎　久美子",
+      "石川　麻衣",
+      "木下　真里",
+      "村川　由加理"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31407014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31414014
+    ],
+    "course_title": "災害看護実践論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "木下　真里",
+      "中井　寿雄"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31414014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31426014
+    ],
+    "course_title": "グローバル社会と看護Ⅰ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "木下　真里"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31426014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31434014
+    ],
+    "course_title": "グローバル社会と看護Ⅱ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "木下　真里"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31434014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31441014
+    ],
+    "course_title": "異文化理解看護フィールドワーク",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "金4",
+    "slots": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "川上　理子",
+      "川上　理子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31441014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31451014
+    ],
+    "course_title": "看護地域フィールドワーク",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "通年: 集中講義",
+    "slots": [],
+    "instructors": [
+      "木下　真里",
+      "中井　寿雄"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31451014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31462014
+    ],
+    "course_title": "看護学の動向と課題",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "前期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "大川　宣容"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31462014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31474014
+    ],
+    "course_title": "看護セミナーⅠ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "畦地　博子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31474014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31484014
+    ],
+    "course_title": "看護セミナーⅡ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "木下　真里"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31484014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31494014
+    ],
+    "course_title": "看護セミナーⅢ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "小林　秀行"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31494014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31504014
+    ],
+    "course_title": "看護セミナーⅣ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "高谷　恭子",
+      "田之頭　恵里"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31504014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31515014
+    ],
+    "course_title": "看護セミナーⅤ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "中井　寿雄"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31515014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31525014
+    ],
+    "course_title": "臨床看護論Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "中井　寿雄"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31525014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31535014
+    ],
+    "course_title": "臨床看護論Ⅱ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "源田　美香"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31535014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31544014
+    ],
+    "course_title": "臨床看護論Ⅲ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "有田　直子",
+      "田之頭　恵里"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31544014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31554014
+    ],
+    "course_title": "臨床看護論Ⅳ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金2",
+    "slots": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "山中　福子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31554014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31565014
+    ],
+    "course_title": "臨床看護論Ⅴ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金2",
+    "slots": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "島本　亮"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31565014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31575014
+    ],
+    "course_title": "臨床看護論Ⅵ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金2",
+    "slots": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "田中　雅美",
+      "畠山　卓也"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31575014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31581014
+    ],
+    "course_title": "看護実践論Ⅰ",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "通年: 集中講義",
+    "slots": [],
+    "instructors": [
+      "岩崎　順子",
+      "有田　直子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31581014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31591014
+    ],
+    "course_title": "看護実践論Ⅱ",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "通年: 集中講義",
+    "slots": [],
+    "instructors": [
+      "山中　福子",
+      "村川　由加理"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31591014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31601014
+    ],
+    "course_title": "看護実践論Ⅲ",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "通年: 集中講義",
+    "slots": [],
+    "instructors": [
+      "小澤　若菜",
+      "中井　寿雄"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31601014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31611014
+    ],
+    "course_title": "看護実践論Ⅳ",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "通年: 集中講義",
+    "slots": [],
+    "instructors": [
+      "畠山　卓也",
+      "高山　良子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31611014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31623014
+    ],
+    "course_title": "医学と看護の統合",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "後期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "島本　亮"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31623014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31632014
+    ],
+    "course_title": "最新実践看護講座Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "前期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "田之頭　恵里"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31632014&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      31642014
+    ],
+    "course_title": "最新実践看護講座Ⅱ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "前期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "村川　由加理"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "看護学部"
+    ],
+    "url": "https://uok-cp.u-kochi.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=31642014&kaikoNendo=2026&syllabusKomokuPatternId=1"
   }
 ]

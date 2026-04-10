@@ -9,6 +9,7 @@ import {
   ScrollView,
   StyleSheet,
   Text,
+  TextInput,
   useWindowDimensions,
   View,
 } from 'react-native';
@@ -80,6 +81,102 @@ const jpToDay: Record<string, DayKey> = {
   金: 'Fri',
   土: 'Sat',
   日: 'Sun',
+};
+
+const normalizeTermLabel = (value?: string | null): TermOption | '通年' | string => {
+  if (typeof value !== 'string') {
+    return '';
+  }
+  const trimmed = value.trim();
+  if (!trimmed) {
+    return '';
+  }
+  if (trimmed === '前期' || trimmed === '春学期' || trimmed === '春') {
+    return '春セメスター';
+  }
+  if (trimmed === '後期' || trimmed === '秋学期' || trimmed === '秋') {
+    return '秋セメスター';
+  }
+  if (trimmed.includes('前期')) {
+    return '春セメスター';
+  }
+  if (trimmed.includes('後期')) {
+    return '秋セメスター';
+  }
+  if (trimmed === '通年') {
+    return '通年';
+  }
+  return trimmed;
+};
+
+const normalizeSlotDay = (value: unknown): string | null => {
+  if (typeof value !== 'string') {
+    return null;
+  }
+  const trimmed = value.trim();
+  if (!trimmed) {
+    return null;
+  }
+  const noWeekday = trimmed.replace(/曜日|曜/g, '');
+  const dayChar = noWeekday.charAt(0);
+  if (dayToJp.Mon === dayChar || dayToJp.Tue === dayChar || dayToJp.Wed === dayChar) {
+    return dayChar;
+  }
+  if (dayToJp.Thu === dayChar || dayToJp.Fri === dayChar || dayToJp.Sat === dayChar) {
+    return dayChar;
+  }
+  if (dayToJp.Sun === dayChar) {
+    return dayChar;
+  }
+  const englishMap: Record<string, string> = {
+    Mon: '月',
+    Tue: '火',
+    Wed: '水',
+    Thu: '木',
+    Fri: '金',
+    Sat: '土',
+    Sun: '日',
+  };
+  return englishMap[trimmed] ?? noWeekday;
+};
+
+const normalizeSlotPeriod = (value: unknown): number | null => {
+  if (typeof value === 'number' && Number.isFinite(value)) {
+    return value;
+  }
+  if (typeof value !== 'string') {
+    return null;
+  }
+  const normalized = value.replace(/[０-９]/g, (char) =>
+    String.fromCharCode(char.charCodeAt(0) - 0xfee0)
+  );
+  const match = normalized.match(/\d+/);
+  if (!match) {
+    return null;
+  }
+  const parsed = Number(match[0]);
+  return Number.isFinite(parsed) ? parsed : null;
+};
+
+const extractScheduleSlot = (value?: string | null): CourseSlot | null => {
+  if (typeof value !== 'string') {
+    return null;
+  }
+  const trimmed = value.trim();
+  if (!trimmed) {
+    return null;
+  }
+  const dayMatch = trimmed.match(/(月|火|水|木|金|土|日)/);
+  const periodMatch = trimmed.match(/[0-9０-９]+/);
+  if (!dayMatch || !periodMatch) {
+    return null;
+  }
+  const day = normalizeSlotDay(dayMatch[1]);
+  const period = normalizeSlotPeriod(periodMatch[0]);
+  if (!day || !period) {
+    return null;
+  }
+  return { day, period };
 };
 
 const defaultSettings: Settings = {
@@ -225,6 +322,8 @@ export default function HomeScreen() {
   const [campusOptions] = useState<string[]>(() => [...campusList]);
   const [colorMap, setColorMap] = useState<Record<string, string>>({});
   const [selectedColor, setSelectedColor] = useState(pastelColors[0].value);
+  const [classroomDraft, setClassroomDraft] = useState('');
+  const [creditsDraft, setCreditsDraft] = useState('');
   const [tableKey, setTableKey] = useState(() =>
     makeTableKey(defaultSettings.term, defaultSettings.academicYear)
   );
@@ -239,14 +338,30 @@ export default function HomeScreen() {
         const nextSettings = storedSettings
           ? { ...defaultSettings, ...storedSettings }
           : defaultSettings;
-        setSettings(nextSettings);
+        const normalizedSettings: Settings = {
+          ...nextSettings,
+          faculty: facultyList.includes(nextSettings.faculty)
+            ? nextSettings.faculty
+            : defaultSettings.faculty,
+          campus: campusList.includes(nextSettings.campus)
+            ? nextSettings.campus
+            : defaultSettings.campus,
+          term:
+            nextSettings.term === '春セメスター' || nextSettings.term === '秋セメスター'
+              ? nextSettings.term
+              : defaultSettings.term,
+          maxPeriod: periodKeysAll.includes(nextSettings.maxPeriod)
+            ? nextSettings.maxPeriod
+            : defaultSettings.maxPeriod,
+        };
+        setSettings(normalizedSettings);
         const nextTableKey = makeTableKey(
-          nextSettings.term,
-          nextSettings.academicYear
+          normalizedSettings.term,
+          normalizedSettings.academicYear
         );
         const nextColorsKey = makeColorKey(
-          nextSettings.term,
-          nextSettings.academicYear
+          normalizedSettings.term,
+          normalizedSettings.academicYear
         );
         setTableKey(nextTableKey);
         setColorsStorageKey(nextColorsKey);
@@ -401,6 +516,20 @@ export default function HomeScreen() {
     return table[openCell.day][openCell.period];
   }, [openCell, table]);
 
+  useEffect(() => {
+    if (!openCell) {
+      setClassroomDraft('');
+      setCreditsDraft('');
+      return;
+    }
+    setClassroomDraft(selectedCourse?.classroom ?? '');
+    setCreditsDraft(
+      selectedCourse && Number.isFinite(selectedCourse.credits)
+        ? String(selectedCourse.credits)
+        : ''
+    );
+  }, [openCell, selectedCourse]);
+
   const handleSelectCourse = (course: Course) => {
     if (!openCell) {
       return;
@@ -416,7 +545,57 @@ export default function HomeScreen() {
       ...prev,
       [course.url]: selectedColor,
     }));
+    setClassroomDraft(course.classroom ?? '');
+    setCreditsDraft(Number.isFinite(course.credits) ? String(course.credits) : '');
     setOpenCell(null);
+  };
+
+  const handleClassroomChange = (value: string) => {
+    setClassroomDraft(value);
+    if (!openCell) {
+      return;
+    }
+    setTable((prev) => {
+      const current = prev[openCell.day][openCell.period];
+      if (!current) {
+        return prev;
+      }
+      return {
+        ...prev,
+        [openCell.day]: {
+          ...prev[openCell.day],
+          [openCell.period]: {
+            ...current,
+            classroom: value,
+          },
+        },
+      };
+    });
+  };
+
+  const handleCreditsChange = (value: string) => {
+    setCreditsDraft(value);
+    if (!openCell) {
+      return;
+    }
+    const parsed = Number(value);
+    const nextCredits = Number.isFinite(parsed) ? parsed : 0;
+    setTable((prev) => {
+      const current = prev[openCell.day][openCell.period];
+      if (!current) {
+        return prev;
+      }
+      return {
+        ...prev,
+        [openCell.day]: {
+          ...prev[openCell.day],
+          [openCell.period]: {
+            ...current,
+            credits: nextCredits,
+          },
+        },
+      };
+    });
   };
 
   const handleClearCell = () => {
@@ -442,13 +621,20 @@ export default function HomeScreen() {
   };
 
   const formatSchedule = (course: Course) => {
-    const slot = course.slots.find((item) => item.day && item.period);
-    if (!slot) {
+    const slots = Array.isArray(course.slots) ? course.slots : [];
+    const slot = slots.find((item) => item.day && item.period);
+    const scheduleFallback = extractScheduleSlot(course.schedule);
+    const slotDay = normalizeSlotDay(slot?.day) ?? scheduleFallback?.day ?? null;
+    const slotPeriod =
+      normalizeSlotPeriod(slot?.period) ??
+      normalizeSlotPeriod(scheduleFallback?.period) ??
+      null;
+    if (!slotDay || !slotPeriod) {
       return course.schedule || 'Flexible';
     }
-    const day = jpToDay[slot.day] ?? slot.day;
+    const day = jpToDay[slotDay] ?? slotDay;
     const dayLabel = typeof day === 'string' ? day : '';
-    return `${dayLabel} P${slot.period}`;
+    return `${dayLabel} P${slotPeriod}`;
   };
 
   const openSyllabus = () => {
@@ -510,6 +696,7 @@ export default function HomeScreen() {
   const filteredCourses = useMemo(() => {
     const slotDay = openCell ? dayToJp[openCell.day] : null;
     return courses.filter((course) => {
+      const normalizedTerm = normalizeTermLabel(course.term);
       const matchesFaculty =
         settings.faculty === '全学部' || course.faculties.includes(settings.faculty);
       const campusValue = course.campus ?? '';
@@ -523,11 +710,24 @@ export default function HomeScreen() {
         hasCampusMatch ||
         campusValue === '*';
       const matchesYear = course.academic_year === settings.academicYear;
-      const matchesTerm = course.term === settings.term;
+      const matchesTerm =
+        normalizedTerm === settings.term || normalizedTerm === '通年';
       const matchesSlot = openCell
-        ? course.slots.some(
-            (slot) => slot.day === slotDay && slot.period === openCell.period
-          )
+        ? (() => {
+            const slots = Array.isArray(course.slots) ? course.slots : [];
+            if (slots.length === 0 && course.schedule) {
+              const fallbackSlot = extractScheduleSlot(course.schedule);
+              return (
+                fallbackSlot?.day === slotDay &&
+                fallbackSlot?.period === openCell.period
+              );
+            }
+            return slots.some((slot) => {
+              const day = normalizeSlotDay(slot.day);
+              const period = normalizeSlotPeriod(slot.period);
+              return day === slotDay && period === openCell.period;
+            });
+          })()
         : true;
       return matchesFaculty && matchesCampus && matchesYear && matchesTerm && matchesSlot;
     });
@@ -686,7 +886,7 @@ export default function HomeScreen() {
                       >
                         <Text
                           style={[styles.courseTitle, isCompact ? styles.courseTitleCompact : null]}
-                          numberOfLines={2}
+                          numberOfLines={3}
                         >
                           {course ? course.course_title : ''}
                         </Text>
@@ -765,6 +965,38 @@ export default function HomeScreen() {
             </View>
 
             {selectedCourse ? (
+              <View style={styles.classroomInputCard}>
+                <Text style={styles.classroomInputLabel}>教室</Text>
+                <TextInput
+                  style={styles.classroomInput}
+                  placeholder="教室を入力"
+                  placeholderTextColor="#94A3B8"
+                  value={classroomDraft}
+                  onChangeText={handleClassroomChange}
+                  autoCorrect={false}
+                  autoCapitalize="none"
+                  returnKeyType="done"
+                />
+              </View>
+            ) : null}
+
+            {selectedCourse ? (
+              <View style={styles.classroomInputCard}>
+                <Text style={styles.classroomInputLabel}>単位数</Text>
+                <TextInput
+                  style={styles.classroomInput}
+                  placeholder="単位数を入力"
+                  placeholderTextColor="#94A3B8"
+                  value={creditsDraft}
+                  onChangeText={handleCreditsChange}
+                  keyboardType="numeric"
+                  autoCorrect={false}
+                  returnKeyType="done"
+                />
+              </View>
+            ) : null}
+
+            {selectedCourse ? (
               <View style={styles.selectedActions}>
                 <Pressable
                   style={styles.inlineSyllabus}
@@ -816,7 +1048,7 @@ export default function HomeScreen() {
                     </View>
                     <Text style={styles.courseCardMeta}>{formatInstructors(course)}</Text>
                     <Text style={styles.courseCardMeta}>
-                      {course.term} · {formatSchedule(course)}
+                      {normalizeTermLabel(course.term)} · {formatSchedule(course)}
                     </Text>
                     <View style={styles.chipRow}>
                       <View style={styles.chip}>
@@ -1236,7 +1468,7 @@ const styles = StyleSheet.create({
   },
   classroomText: {
     fontWeight: '700',
-    color: '#1F293B',
+    color: '#64748B',
   },
   courseMetaHint: {
     color: '#94A3B8',
@@ -1361,6 +1593,28 @@ const styles = StyleSheet.create({
   },
   colorChipActive: {
     borderColor: '#0F172A',
+  },
+  classroomInputCard: {
+    backgroundColor: '#F8FAFC',
+    borderRadius: 14,
+    padding: 10,
+    marginBottom: 10,
+  },
+  classroomInputLabel: {
+    fontSize: 11,
+    fontWeight: '700',
+    color: '#64748B',
+    marginBottom: 6,
+  },
+  classroomInput: {
+    borderWidth: 1,
+    borderColor: '#E2E8F0',
+    borderRadius: 12,
+    paddingHorizontal: 12,
+    paddingVertical: 8,
+    fontSize: 13,
+    color: '#0F172A',
+    backgroundColor: '#FFFFFF',
   },
   inlineSyllabus: {
     borderRadius: 12,

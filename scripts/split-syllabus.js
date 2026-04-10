@@ -11,16 +11,144 @@ const ALL_FACULTY = '全学部';
 const ALL_CAMPUS = '全キャンパス';
 
 const raw = fs.readFileSync(sourcePath, 'utf8');
-const data = JSON.parse(raw);
+const rawData = JSON.parse(raw);
+const baseList = Array.isArray(rawData)
+  ? rawData
+  : Array.isArray(rawData?.selectKogiDtoList)
+    ? rawData.selectKogiDtoList
+    : null;
 
-if (!Array.isArray(data)) {
-  throw new Error('syllabus.json must be an array.');
+if (!baseList) {
+  throw new Error('syllabus.json must be an array or include selectKogiDtoList.');
 }
 
 fs.mkdirSync(outputDir, { recursive: true });
 
 const facultySet = new Set();
 const campusSet = new Set();
+
+const normalizeTerm = (value) => {
+  if (typeof value !== 'string') {
+    return '';
+  }
+  const trimmed = value.trim();
+  if (!trimmed) {
+    return '';
+  }
+  if (trimmed.includes('前期')) {
+    return '春セメスター';
+  }
+  if (trimmed.includes('後期')) {
+    return '秋セメスター';
+  }
+  if (trimmed.includes('通年')) {
+    return '通年';
+  }
+  return trimmed;
+};
+
+const normalizeDay = (value) => {
+  if (typeof value !== 'string') {
+    return null;
+  }
+  const trimmed = value.trim();
+  if (!trimmed) {
+    return null;
+  }
+  const noWeekday = trimmed.replace(/曜日|曜/g, '');
+  const dayChar = noWeekday.charAt(0);
+  if ('月火水木金土日'.includes(dayChar)) {
+    return dayChar;
+  }
+  return null;
+};
+
+const normalizePeriod = (value) => {
+  if (typeof value === 'number' && Number.isFinite(value)) {
+    return value;
+  }
+  if (typeof value !== 'string') {
+    return null;
+  }
+  const normalized = value.replace(/[０-９]/g, (char) =>
+    String.fromCharCode(char.charCodeAt(0) - 0xfee0)
+  );
+  const match = normalized.match(/\d+/);
+  if (!match) {
+    return null;
+  }
+  const parsed = Number(match[0]);
+  return Number.isFinite(parsed) ? parsed : null;
+};
+
+const parseSchedule = (entry) => {
+  const day = normalizeDay(entry.yobi) ?? normalizeDay(entry.daihyoYobiNm);
+  const period = normalizePeriod(entry.jigen) ?? normalizePeriod(entry.daihyoJigenNm);
+  if (day && period) {
+    return { day, period, schedule: `${day}${period}` };
+  }
+  const jikanwari = typeof entry.jikanwari === 'string' ? entry.jikanwari : '';
+  const dayMatch = jikanwari.match(/(月|火|水|木|金|土|日)/);
+  const periodMatch = jikanwari.match(/[0-9０-９]+/);
+  if (dayMatch && periodMatch) {
+    const fallbackDay = dayMatch[1];
+    const fallbackPeriod = normalizePeriod(periodMatch[0]);
+    if (fallbackDay && fallbackPeriod) {
+      return { day: fallbackDay, period: fallbackPeriod, schedule: `${fallbackDay}${fallbackPeriod}` };
+    }
+  }
+  return { day: null, period: null, schedule: jikanwari };
+};
+
+const extractFaculty = (value) => {
+  if (typeof value !== 'string') {
+    return null;
+  }
+  const trimmed = value.trim();
+  if (!trimmed) {
+    return null;
+  }
+  const match = trimmed.match(/.+?学部/);
+  if (match) {
+    return match[0];
+  }
+  const fallback = trimmed.match(/.+?(研究科|学群|学域|学科)/);
+  return fallback ? fallback[0] : trimmed;
+};
+
+const splitInstructors = (value) => {
+  if (typeof value !== 'string') {
+    return [];
+  }
+  return value
+    .split(/[、,／/]/)
+    .map((name) => name.trim())
+    .filter(Boolean);
+};
+
+const toCourse = (entry) => {
+  const courseCode = Number(entry.kogiCd);
+  const { day, period, schedule } = parseSchedule(entry);
+  const faculty = extractFaculty(entry.sekininBushoNm);
+  const instructors = splitInstructors(entry.tantoKyoin || entry.daihyoKyoinNm);
+  return {
+    course_codes: Number.isFinite(courseCode) ? [courseCode] : [],
+    course_title: entry.kogiNm || entry.gakusokuKamokuNm || '未設定',
+    academic_year: Number(entry.kaikoNendo) || 0,
+    term: normalizeTerm(entry.kogiKaikojikiNm),
+    schedule: schedule || '',
+    slots: day && period ? [{ day, period }] : [],
+    instructors: instructors.length > 0 ? instructors : ['未設定'],
+    credits: 0,
+    campus: typeof entry.kochiNm === 'string' ? entry.kochiNm.trim() : '',
+    classroom: entry.kBasho || entry.kBiko1 || '未設定',
+    is_online: false,
+    faculties: faculty ? [faculty] : [],
+    url: entry.syllabusUrl || '',
+  };
+};
+
+const data = baseList.map(toCourse);
 
 const normalizeCampus = (value) => {
   if (typeof value !== 'string') {
