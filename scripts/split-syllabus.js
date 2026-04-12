@@ -9,6 +9,12 @@ const indexPath = path.join(rootDir, 'data', 'faculty-campus-index.json');
 
 const ALL_FACULTY = '全学部';
 const ALL_CAMPUS = '全キャンパス';
+const REQUIRED_FACULTIES = ['文学部', '看護学部', '健康栄養学部', '社会福祉学部'];
+const REQUIRED_CAMPUSES = ['池キャンパス', '永国寺キャンパス'];
+const CAMPUS_ALIAS_GROUPS = [
+  ['朝倉キャンパス', '永国寺キャンパス'],
+  ['岡豊キャンパス', '池キャンパス'],
+];
 
 const raw = fs.readFileSync(sourcePath, 'utf8');
 const rawData = JSON.parse(raw);
@@ -24,6 +30,12 @@ if (!baseList) {
 
 fs.mkdirSync(outputDir, { recursive: true });
 
+for (const entry of fs.readdirSync(outputDir)) {
+  if (/^fc-\d{3}-\d{3}\.json$/.test(entry)) {
+    fs.unlinkSync(path.join(outputDir, entry));
+  }
+}
+
 const facultySet = new Set();
 const campusSet = new Set();
 
@@ -38,7 +50,13 @@ const normalizeTerm = (value) => {
   if (trimmed.includes('前期')) {
     return '春セメスター';
   }
+  if (trimmed === '1学期' || trimmed === '１学期' || trimmed.includes('1学期') || trimmed.includes('１学期')) {
+    return '春セメスター';
+  }
   if (trimmed.includes('後期')) {
+    return '秋セメスター';
+  }
+  if (trimmed === '2学期' || trimmed === '２学期' || trimmed.includes('2学期') || trimmed.includes('２学期')) {
     return '秋セメスター';
   }
   if (trimmed.includes('通年')) {
@@ -116,6 +134,33 @@ const extractFaculty = (value) => {
   return fallback ? fallback[0] : trimmed;
 };
 
+const inferLegacyFaculties = (entry) => {
+  const textPool = [
+    entry.sekininBushoNm,
+    entry.gakusokuKamokuNm,
+    entry.kogiNm,
+    entry.fukudai,
+    entry.tantoKyoin,
+  ]
+    .filter((value) => typeof value === 'string')
+    .join(' ');
+
+  const inferred = [];
+  if (/看護/.test(textPool)) {
+    inferred.push('看護学部');
+  }
+  if (/健康栄養/.test(textPool)) {
+    inferred.push('健康栄養学部');
+  }
+  if (/社会福祉/.test(textPool)) {
+    inferred.push('社会福祉学部');
+  }
+  if (/文学/.test(textPool)) {
+    inferred.push('文学部');
+  }
+  return inferred;
+};
+
 const splitInstructors = (value) => {
   if (typeof value !== 'string') {
     return [];
@@ -130,6 +175,10 @@ const toCourse = (entry) => {
   const courseCode = Number(entry.kogiCd);
   const { day, period, schedule } = parseSchedule(entry);
   const faculty = extractFaculty(entry.sekininBushoNm);
+  const legacyFaculties = inferLegacyFaculties(entry);
+  const faculties = [faculty, ...legacyFaculties].filter(
+    (value, index, array) => typeof value === 'string' && value.trim() && array.indexOf(value) === index
+  );
   const instructors = splitInstructors(entry.tantoKyoin || entry.daihyoKyoinNm);
   return {
     course_codes: Number.isFinite(courseCode) ? [courseCode] : [],
@@ -143,7 +192,7 @@ const toCourse = (entry) => {
     campus: typeof entry.kochiNm === 'string' ? entry.kochiNm.trim() : '',
     classroom: entry.kBasho || entry.kBiko1 || '未設定',
     is_online: false,
-    faculties: faculty ? [faculty] : [],
+    faculties,
     url: entry.syllabusUrl || '',
   };
 };
@@ -172,17 +221,34 @@ const normalizeCampus = (value) => {
   return { campuses, hasWildcard };
 };
 
+const expandCampusAliases = (campuses) => {
+  const expanded = [...campuses];
+  for (const campus of campuses) {
+    const group = CAMPUS_ALIAS_GROUPS.find((pair) => pair.includes(campus));
+    if (!group) {
+      continue;
+    }
+    for (const alias of group) {
+      if (!expanded.includes(alias)) {
+        expanded.push(alias);
+      }
+    }
+  }
+  return expanded;
+};
+
 for (const course of data) {
   const faculties = Array.isArray(course.faculties) ? course.faculties : [];
   for (const faculty of faculties) {
     facultySet.add(faculty);
   }
   const { campuses } = normalizeCampus(course.campus);
-  campuses.forEach((campus) => campusSet.add(campus));
+  const expandedCampuses = expandCampusAliases(campuses);
+  expandedCampuses.forEach((campus) => campusSet.add(campus));
 }
 
-const faculties = Array.from(facultySet).sort((a, b) => a.localeCompare(b, 'ja'));
-const campuses = Array.from(campusSet).sort((a, b) => a.localeCompare(b, 'ja'));
+const faculties = REQUIRED_FACULTIES;
+const campuses = REQUIRED_CAMPUSES;
 
 const facultyList = [ALL_FACULTY, ...faculties];
 const campusList = [ALL_CAMPUS, ...campuses];
@@ -209,7 +275,8 @@ const addToAllCampuses = (faculty, course) => {
 
 for (const course of data) {
   const faculties = Array.isArray(course.faculties) ? course.faculties : [];
-  const { campuses: courseCampuses, hasWildcard } = normalizeCampus(course.campus);
+  const { campuses: sourceCampuses, hasWildcard } = normalizeCampus(course.campus);
+  const courseCampuses = expandCampusAliases(sourceCampuses);
 
   for (const faculty of faculties) {
     addToFacultyCampus(faculty, ALL_CAMPUS, course);

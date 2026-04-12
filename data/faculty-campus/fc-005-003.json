@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "course_codes": [
+      11253023
+    ],
+    "course_title": "生活と社会福祉",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "矢吹　知之"
+    ],
+    "credits": 0,
+    "campus": "永国寺キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "大学共通教育科目",
+      "社会福祉学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=11253023&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  }
+]

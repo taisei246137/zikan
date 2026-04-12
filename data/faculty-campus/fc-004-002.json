@@ -1,1 +1,1846 @@
-[]
+[
+  {
+    "course_codes": [
+      50012016
+    ],
+    "course_title": "健康栄養学基礎",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金3",
+    "slots": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "竹本　和仁",
+      "井治　賢希",
+      "杉本　拓海",
+      "山岡　伸"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50012016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50023016
+    ],
+    "course_title": "健康栄養学応用",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "隅田　有公子",
+      "竹本　和仁",
+      "井治　賢希",
+      "杉本　拓海",
+      "山岡　伸"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50023016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50033016
+    ],
+    "course_title": "地域健康論",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "小林　淳"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50033016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50043016
+    ],
+    "course_title": "介護論",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "田中　眞希",
+      "隅田　有公子",
+      "辻　真美",
+      "村井　詩子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50043016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50053016
+    ],
+    "course_title": "食と介護",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金1",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "隅田　有公子",
+      "隅田　有公子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50053016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50062016
+    ],
+    "course_title": "保健医療福祉論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月2",
+    "slots": [
+      {
+        "day": "月",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "田中　きよむ"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50062016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50073016
+    ],
+    "course_title": "地域医療論",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金2",
+    "slots": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "小林　淳"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50073016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50082016
+    ],
+    "course_title": "公衆衛生学",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "小林　淳"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50082016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50093016
+    ],
+    "course_title": "環境衛生学実習",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "小林　淳",
+      "小林　淳"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50093016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50103016
+    ],
+    "course_title": "健康情報論実習",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "村井　詩子",
+      "村井　詩子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50103016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50112016
+    ],
+    "course_title": "生化学Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "小林　淳"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50112016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50123016
+    ],
+    "course_title": "生化学Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "鈴木　麻希子",
+      "竹井　悠一郎",
+      "竹本　和仁",
+      "井治　賢希",
+      "杉本　拓海",
+      "山岡　伸"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50123016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50132016
+    ],
+    "course_title": "生化学実験",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "小林　淳",
+      "小林　淳"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50132016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50142016
+    ],
+    "course_title": "人体の構造と機能Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "三木　研作"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50142016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50153016
+    ],
+    "course_title": "人体の構造と機能Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火4",
+    "slots": [
+      {
+        "day": "火",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "三木　研作"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50153016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50163016
+    ],
+    "course_title": "臨床医科学",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月1",
+    "slots": [
+      {
+        "day": "月",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "三木　研作"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50163016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50172016
+    ],
+    "course_title": "疾病論Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "三木　研作"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50172016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50182016
+    ],
+    "course_title": "疾病論Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金5",
+    "slots": [
+      {
+        "day": "金",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "田村 太朗"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50182016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50193016
+    ],
+    "course_title": "運動生理学",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月5",
+    "slots": [
+      {
+        "day": "月",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "片山　訓博"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50193016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50203016
+    ],
+    "course_title": "生体科学実験・実習",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "三木　研作",
+      "三木　研作"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50203016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50212016
+    ],
+    "course_title": "食品学",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "竹本　和仁"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50212016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50223016
+    ],
+    "course_title": "食品学実験Ⅰ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金4",
+    "slots": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "竹本　和仁",
+      "竹本　和仁"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50223016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50232016
+    ],
+    "course_title": "食品学実験Ⅱ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金4",
+    "slots": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "竹本　和仁",
+      "竹本　和仁"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50232016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50243016
+    ],
+    "course_title": "食材学",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金3",
+    "slots": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "竹本　和仁"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50243016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50253016
+    ],
+    "course_title": "食品の栄養素と機能",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "竹本　和仁"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50253016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50262016
+    ],
+    "course_title": "食品衛生学",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "竹本　和仁"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50262016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50272016
+    ],
+    "course_title": "食品衛生学実験",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "竹本　和仁",
+      "竹本　和仁"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50272016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50282016
+    ],
+    "course_title": "フードシステム学",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "前期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "河野　俊夫"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50282016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50292016
+    ],
+    "course_title": "調理学",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金4",
+    "slots": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "西岡　道子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50292016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50302016
+    ],
+    "course_title": "調理学実習Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "西岡　道子",
+      "西岡　道子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50302016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50313016
+    ],
+    "course_title": "調理学実習Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "西岡　道子",
+      "西岡　道子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50313016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50323016
+    ],
+    "course_title": "調理学実習Ⅲ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "西岡　道子",
+      "西岡　道子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50323016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50332016
+    ],
+    "course_title": "調理科学実験",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "西岡　道子",
+      "西岡　道子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50332016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50343016
+    ],
+    "course_title": "基礎栄養学",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "鈴木　麻希子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50343016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50352016
+    ],
+    "course_title": "基礎栄養学実験",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水4",
+    "slots": [
+      {
+        "day": "水",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "鈴木　麻希子",
+      "鈴木　麻希子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50352016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50362016
+    ],
+    "course_title": "応用栄養学Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金1",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "鈴木　麻希子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50362016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50372016
+    ],
+    "course_title": "応用栄養学Ⅱ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金2",
+    "slots": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "鈴木　麻希子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50372016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50383016
+    ],
+    "course_title": "応用栄養学実習",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金2",
+    "slots": [
+      {
+        "day": "金",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "鈴木　麻希子",
+      "鈴木　麻希子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50383016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50393016
+    ],
+    "course_title": "ライフステージ栄養学",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "鈴木　麻希子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50393016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50403016
+    ],
+    "course_title": "栄養教育論Ⅰ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水1",
+    "slots": [
+      {
+        "day": "水",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "隅田　有公子",
+      "近藤　美樹"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50403016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50412016
+    ],
+    "course_title": "栄養教育論Ⅱ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "水2",
+    "slots": [
+      {
+        "day": "水",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "近藤　美樹"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50412016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50423016
+    ],
+    "course_title": "栄養教育論Ⅲ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "月3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "近藤　美樹"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50423016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50432016
+    ],
+    "course_title": "栄養教育論実習Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火3",
+    "slots": [
+      {
+        "day": "火",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "近藤　美樹",
+      "近藤　美樹"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50432016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50443016
+    ],
+    "course_title": "栄養教育論実習Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "近藤　美樹",
+      "近藤　美樹"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50443016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50452016
+    ],
+    "course_title": "学校栄養指導論Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火5",
+    "slots": [
+      {
+        "day": "火",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "近藤　美樹"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50452016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50463016
+    ],
+    "course_title": "学校栄養指導論Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "水3",
+    "slots": [
+      {
+        "day": "水",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "隅田　有公子",
+      "近藤　美樹"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50463016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50473016
+    ],
+    "course_title": "臨床栄養学Ⅰ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金4",
+    "slots": [
+      {
+        "day": "金",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "竹井　悠一郎"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50473016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50482016
+    ],
+    "course_title": "臨床栄養学Ⅱ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "月3",
+    "slots": [
+      {
+        "day": "月",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "竹井　悠一郎"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50482016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50492016
+    ],
+    "course_title": "臨床栄養学Ⅲ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木4",
+    "slots": [
+      {
+        "day": "木",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "竹井　悠一郎"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50492016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50503016
+    ],
+    "course_title": "臨床実践栄養学",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "金3",
+    "slots": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "竹井　悠一郎",
+      "隅田　有公子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50503016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50512016
+    ],
+    "course_title": "臨床栄養学実習Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "竹井　悠一郎",
+      "竹井　悠一郎"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50512016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50523016
+    ],
+    "course_title": "臨床栄養学実習Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "竹井　悠一郎",
+      "竹井　悠一郎"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50523016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50533016
+    ],
+    "course_title": "公衆栄養学Ⅰ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "木3",
+    "slots": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "村井　詩子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50533016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50542016
+    ],
+    "course_title": "公衆栄養学Ⅱ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木3",
+    "slots": [
+      {
+        "day": "木",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "村井　詩子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50542016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50552016
+    ],
+    "course_title": "地域公衆栄養学実習",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "火1",
+    "slots": [
+      {
+        "day": "火",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "村井　詩子",
+      "村井　詩子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50552016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50562016
+    ],
+    "course_title": "給食経営管理論",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "木1",
+    "slots": [
+      {
+        "day": "木",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "島田　郁子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50562016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50573016
+    ],
+    "course_title": "給食計画論",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "火2",
+    "slots": [
+      {
+        "day": "火",
+        "period": 2
+      }
+    ],
+    "instructors": [
+      "島田　郁子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50573016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50582016
+    ],
+    "course_title": "給食経営管理実習Ⅰ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金1",
+    "slots": [
+      {
+        "day": "金",
+        "period": 1
+      }
+    ],
+    "instructors": [
+      "島田　郁子",
+      "島田　郁子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50582016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50592016
+    ],
+    "course_title": "給食経営管理実習Ⅱ",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "金3",
+    "slots": [
+      {
+        "day": "金",
+        "period": 3
+      }
+    ],
+    "instructors": [
+      "島田　郁子",
+      "島田　郁子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50592016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50601016
+    ],
+    "course_title": "管理栄養士総合演習Ⅰ",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "金5",
+    "slots": [
+      {
+        "day": "金",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "島田　郁子",
+      "竹井　悠一郎",
+      "隅田　有公子",
+      "村井　詩子",
+      "島田　郁子",
+      "竹井　悠一郎",
+      "隅田　有公子",
+      "村井　詩子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50601016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50611016
+    ],
+    "course_title": "管理栄養士総合演習Ⅱ",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "木5",
+    "slots": [
+      {
+        "day": "木",
+        "period": 5
+      }
+    ],
+    "instructors": [
+      "西岡　道子",
+      "島田　郁子",
+      "鈴木　麻希子",
+      "竹井　悠一郎",
+      "隅田　有公子",
+      "小林　淳",
+      "竹本　和仁",
+      "近藤　美樹",
+      "村井　詩子",
+      "未定",
+      "西岡　道子",
+      "島田　郁子",
+      "鈴木　麻希子",
+      "竹井　悠一郎",
+      "隅田　有公子",
+      "小林　淳",
+      "竹本　和仁",
+      "近藤　美樹",
+      "村井　詩子",
+      "未定"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50611016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50622016
+    ],
+    "course_title": "給食経営管理臨地実習",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "前期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "島田　郁子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50622016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50633016
+    ],
+    "course_title": "臨床栄養学臨地実習Ⅰ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "後期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "竹井　悠一郎"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50633016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50643016
+    ],
+    "course_title": "臨床栄養学臨地実習Ⅱ",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "後期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "竹井　悠一郎"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50643016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50652016
+    ],
+    "course_title": "地域公衆栄養学臨地実習",
+    "academic_year": 2026,
+    "term": "春セメスター",
+    "schedule": "前期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "村井　詩子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50652016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50661016
+    ],
+    "course_title": "地域実践栄養学臨地実習",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "通年: 集中講義",
+    "slots": [],
+    "instructors": [
+      "島田　郁子",
+      "竹井　悠一郎",
+      "隅田　有公子",
+      "村井　詩子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50661016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50671016
+    ],
+    "course_title": "健康栄養フィールドワーク",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "通年: 集中講義",
+    "slots": [],
+    "instructors": [
+      "島田　郁子"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50671016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50683016
+    ],
+    "course_title": "HACCP管理論",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "後期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "竹本　和仁"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50683016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50693016
+    ],
+    "course_title": "国際食品安全学",
+    "academic_year": 2026,
+    "term": "秋セメスター",
+    "schedule": "後期: 集中講義",
+    "slots": [],
+    "instructors": [
+      "竹本　和仁",
+      "宮澤　公栄"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50693016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  },
+  {
+    "course_codes": [
+      50701016
+    ],
+    "course_title": "卒業研究",
+    "academic_year": 2026,
+    "term": "通年",
+    "schedule": "月4",
+    "slots": [
+      {
+        "day": "月",
+        "period": 4
+      }
+    ],
+    "instructors": [
+      "健康栄養学部専任教員"
+    ],
+    "credits": 0,
+    "campus": "池キャンパス",
+    "classroom": "未設定",
+    "is_online": false,
+    "faculties": [
+      "健康栄養学部"
+    ],
+    "url": "https://kulas.kochi-u.ac.jp/cpsmart/public/dashboard/main/ja/simple/1900/3000280/wsl/SyllabusSansho?kogiCd=50701016&kaikoNendo=2026&syllabusKomokuPatternId=1"
+  }
+]

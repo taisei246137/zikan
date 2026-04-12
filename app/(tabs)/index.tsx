@@ -94,13 +94,25 @@ const normalizeTermLabel = (value?: string | null): TermOption | '通年' | stri
   if (trimmed === '前期' || trimmed === '春学期' || trimmed === '春') {
     return '春セメスター';
   }
+  if (trimmed === '1学期' || trimmed === '１学期') {
+    return '春セメスター';
+  }
   if (trimmed === '後期' || trimmed === '秋学期' || trimmed === '秋') {
+    return '秋セメスター';
+  }
+  if (trimmed === '2学期' || trimmed === '２学期') {
     return '秋セメスター';
   }
   if (trimmed.includes('前期')) {
     return '春セメスター';
   }
+  if (trimmed.includes('1学期') || trimmed.includes('１学期')) {
+    return '春セメスター';
+  }
   if (trimmed.includes('後期')) {
+    return '秋セメスター';
+  }
+  if (trimmed.includes('2学期') || trimmed.includes('２学期')) {
     return '秋セメスター';
   }
   if (trimmed === '通年') {
@@ -196,6 +208,43 @@ const periodTimes: Record<Period, string> = {
   5: '16:40-18:15',
   6: '18:25-20:00',
   7: '20:10-21:45',
+};
+
+const campusAliasGroups: string[][] = [
+  ['朝倉キャンパス', '永国寺キャンパス'],
+  ['岡豊キャンパス', '池キャンパス'],
+];
+
+const getEquivalentCampuses = (campus: string): string[] => {
+  if (!campus) {
+    return [];
+  }
+  const group = campusAliasGroups.find((pair) => pair.includes(campus));
+  if (!group) {
+    return [campus];
+  }
+  return [...group];
+};
+
+const hasMatchingCampusCourse = (courses: Course[], campus: string): boolean => {
+  if (campus === '全キャンパス') {
+    return courses.length > 0;
+  }
+  const targets = getEquivalentCampuses(campus);
+  return courses.some((course) => {
+    const campusValue = (course.campus ?? '').trim();
+    if (!campusValue) {
+      return false;
+    }
+    if (campusValue === '*') {
+      return true;
+    }
+    const tokens = campusValue.split('/').map((token) => token.trim()).filter(Boolean);
+    if (tokens.length > 0) {
+      return tokens.some((token) => targets.includes(token));
+    }
+    return targets.includes(campusValue);
+  });
 };
 
 const pastelColors = [
@@ -300,7 +349,13 @@ const saveStoredColors = async (key: string, colorMap: Record<string, string>) =
 const loadLocalCourses = (faculty: string, campus: string): Course[] => {
   const facultyMap =
     facultyCampusLoaders[faculty] ?? facultyCampusLoaders['全学部'];
-  const loader = facultyMap?.[campus] ?? facultyMap?.['全キャンパス'];
+  const equivalentCampuses = getEquivalentCampuses(campus);
+  const loader =
+    // Prefer all-campus payload and let UI filter by campus to avoid alias/file mismatch issues.
+    facultyMap?.['全キャンパス'] ??
+    facultyMap?.[campus] ??
+    equivalentCampuses.map((name) => facultyMap?.[name]).find(Boolean) ??
+    facultyMap?.['全キャンパス'];
   if (!loader) {
     return [];
   }
@@ -490,12 +545,26 @@ export default function HomeScreen() {
         const data = await response.json();
         if (Array.isArray(data)) {
           const nextCourses = data as Course[];
-          setCourses(nextCourses);
+          if (nextCourses.length > 0 && hasMatchingCampusCourse(nextCourses, settings.campus)) {
+            setCourses(nextCourses);
+          } else {
+            const fallback = loadLocalCourses(settings.faculty, settings.campus);
+            setCourses(fallback);
+            setError('API結果に必要な授業が含まれないため、ローカルデータを表示しています。');
+          }
         } else if (data && Array.isArray((data as { data: Course[] }).data)) {
           const nextCourses = (data as { data: Course[] }).data;
-          setCourses(nextCourses);
+          if (nextCourses.length > 0 && hasMatchingCampusCourse(nextCourses, settings.campus)) {
+            setCourses(nextCourses);
+          } else {
+            const fallback = loadLocalCourses(settings.faculty, settings.campus);
+            setCourses(fallback);
+            setError('API結果に必要な授業が含まれないため、ローカルデータを表示しています。');
+          }
         } else {
-          setCourses([]);
+          const fallback = loadLocalCourses(settings.faculty, settings.campus);
+          setCourses(fallback);
+          setError('APIレスポンス形式が不正のため、ローカルデータを表示しています。');
         }
       } catch (err) {
         const fallback = loadLocalCourses(settings.faculty, settings.campus);
@@ -701,10 +770,11 @@ export default function HomeScreen() {
         settings.faculty === '全学部' || course.faculties.includes(settings.faculty);
       const campusValue = course.campus ?? '';
       const campusTokens = campusValue.split('/').map((token) => token.trim()).filter(Boolean);
+      const targetCampuses = getEquivalentCampuses(settings.campus);
       const hasCampusMatch =
         campusTokens.length > 0
-          ? campusTokens.includes(settings.campus)
-          : campusValue === settings.campus;
+          ? campusTokens.some((token) => targetCampuses.includes(token))
+          : targetCampuses.includes(campusValue);
       const matchesCampus =
         settings.campus === '全キャンパス' ||
         hasCampusMatch ||
@@ -1293,12 +1363,18 @@ const styles = StyleSheet.create({
     fontWeight: '700',
     color: '#0F172A',
   },
+  termTitleAutumn: {
+    color: '#9A3412',
+  },
 
   termSubtitle: {
     fontSize: 12,
     fontWeight: '600',
     color: '#64748B',
     marginTop: 6,
+  },
+  termSubtitleAutumn: {
+    color: '#C2410C',
   },
  
   selectedCourseCard: {
