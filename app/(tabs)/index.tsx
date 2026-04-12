@@ -379,6 +379,9 @@ export default function HomeScreen() {
   const [selectedColor, setSelectedColor] = useState(pastelColors[0].value);
   const [classroomDraft, setClassroomDraft] = useState('');
   const [creditsDraft, setCreditsDraft] = useState('');
+  const [customTitleDraft, setCustomTitleDraft] = useState('');
+  const [customInstructorDraft, setCustomInstructorDraft] = useState('');
+  const [customError, setCustomError] = useState<string | null>(null);
   const [tableKey, setTableKey] = useState(() =>
     makeTableKey(defaultSettings.term, defaultSettings.academicYear)
   );
@@ -589,6 +592,9 @@ export default function HomeScreen() {
     if (!openCell) {
       setClassroomDraft('');
       setCreditsDraft('');
+      setCustomTitleDraft('');
+      setCustomInstructorDraft('');
+      setCustomError(null);
       return;
     }
     setClassroomDraft(selectedCourse?.classroom ?? '');
@@ -616,7 +622,40 @@ export default function HomeScreen() {
     }));
     setClassroomDraft(course.classroom ?? '');
     setCreditsDraft(Number.isFinite(course.credits) ? String(course.credits) : '');
+    setCustomTitleDraft('');
+    setCustomInstructorDraft('');
+    setCustomError(null);
     setOpenCell(null);
+  };
+
+  const handleCreateCustomCourse = () => {
+    if (!openCell) {
+      return;
+    }
+    const title = customTitleDraft.trim();
+    if (!title) {
+      setCustomError('授業名を入力してください。');
+      return;
+    }
+
+    const instructor = customInstructorDraft.trim();
+    const customCourse: Course = {
+      course_codes: [],
+      course_title: title,
+      academic_year: settings.academicYear,
+      term: settings.term,
+      schedule: `${dayToJp[openCell.day]}${openCell.period}`,
+      slots: [{ day: dayToJp[openCell.day], period: openCell.period }],
+      instructors: instructor ? [instructor] : ['未設定'],
+      credits: 0,
+      campus: settings.campus === '全キャンパス' ? '' : settings.campus,
+      classroom: '未設定',
+      is_online: false,
+      faculties: settings.faculty === '全学部' ? [] : [settings.faculty],
+      url: `custom://${settings.academicYear}/${settings.term}/${openCell.day}-${openCell.period}/${Date.now()}`,
+    };
+
+    handleSelectCourse(customCourse);
   };
 
   const handleClassroomChange = (value: string) => {
@@ -1085,6 +1124,45 @@ export default function HomeScreen() {
               </View>
             ) : null}
 
+            {!selectedCourse ? (
+              <View style={styles.customCourseCard}>
+                <Text style={styles.customCourseTitle}>見つからない授業を手入力</Text>
+                <TextInput
+                  style={styles.customCourseInput}
+                  placeholder="授業名を入力"
+                  placeholderTextColor="#94A3B8"
+                  value={customTitleDraft}
+                  onChangeText={(value) => {
+                    setCustomTitleDraft(value);
+                    if (customError) {
+                      setCustomError(null);
+                    }
+                  }}
+                  autoCorrect={false}
+                  returnKeyType="next"
+                />
+                <TextInput
+                  style={styles.customCourseInput}
+                  placeholder="担当教員（任意）"
+                  placeholderTextColor="#94A3B8"
+                  value={customInstructorDraft}
+                  onChangeText={setCustomInstructorDraft}
+                  autoCorrect={false}
+                  returnKeyType="done"
+                />
+                {customError ? (
+                  <Text style={styles.customCourseError}>{customError}</Text>
+                ) : null}
+                <Pressable
+                  style={styles.customCourseSubmit}
+                  onPress={handleCreateCustomCourse}
+                  hitSlop={hitSlopSmall}
+                >
+                  <Text style={styles.customCourseSubmitText}>この授業を登録</Text>
+                </Pressable>
+              </View>
+            ) : null}
+
             {!selectedCourse && loading ? (
               <View style={styles.stateBox}>
                 <Text style={styles.stateText}>読み込み中...</Text>
@@ -1174,6 +1252,12 @@ export default function HomeScreen() {
             </View>
 
             <ScrollView style={styles.settingsScroll} contentContainerStyle={styles.settingsBody}>
+              <View style={styles.notice}>
+                <Text style={styles.noticeText}>
+                  事務室登録の授業はございません。申し訳ないです。
+                </Text>
+              </View>
+
               <View style={styles.totalCreditsCard}>
                 <Text style={styles.totalCreditsLabel}>現在の合計単位</Text>
                 <Text style={styles.totalCreditsValue}>{totalCredits}単位</Text>
@@ -1827,6 +1911,45 @@ const styles = StyleSheet.create({
   },
   registerChipText: {
     fontSize: 11,
+    fontWeight: '700',
+    color: '#FFFFFF',
+  },
+  customCourseCard: {
+    backgroundColor: '#EFF6FF',
+    borderRadius: 14,
+    padding: 12,
+    marginBottom: 10,
+    borderWidth: 1,
+    borderColor: '#BFDBFE',
+    gap: 8,
+  },
+  customCourseTitle: {
+    fontSize: 12,
+    fontWeight: '700',
+    color: '#1E3A8A',
+  },
+  customCourseInput: {
+    borderWidth: 1,
+    borderColor: '#BFDBFE',
+    borderRadius: 12,
+    paddingHorizontal: 12,
+    paddingVertical: 8,
+    fontSize: 13,
+    color: '#0F172A',
+    backgroundColor: '#FFFFFF',
+  },
+  customCourseError: {
+    fontSize: 12,
+    color: '#BE123C',
+  },
+  customCourseSubmit: {
+    backgroundColor: '#2563EB',
+    borderRadius: 12,
+    paddingVertical: 10,
+    alignItems: 'center',
+  },
+  customCourseSubmitText: {
+    fontSize: 12,
     fontWeight: '700',
     color: '#FFFFFF',
   },
